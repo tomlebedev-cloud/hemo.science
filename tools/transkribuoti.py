@@ -41,6 +41,7 @@ def main():
     ap.add_argument('--modelis', default='large-v3-turbo')
     ap.add_argument('--nr', nargs='*', type=int, help='tik šie pranešimų numeriai')
     ap.add_argument('--nuo-trumpiausio', action='store_true')
+    ap.add_argument('--praleisti', nargs='*', type=int, default=[], help='šių numerių netranskribuoti')
     ap.add_argument('--greitas', action='store_true',
                     help='beam_size=1 ir paketinis apdorojimas – greičiau, šiek tiek prasčiau')
     ap.add_argument('--paketas', type=int, default=8, help='paketo dydis su --greitas')
@@ -49,6 +50,8 @@ def main():
     folders = [f for f in sorted(OUT.iterdir()) if f.is_dir() and (f / 'garsas.mp3').exists()]
     if args.nr:
         folders = [f for f in folders if int(f.name[:2]) in args.nr]
+    if args.praleisti:
+        folders = [f for f in folders if int(f.name[:2]) not in args.praleisti]
     folders = [f for f in folders if not (f / 'transkripcija.txt').exists()]
     if args.nuo_trumpiausio:
         folders.sort(key=lambda f: (f / 'garsas.mp3').stat().st_size)
