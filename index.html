@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="lt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>hemo.science — prof. dr. Juliaus Ptašeko pranešimai</title>
+  <meta name="description" content="Prof. dr. Juliaus Ptašeko pranešimų archyvas: hemostazė, krešėjimo sistemos biožymenys, venų tromboembolija, antikoaguliantų ir antiagregantų terapijos kontrolė.">
+  <meta name="theme-color" content="#7a1f2b">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <meta property="og:title" content="hemo.science">
+  <meta property="og:description" content="Prof. dr. Juliaus Ptašeko pranešimai apie hemostazę, krešėjimo sistemą ir antitrombozinį gydymą.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="lt_LT">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip" href="#sarasas">Pereiti prie pranešimų</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="brand" href="./" aria-label="hemo.science pradžia">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3c-5 7-9 11.5-9 16.5a9 9 0 0 0 18 0C25 14.5 21 10 16 3Z"/><path class="brand-line" d="M11 20.5h3l1.5-3 2 6 1.5-3h2"/></svg>
+        <span>hemo<span class="dot">.</span>science</span>
+      </a>
+      <nav class="header-nav" aria-label="Pagrindinė navigacija">
+        <a href="#sarasas">Pranešimai</a>
+        <a href="#apie">Apie</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">Pranešimų archyvas</p>
+        <h1>Hemostazė, krešėjimas ir antitrombozinis gydymas</h1>
+        <p class="lead">Prof. dr. Juliaus Ptašeko pranešimai gydytojams ir laboratorijų specialistams nuo 2021 metų: krešėjimo sistemos biožymenys, venų tromboembolija, antikoaguliantų ir antiagregantų terapijos kontrolė.</p>
+        <dl class="stats" id="stats" aria-live="polite">
+          <div><dt>Pranešimai</dt><dd data-stat="count">40</dd></div>
+          <div><dt>Įrašų valandos</dt><dd data-stat="hours">32</dd></div>
+          <div><dt>Temos</dt><dd data-stat="topics">11</dd></div>
+          <div><dt>Kalbos</dt><dd data-stat="langs">4</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <section class="catalog" id="sarasas" aria-labelledby="sarasas-h">
+      <div class="wrap">
+        <div class="catalog-head">
+          <h2 id="sarasas-h">Pranešimai</h2>
+          <p class="result-count" id="result-count" aria-live="polite"></p>
+        </div>
+
+        <div class="toolbar">
+          <label class="search">
+            <span class="visually-hidden">Ieškoti pranešimų</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+            <input id="q" type="search" placeholder="Ieškoti pagal temą, pvz. D-dimerai" autocomplete="off">
+          </label>
+          <label class="select">
+            <span class="visually-hidden">Kalba</span>
+            <select id="lang">
+              <option value="">Visos kalbos</option>
+              <option value="lt">Lietuvių</option>
+              <option value="en">Anglų</option>
+              <option value="ru">Rusų</option>
+              <option value="uk">Ukrainiečių</option>
+            </select>
+          </label>
+          <label class="check">
+            <input id="only-video" type="checkbox">
+            <span>Tik su vaizdo įrašu</span>
+          </label>
+        </div>
+
+        <div class="chips" id="chips" role="group" aria-label="Temos"></div>
+
+        <div id="list" class="list"></div>
+        <p class="empty" id="empty" hidden>Pagal šiuos filtrus pranešimų nerasta. <button type="button" class="link-btn" id="reset">Išvalyti filtrus</button></p>
+      </div>
+    </section>
+
+    <section class="about" id="apie" aria-labelledby="apie-h">
+      <div class="wrap about-grid">
+        <div>
+          <h2 id="apie-h">Apie archyvą</h2>
+          <p>Čia surinkti prof. dr. Juliaus Ptašeko pranešimai, skaityti konferencijose, seminaruose ir nuotoliniuose mokymuose Lietuvoje ir užsienyje. Dauguma skaityti lietuviškai, dalis angliškai, rusiškai ir ukrainietiškai.</p>
+          <p>Prie kiekvieno pranešimo nurodyta skaitymo kalba ir trukmė. Konferencijų „Trombozės dienos“ įrašuose kalba keli pranešėjai.</p>
+        </div>
+        <div class="about-note">
+          <h3>Pastaba</h3>
+          <p>Pranešimai skirti sveikatos priežiūros specialistams ir yra edukacinio pobūdžio. Jie neatstoja klinikinių gairių ir individualios gydytojo konsultacijos.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-row">
+      <span>hemo<span class="dot">.</span>science</span>
+      <span>Prof. dr. Juliaus Ptašeko pranešimai</span>
+    </div>
+  </footer>
+
+  <dialog class="player" id="player" aria-labelledby="player-title">
+    <div class="player-inner">
+      <div class="player-head">
+        <h3 id="player-title"></h3>
+        <button type="button" class="icon-btn" id="player-close" aria-label="Uždaryti">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+        </button>
+      </div>
+      <div class="player-frame" id="player-frame"></div>
+      <p class="player-meta" id="player-meta"></p>
+    </div>
+  </dialog>
+
+  <noscript><p class="wrap">Pranešimų sąrašui rodyti reikia įjungti JavaScript.</p></noscript>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
