@@ -28,7 +28,8 @@ D-dimerai diagnozės nepatvirtina. Jie atmeta įtarimą arba seka eigą [[14@11:
 ## Ne visi tyrimai vienodi
 
 - Atmetimui tinka tik **aukšto specifiškumo** D-dimerų tyrimas — ne mažiau 70–75 %. Senesni tyrimai turėjo apie 50 % specifiškumą [[2@3:54]] [[15@16:57]].
-- 2025 m. nacionalinėse gairėse įrašytas reikalavimas: specifiškumas ne mažesnis kaip 70 % [[27@4:06]].
+- 2025 m. nacionalinėse gairėse įrašytas reikalavimas: kiekybinis imunocheminis metodas, didelė neigiama prognostinė vertė, specifiškumas ne mažesnis kaip 70 % [[27@4:06]] [[22@3:33:21]].
+- Skirtingais metodais gauti D-dimerų rezultatai tarpusavyje nelyginami [[22@3:33:21]].
 - Aukšto specifiškumo tyrimai duoda maždaug 2–3 kartus mažiau klaidingai teigiamų rezultatų [[35@5:06]].
 - Greitieji (kokybiniai) testai trombozei atmesti netinka [[2@3:54]].
 
@@ -37,11 +38,11 @@ D-dimerai diagnozės nepatvirtina. Jie atmeta įtarimą arba seka eigą [[14@11:
 | Situacija | Riba | Šaltinis |
 |---|---|---|
 | Įtarimo atmetimas | mažiau 500 ng/ml (0,5 mg/l) | [[5@19:21]] [[14@11:53]] |
-| Vyresni nei 65 metų | riba didinama su amžiumi | [[35@8:28]] [[7]] |
+| Vyresni nei 50 metų (nacionalinės gairės) | amžius × 10 µg/l FEU | [[22@3:33:21]] |
 | Priešoperacinė trombozės rizika | daugiau 2000 ng/ml | [[15@15:16]] [[25@16:21]] |
 | Onkologinis pacientas | daugiau 3000 ng/ml — svarstoma sustiprinta profilaktika | [[4@32:11]] |
 
-> Amžiui pritaikytos ribos skirtinguose pranešimuose nurodytos nevienodai: viename — +100 ng/ml kas 10 metų nuo 65 m., kitame — 650–1500 ng/ml vyresniems. Prieš taikant verta pasitikrinti laboratorijos naudojamą algoritmą.
+> Nacionalinių gairių laboratorinėje dalyje nurodyta: jaunesniems nei 50 metų — fiksuota riba, vyresniems — amžius × 10 (µg/l FEU) [[22@3:33:21]]. Ankstesniuose pranešimuose amžiaus pataisa skambėjo kitaip [[35@8:28]] [[7]], todėl remtis gairėmis ir laboratorijos algoritmu.
 
 ## Gydymo sekimas
 
@@ -55,6 +56,12 @@ D-dimerai diagnozės nepatvirtina. Jie atmeta įtarimą arba seka eigą [[14@11:
 
 - **Nėštumas.** D-dimerai didėja dėl placentos kraujotakos nepriklausomai nuo trombozės, todėl atmetimo riba ir Wells skalė netaikomos. Nėščiosioms naudojami fibrino monomerai [[12@4:32]] [[35@16:40]]. Žr. gidą „Fibrino monomerai ir nėštumas“.
 - **Vyresnis amžius.** D-dimerai su amžiumi didėja savaime, nes aktyvėja fibrinolizė; be amžiaus pataisos daugėja klaidingai teigiamų [[35@9:53]].
+
+## Preanalitika
+
+- Bet kokios kilmės hemolizė D-dimerų rezultatą klaidingai padidina [[34@3:54:13]].
+- Ilgiau nei 1 min. užveržtas turniketas didina fibrinogeno ir D-dimerų vertes [[34@3:45:57]].
+- Vaikams D-dimerai nepatikimi: jie būna normalūs iki 15 % PATE atvejų, todėl nenaudojami nei atmesti, nei patvirtinti [[34@1:06:56]].
 
 ## D-dimerai kaip prognozės žymuo
 

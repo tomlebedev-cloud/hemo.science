@@ -9,7 +9,7 @@
    "end": 104,
    "part": null,
    "bullets": [
-    "Didelė dalis mirčių po politraumos būtų išvengiama — tiek karinėje, tiek civilinėje aplinkoje.",
+    "Nekontroliuojamas kraujavimas lemia daugiau kaip 25 % mirčių dėl sužalojimų ir iki 70–80 % išvengiamų mirčių — tiek karinėje, tiek civilinėje aplinkoje.",
     "Galutinė grėsmė — daugybinis organų nepakankamumas, vedantis į blogą išeitį."
    ]
   },
@@ -19,7 +19,8 @@
    "end": null,
    "part": null,
    "bullets": [
-    "Kraujavimas, acidozė ir koagulopatija — žinoma apie 40 metų. Hipotermija ir audinių pažaida situaciją dar pablogina."
+    "Kraujavimas, acidozė ir koagulopatija — žinoma daugiau kaip 40 metų. Šokas, hipotermija ir audinių pažaida situaciją dar pablogina, o pati operacija yra papildomas krūvis hemostazei.",
+    "Organizmo audinių pažaidos ir išoriniai veiksniai (atviros žaizdos, infekcija, endotoksinai, žarnyno išemija) sukelia sisteminį uždegiminį atsaką, kuris veda į daugybinį organų nepakankamumą."
    ]
   },
   {
@@ -56,7 +57,8 @@
     "Labai didelės rizikos grupėje rekomenduojami ir atskiri VIII, IX, XI faktorių tyrimai.",
     "Mažos rizikos grupėje protrombino laiko nereikia — jis skirtas kepenų rezervui ir VII faktoriui.",
     "Kai kurios šiuolaikinės laboratorijų platformos jau pateikia gydytojui automatines rekomendacijas pagal ribines reikšmes.",
-    "Trombozės rizikos vertinime tyrimų daugiau: prisideda fibrino monomerai, D-dimerai ir trombofilijos žymenys. Minima D-dimerų riba — 2000 ng/ml."
+    "Trombozės rizikos vertinime tyrimų daugiau: prisideda fibrino monomerai, D-dimerai ir trombofilijos žymenys.",
+    "Mažos trombozės rizikos grupėje: D-dimerai mažiau 500 ng/ml ir geri krešėjimo rodmenys — žalia šviesa; D-dimerai daugiau 2000 ng/ml ar labai aukštas fibrinogenas (hiperkoaguliacija) — rekomenduojama operaciją atidėti."
    ]
   },
   {
@@ -86,6 +88,7 @@
     "PCS geltonas — reikia trombocitų.",
     "FCS geltonas — reikia fibrinogeno.",
     "CSL geltonas — hiperfibrinolizė, reikia traneksamo rūgšties.",
+    "Po maždaug 30 minučių mokymo 97 % ligoninės gydytojų žino, ką daryti pagal rezultatą.",
     "Antra kasetė skirta kardiochirurgijai, kepenų transplantacijai ir ECMO su intensyvia heparinizacija. CTR santykis daugiau 1,4 rodo, kad pirmiausia reikia protamino.",
     "Tas pats metodas parodo ir hiperkoaguliaciją priešoperaciniame skriningo etape."
    ]
@@ -117,8 +120,16 @@
     "apie 80 %"
    ],
    [
-    "D-dimerai, trombozės rizika",
-    "2000 ng/ml"
+    "D-dimerai, mažos rizikos grupė",
+    "&lt; 500 ng/ml — galima operuoti"
+   ],
+   [
+    "D-dimerai, atidėti operaciją",
+    "&gt; 2000 ng/ml"
+   ],
+   [
+    "Nekontroliuojamas kraujavimas",
+    "&gt; 25 % mirčių dėl sužalojimų; iki 70–80 % išvengiamų mirčių"
    ],
    [
     "DIK diagnozė",

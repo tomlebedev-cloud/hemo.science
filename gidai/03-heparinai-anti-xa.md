@@ -7,7 +7,10 @@ perziureta: ne
 ---
 ## Pagrindinė taisyklė
 
-Heparinų poveikis vertinamas **anti-Xa** aktyvumu. Taip įrašyta ir 2025 m. nacionalinėse jungtinėse antitrombozinio gydymo gairėse [[27@4:06]] [[35@16:40]]. aPTT gali būti pirminis testas, bet sprendimams jo nepakanka [[25@6:14]].
+Heparinų poveikis vertinamas **anti-Xa** aktyvumu, kalibruotu konkrečiam heparinui. Taip įrašyta ir 2025 m. nacionalinėse jungtinėse antitrombozinio gydymo gairėse [[27@4:06]] [[35@16:40]] [[22@3:15:10]]. aPTT gali būti pirminis testas, bet sprendimams jo nepakanka [[25@6:14]].
+
+- Nefrakcionuotas heparinas veikia ir IIa, ir Xa faktorių, MMMH — daugiausia Xa. Todėl aPTT gali atspindėti nefrakcionuoto heparino poveikį, bet MMMH stebėti netinka [[22@3:55:59]].
+- Anti-Xa iš karto (ne aPTT) — didelės apimties operacijų, hemodiliucijos, transfuzijų, masyvaus kraujavimo, patvirtintos trombofilijos ir gydymo nesėkmės atvejais [[22@3:15:10]].
 
 ## Kodėl aPTT nepatikimas
 
@@ -28,12 +31,15 @@ Heparinų poveikis vertinamas **anti-Xa** aktyvumu. Taip įrašyta ir 2025 m. na
 | Profilaktika nėštumo metu | mažiau 0,3 TV/ml | [[32]] |
 | MMMH gydant trombozę | apie 0,4–0,7 TV/ml | [[16]] |
 | Enoksaparinas | apie 1,0 TV/ml | [[4]] |
-| Inkstų dializė | apie 0,3 (ACT iki 200 s) | [[35@16:40]] |
-| Dirbtinė kraujo apytaka | apie 4,5 TV/ml (ACT iki 400 s) | [[35@16:40]] |
+| MMMH ~4 val. po injekcijos | profilaktika 0,2–0,4; gydymas 0,6–2 (pagal dozių skaičių per parą) | [[22@3:19:07]] |
+
+Prie paciento lovos naudojamas aktyvuoto krešėjimo laikas (ACT): dializė 120–200 s, koronarinė angiografija ir PKI 250–350 s, dirbtinė kraujo apytaka daugiau 400 s [[22@3:15:10]] [[35@16:40]].
 
 Kiekviena mažos molekulinės masės heparino komercinė forma turi savo anti-Xa intervalą — jį reikia žinoti konkrečiam preparatui [[35@16:40]] [[4]].
 
 ## Kada anti-Xa matuoti būtinai
+
+MMMH įprastai nestebimi, bet nacionalinėse gairėse išvardyti atvejai, kai stebėti reikia: vyresni nei 85 m., GFG mažiau 50, dializė, naujagimiai ir vaikai, nėštumas, svorio kraštutinumai, kraujavimas ar didelė jo rizika, vartojimas ilgiau nei mėnesį [[22@3:19:07]].
 
 - Sutrikę eliminacijos ar metabolizmo keliai, pvz., kepenų pažaida: standartinė dozė gali veikti per stipriai arba, esant antitrombino III stygiui, per silpnai [[35@16:40]] [[7@32:16]].
 - Labai didelis svoris. Pranešime aptartas atvejis — ~140–150 kg pacientas, nadroparinas pagal gaires, o anti-Xa tik apie 0,06 [[11@23:22]].
@@ -46,7 +52,7 @@ Kiekviena mažos molekulinės masės heparino komercinė forma turi savo anti-Xa
 
 ## Antitrombinas III
 
-Heparinas veikia per antitrombiną III, todėl jo stygius mažina heparino poveikį [[32@8:51]]. Siekiama apie 70 % aktyvumo; mažiau 70 % — problema [[1]] [[3]].
+Heparinas veikia per antitrombiną III, todėl jo stygius mažina heparino poveikį [[32@8:51]]; antitrombino tyrimas turėtų būti prieinamas visą parą [[22@3:55:59]]. Siekiama apie 70 % aktyvumo; mažiau 70 % — problema [[1]] [[3]].
 
 ## Heparino sukelta trombocitopenija (HIT)
 
@@ -61,5 +67,7 @@ Heparinas veikia per antitrombiną III, todėl jo stygius mažina heparino povei
 | Nefrakcionuotas heparinas | aPTT mažiau 55 s; anti-Xa mažiau 0,2–0,4 | [[3@31:47]] [[28@13:30]] |
 | MMMH | anti-Xa mažiau 0,2–0,4 TV/ml | [[3@31:47]] [[25@20:04]] [[28@13:30]] |
 | Fondaparinuksas | mažiau 0,1 µg/ml | [[3@31:47]] [[28@13:30]] |
+
+aPTT nefrakcionuoto heparino kontrolei reikia ištirti per ~1 val. nuo kraujo paėmimo — per valandą aPTT pailgėja ~20 % [[34@4:04:33]].
 
 Kraują liekamajam poveikiui vertinti imti ne anksčiau kaip praėjus 12 val. po nefrakcionuoto heparino ir 24–72 val. po MMMH [[28@15:20]].

@@ -1,0 +1,553 @@
+{
+ "summary": [
+  "Pirmoji tarptautinė „Trombozės dienų“ konferencija, kurios tema — klinikinių sprendimų palaikymo sistemos (CDS) ir dirbtinis intelektas laboratorinėje ir klinikinėje medicinoje. Pirmoje dalyje kalbama apie CDS inkstų ligų stebėsenoje, laboratorijoje ir vidaus ligų praktikoje bei apie kraujavimo stabdymą. Antroje — apie 2025 m. nacionalinių antitrombozinio gydymo gairių laboratorinę dalį, perioperacinį krešėjimo vertinimą, kraujavimą širdies chirurgijoje, ligoninės algoritmus antikoaguliantų ir antiagregantų kontrolei ir apie CDS heparino sukeltos trombocitopenijos diagnostikoje."
+ ],
+ "sections": [
+  {
+   "title": "Kodėl tema — dirbtinis intelektas",
+   "start": 1537,
+   "end": 1721,
+   "part": "Atidarymas — prof. dr. Julius Ptašekas",
+   "bullets": [
+    "Konferencijų tematika gimsta iš klinikinės praktikos, neatsiejamos nuo laboratorinės.",
+    "Dirbtinis intelektas gali būti didelė pagalba, bet reikia matyti jos ribas. Klinikose CDS vertinamos palankiai, tačiau praktikoje tenka keisti skyriaus rutiną, o tai nėra paprasta.",
+    "Konferencijose aptariamas progresas yra tik trigeris — jis turi nusėsti į institucinį protokolą."
+   ]
+  },
+  {
+   "title": "Du rodikliai, abu būtini",
+   "start": 1829,
+   "end": 2065,
+   "part": "Prof. Marius Miglinas — klinikinių sprendimų palaikymas inkstų ligų stebėsenoje",
+   "bullets": [
+    "Lėtinė inkstų liga pradinėse stadijose besimptomė ir nustatoma tik laboratoriškai, todėl dažnai pavėluotai.",
+    "Reikia abiejų rodiklių: glomerulų filtracijos greičio (filtracija) ir albuminurijos (pažeidimas). Kartu jie sinergiškai didina kardiovaskulinių įvykių, mirties ir inkstų ligos progresavimo riziką.",
+    "Kreatinino klirensas nėra tas pats, kas glomerulų filtracijos greitis: klirensas naudojamas vaistų dozavimui ir gali viršyti GFG iki penktadalio, nes kreatininas dar sekretuojamas kanalėliuose.",
+    "Albuminurijai nebereikia rinkti paros šlapimo — pakanka rytinio šlapimo albumino ir kreatinino santykio."
+   ]
+  },
+  {
+   "title": "Klinikinė realybė Lietuvoje ir Estijoje",
+   "start": 2112,
+   "end": 2301,
+   "part": "Prof. Marius Miglinas — klinikinių sprendimų palaikymas inkstų ligų stebėsenoje",
+   "bullets": [
+    "Šeimos gydytojams diegta įspėjimų programa: beveik 2000 gydytojų, daugiau kaip 500 pirminės sveikatos priežiūros centrų, apie 50 000 įspėjimų. Nefrologui nusiųstas tik kas penktas pacientas, o liga dažniausiai diagnozuota jau 3–4 stadijos.",
+    "Estijos duomenimis, beveik 40 % suaugusiųjų turi lėtinės inkstų ligos riziką, tačiau užkoduota liga tik mažai daliai.",
+    "Dabar yra ligos eigą lėtinančių vaistų (SGLT2 inhibitoriai, mineralokortikoidų receptorių antagonistai, GLP-1 receptorių agonistai), todėl nediagnozuota liga reiškia prarastą galimybę gydyti."
+   ]
+  },
+  {
+   "title": "Ką gali CDS",
+   "start": 2438,
+   "end": 2993,
+   "part": "Prof. Marius Miglinas — klinikinių sprendimų palaikymas inkstų ligų stebėsenoje",
+   "bullets": [
+    "Principas „penki T“: tinkama informacija, tinkamiems žmonėms, tinkamais kanalais, tinkamiems pacientams, tinkamiems sprendimams.",
+    "Nauda: ankstesnė diagnozė ir stadijavimas, vaistų dozavimo ir sąveikų įspėjimai (pacientas su lėtine inkstų liga vidutiniškai vartoja apie dešimt skirtingų klasių vaistų), mažiau dubliuojamų tyrimų, greitesni sprendimai.",
+    "Rizika — įspėjimų nuovargis (alert fatigue), todėl sistemos turi būti intuityvios.",
+    "Vokietijos nefrologų apklausa: CDS naudoja 20 %, norėtų naudoti 80 %."
+   ]
+  },
+  {
+   "title": "Diskusija: inkstų liga ir trombozė",
+   "start": 3025,
+   "end": 3199,
+   "part": "Prof. Marius Miglinas — klinikinių sprendimų palaikymas inkstų ligų stebėsenoje",
+   "bullets": [
+    "Sunkėjant lėtinės inkstų ligos stadijai didėja ir trombozės, ir kraujavimo rizika.",
+    "CDS galėtų padėti spręsti dėl antikoaguliacijos, pvz., automatiškai skaičiuojant CHA₂DS₂-VASc (esant 2 ir daugiau balų — antikoaguliuoti). Dializuojamiems pacientams su prieširdžių virpėjimu gairės tvirtų teiginių neturi."
+   ]
+  },
+  {
+   "title": "Laboratorijos vieta sveikatos priežiūroje",
+   "start": 3456,
+   "end": 3842,
+   "part": "Prof. Dunja Rogić (Zagrebo universitetinės ligoninės centras) — CDS diegimas laboratorijoje",
+   "bullets": [
+    "Laboratorija sudaro mažą išlaidų dalį (JAV duomenimis — apie 2,6 %), tačiau jos duomenys lemia bent du trečdalius tolesnių sprendimų.",
+    "Gydytojas atsakymą skaito vidutiniškai apie 9 sekundes, o vienas kraujo paėmimas duoda 50–60 skaičių. Laboratorijos konsultacijomis naudojamasi retai („konsultacijų spraga“)."
+   ]
+  },
+  {
+   "title": "Per daug tyrimų",
+   "start": 3842,
+   "end": 3980,
+   "part": "Prof. Dunja Rogić (Zagrebo universitetinės ligoninės centras) — CDS diegimas laboratorijoje",
+   "bullets": [
+    "Vitamino D tyrimų skaičius 2019–2024 m. išaugo penkis kartus, nors Europos endokrinologų gairės rekomenduoja jo rutiniškai netirti.",
+    "Rankiniai komentarai dideliame sraute neįmanomi ir nevienodi, todėl vienintelis kelias — CDS taisyklės."
+   ]
+  },
+  {
+   "title": "Algoritmai pagal vieną kraujo paėmimą",
+   "start": 4097,
+   "end": 4444,
+   "part": "Prof. Dunja Rogić (Zagrebo universitetinės ligoninės centras) — CDS diegimas laboratorijoje",
+   "bullets": [
+    "Mikrocitinė anemija su normaliu feritinu → iš to paties mėgintuvėlio hemoglobino elektroforezė (talasemija).",
+    "Didelis CRB ir mažas geležies kiekis → komentaras: tikriausiai ne geležies stoka; pirmiausia gydyti uždegimą, feritino dabar netirti.",
+    "Makrocitinė anemija → B12 ir folio rūgštis, papildomai GGT ir CDT; esant padidėjimui — komentaras apie galimą ksenobiotikų vartojimą.",
+    "<strong>Izoliuotai pailgėjęs aPTT</strong> vaikui prieš tonzilektomiją: atmetus vaistus ir preanalitines klaidas atliekamas maišymo mėginys. Jei randamas inhibitorius (dažniausiai laikinas vilkligės antikoaguliantas po infekcijos), išsamus krešėjimo ištyrimas nereikalingas."
+   ]
+  },
+  {
+   "title": "Kliūtys",
+   "start": 4444,
+   "end": 4607,
+   "part": "Prof. Dunja Rogić (Zagrebo universitetinės ligoninės centras) — CDS diegimas laboratorijoje",
+   "bullets": [
+    "Sunkiausia suderinti CDS tiekėją, ligoninės IT ir LIS/HIS tiekėją. 2024 m. vasarą ligoninę ištiko kibernetinė ataka — IT sistemos neveikė tris dienas.",
+    "Algoritmai kurti kartu su hematologais — tai laikoma priėmimo sąlyga."
+   ]
+  },
+  {
+   "title": "Diskusija: padidėjęs CRB",
+   "start": 4685,
+   "end": 4906,
+   "part": "Prof. Dunja Rogić (Zagrebo universitetinės ligoninės centras) — CDS diegimas laboratorijoje",
+   "bullets": [
+    "Nedidelis CRB padidėjimas daug nereiškia; norma iki 5 per griežta.",
+    "Prof. R. Likić: esant padidėjusiam CRB tirti prokalcitoniną; jei jis normalus — antimikrobinį gydymą nutraukti.",
+    "Lietuvių kolegos pastaba: dažna užsilaikančio CRB ir leukocitozės priežastis — palikti intraveniniai kateteriai."
+   ]
+  },
+  {
+   "title": "Vaistų klaidos ir keturios strategijos",
+   "start": 4946,
+   "end": 5468,
+   "part": "Prof. Robert Likić (Zagrebas, klinikinė farmakologija) — CDS vidaus ligų praktikoje",
+   "bullets": [
+    "Klaidos skirstomos į planavimo (žinių ar taisyklių stoka) ir vykdymo (paslydimai ir praleidimai).",
+    "Kokybei gerinti: tobulinti sistemą, diegti CDS, įtraukti pacientus ir mokyti gydytojus. Pavyzdys — Mičigano universitetas: slaugytoja kas savaitę skambina po hospitalizacijos dėl širdies nepakankamumo ir klausia apie svorio pokytį."
+   ]
+  },
+  {
+   "title": "CDS praktikoje",
+   "start": 5468,
+   "end": 6293,
+   "part": "Prof. Robert Likić (Zagrebas, klinikinė farmakologija) — CDS vidaus ligų praktikoje",
+   "bullets": [
+    "CDS būna žiniomis grįstos, mašininio mokymosi arba mišrios; būtina integracija su elektronine sveikatos istorija.",
+    "Atvejis: skerdikas su odos pažeidimu — įtarta odos juodligė; vartojant varfariną sistema įspėjo apie sąveiką su ciprofloksacinu ir nurodė 60 dienų gydymo trukmę.",
+    "Atvejis: lėtinio skausmo pacientui kalbos modelis pasiūlė gilią transkranijinę magnetinę stimuliaciją, apie kurią gydytojas pats nebūtų pagalvojęs.",
+    "Atsakomybė lieka gydytojui — jis gali nesutikti su sistemos patarimu."
+   ]
+  },
+  {
+   "title": "Stabdyti reikia, bet priemones rinktis",
+   "start": 6562,
+   "end": 7490,
+   "part": "Prof. Andrius Macas (LSMU Kauno klinikos) — ar kraujavimą visada stabdyti „čia ir dabar“",
+   "bullets": [
+    "Aortos disekacijos atveju D-dimerai būna itin aukšti, gerokai didesni nei plaučių arterijos embolijos atveju.",
+    "Traumos atveju dažniausia mirties priežastis — galvos trauma, antra — kraujavimas.",
+    "Atvejis: kepenų rezekcija pacientui, kurio tiesioginio geriamojo antikoagulianto poveikis dar nebuvo pasibaigęs, o anksti pridėtas MMMH — keturios operacijos dėl kraujavimo.",
+    "Principas, perfrazuojant P. Ehrlichą: smūgiuok stipriai, greitai ir anksti sustok."
+   ]
+  },
+  {
+   "title": "Priemonės",
+   "start": 7490,
+   "end": 8258,
+   "part": "Prof. Andrius Macas (LSMU Kauno klinikos) — ar kraujavimą visada stabdyti „čia ir dabar“",
+   "bullets": [
+    "Pirmiausia — mechaninis kraujavimo stabdymas. Eritrocitų masė kraujavimo nestabdo — ji skiriama deguonies pernašai.",
+    "<strong>Kalcis:</strong> daugiau kaip 50 % traumą patyrusių pacientų prieš transfuziją turi hipokalcemiją; masyvaus kraujavimo protokoluose kalcio gliukonatas yra esminis.",
+    "<strong>Vitaminas K:</strong> dozės labai skiriasi (kardiologai ~2,5 mg, anesteziologai iki 30 mg) — dozė aptariama kiekvienu atveju.",
+    "<strong>Šviežiai šaldyta plazma</strong> dažnai neefektyvi, ypač perdozavus tiesioginius geriamuosius antikoaguliantus, bet naudinga kaip natūralus koloidas masyvaus kraujavimo metu.",
+    "<strong>Traneksamo rūgštis:</strong> 2024 m. duomenimis, skiriama be aptarimo su chirurgu didina chirurginių komplikacijų, dėl kurių reikia pakartotinės operacijos, dažnį; kai kuriais atvejais kraujavimo skirtumo nebuvo.",
+    "<strong>Desmopresinas</strong> — esant trombocitų disfunkcijai; stebėti natrį.",
+    "<strong>Protrombino komplekso koncentratas</strong> leidžia greitai atstatyti vitamino K antagonistų poveikį; <strong>fibrinogenas</strong> naudingas, bet kartais piktnaudžiaujama. Lietuvoje abu kompensuojami.",
+    "Andeksanetas susijęs su vėlesnių trombozių rizika.",
+    "Kraujavimo valdymas — komandinis sprendimas."
+   ]
+  },
+  {
+   "title": "Diskusija: algoritmai ir DI",
+   "start": 8304,
+   "end": 8519,
+   "part": "Prof. Andrius Macas (LSMU Kauno klinikos) — ar kraujavimą visada stabdyti „čia ir dabar“",
+   "bullets": [
+    "Algoritmai būtini mokantis, vėliau reikia kritinio mąstymo: patyręs specialistas galvoja keliais žingsniais į priekį, pvz., ar per daug sustabdžius kraujavimą neišsivystys trombozė.",
+    "DI kaip asistentas, interpretuojantis kraujo dujų ar viskoelastinių tyrimų rezultatus, būtų labai naudingas, bet ne kaip gydytojo pakaitalas."
+   ]
+  },
+  {
+   "title": "Gairės",
+   "start": 11441,
+   "end": 11569,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "Nacionalines jungtines antitrombozinio gydymo gaires parengė profesinių draugijų grupė, tarp jų Lietuvos laboratorinės medicinos draugija. 2024 m. jas patvirtino LSMU, tvirtinamos Vilniaus universitete; publikacija tikėtina 2025 m. pradžioje.",
+    "Penki skyriai, vienas skirtas laboratoriniams aspektams."
+   ]
+  },
+  {
+   "title": "Inkstų funkcija",
+   "start": 11569,
+   "end": 11710,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "Kreatininas turi būti matuojamas fermentiniu metodu, rezultatas apvalinamas iki sveiko skaičiaus.",
+    "GFG rekomenduojama skaičiuoti pagal CKD-EPI (labiau pasitikima 2009 m. formule). Tačiau vaistų dozavimo studijose naudota Cockcroft–Gault formulė, todėl pasirinkimas paliekamas gydytojui. Kreatinino klirensas nėra tas pats, kas GFG."
+   ]
+  },
+  {
+   "title": "Nefrakcionuotas heparinas",
+   "start": 11710,
+   "end": 11947,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "aPTT santykis su pradine verte 1,5–2,5 laikomas terapiniu, tačiau pavienis tyrimas bevertis, o aPTT turi daug trikdžių.",
+    "Gairėse rekomenduojamas <strong>anti-Xa</strong>, kalibruotas nefrakcionuotam heparinui; konsensuso terapinis intervalas <strong>0,3–0,7 TV/ml</strong>.",
+    "Anti-Xa iš karto (ne aPTT) — didelės apimties operacijų ir intervencijų, hemodiliucijos, transfuzijų, masyvaus kraujavimo, patvirtintos trombofilijos ir gydymo nesėkmės atvejais.",
+    "Aktyvuoto krešėjimo laikas (ACT) prie paciento lovos: dializė 120–200 s, koronarinė angiografija ir PKI 250–350 s, dirbtinė kraujo apytaka daugiau 400 s."
+   ]
+  },
+  {
+   "title": "MMMH ir fondaparinuksas",
+   "start": 11947,
+   "end": 12118,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "Įprastai nestebima, bet stebėsena reikalinga: vyresniems nei 85 m., esant GFG mažiau 50, dializuojamiems, naujagimiams ir vaikams, nėščiosioms, esant svorio kraštutinumams, kraujuojant ar esant didelei kraujavimo rizikai, vartojant ilgiau nei mėnesį.",
+    "aPTT MMMH stebėti netinka — tik anti-Xa, kalibruotas MMMH (arba hibridinė kalibracija).",
+    "Orientaciniai intervalai praėjus ~4 val. po injekcijos: profilaktika 0,2–0,4, gydymas 0,6–2 (priklauso nuo dozių per parą skaičiaus).",
+    "Fondaparinuksui — anti-Xa, kalibruotas būtent fondaparinuksui."
+   ]
+  },
+  {
+   "title": "Varfarinas",
+   "start": 12118,
+   "end": 12271,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "Tinkamiausias metodas — Owren protrombino laikas; stebima pagal INR. Standartinis intervalas 2–3, didesnio intensyvumo gydymui iki 3,5 ar 4,5.",
+    "Tiriama pradinė reikšmė, trečią ir penktą gydymo dieną. Kliniškai reikšmingas pokytis, apskaičiuotas pagal biologinę variaciją (EFLM duomenų bazė), — 7,1–8,7 %: jei skirtumas tarp dviejų INR mažesnis, INR laikomas stabiliu."
+   ]
+  },
+  {
+   "title": "Tiesioginiai geriamieji antikoaguliantai",
+   "start": 12271,
+   "end": 12602,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "Daugeliu atvejų kontrolė nereikalinga, bet būtina, kai: išsivysto trombozė ar kraujavimas; reikia skubios operacijos ar intervencijos; įtariamas perdozavimas; yra inkstų ar kepenų nepakankamumas (ir inkstų hiperfunkcija); nežinoma, ar pacientas vartoja vaistą (pvz., be sąmonės); kraštutinis svoris, nėštumas, vaikai, senyvas amžius; reikia patikrinti režimo laikymąsi ar sąveikas; malabsorbcija.",
+    "<strong>Dabigatranas:</strong> tinkamiausias — ekarino chromogeninis tyrimas. Normalus trombino laikas reiškia, kad dabigatrano beveik nėra.",
+    "<strong>Xa inhibitoriai:</strong> anti-Xa, kalibruotas konkrečiam vaistui (rivaroksabanui, apiksabanui, edoksabanui atskirai).",
+    "Patvirtintų terapinių intervalų nėra — remiamasi ISTH nurodytomis minimaliomis ir maksimaliomis koncentracijomis."
+   ]
+  },
+  {
+   "title": "Antiagregantai",
+   "start": 12602,
+   "end": 12774,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "Tyrimas rekomenduojamas: paskyrus gydymą (po vieną kiekvienam antiagregantui), po 6 mėnesių, prieš didelės apimties operacijas ir skubiose chirurginėse situacijose.",
+    "Gairėse apibendrinti du metodai — VerifyNow ir Multiplate. Aspirinui efektyvumo riba: VerifyNow 550, Multiplate 30. P2Y12 inhibitoriams ribos taip pat nurodytos.",
+    "GP IIb/IIIa inhibitoriams ir cilostazoliui rekomendacijų nėra.",
+    "Antifibrinolitikai ir trombolitikai paprastai nestebimi; jei reikia — tromboelastografija, tromboelastometrija ar sonoreometrija, fibrinogenas, plazminogenas."
+   ]
+  },
+  {
+   "title": "D-dimerai ir fibrino monomerai",
+   "start": 12801,
+   "end": 13003,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "D-dimerai: kiekybinis imunocheminis metodas pagal CLSI, didelė neigiama prognostinė vertė, specifiškumas PATE diagnostikai daugiau 70 %.",
+    "Rezultatai pateikiami µg/l fibrinogeno ekvivalentinių vienetų. Jaunesniems nei 50 m. taikoma fiksuota riba, vyresniems — amžius × 10.",
+    "Skirtingais metodais gauti D-dimerų rezultatai tarpusavyje nelyginami.",
+    "Fibrino monomerai (µg/l): daugiau 6000 rodo aktyvią trombogenezę, daugiau 40 000 po operacijų — labai didelę tromboembolijų riziką.",
+    "Mažos fibrino monomerų vertės kartu su normaliais ar reikšmingai mažėjančiais D-dimerais rodo trombozės regresiją."
+   ]
+  },
+  {
+   "title": "Klausimai",
+   "start": 13031,
+   "end": 13218,
+   "part": "Dr. Valdas Banys — antitrombozinio gydymo laboratoriniai aspektai: nacionalinių gairių kryptimi",
+   "bullets": [
+    "Krešėjimo tyrimams — žydras mėgintuvėlis su 3,2 % natrio citratu, imamas pirmas.",
+    "Imant tiesia adata išmetamo mėgintuvėlio nereikia; imant per „peteliškę“ ar Luer adapterį pirmą mėgintuvėlį reikia išmesti, kad būtų išvengta nepripildymo.",
+    "Kad gairės pasiektų praktiką, reikia draugijų bendrų renginių ir CDS taisyklių, grįstų gairėmis."
+   ]
+  },
+  {
+   "title": "Mastas ir principas",
+   "start": 13335,
+   "end": 13610,
+   "part": "Prof. Daiva Urbonienė (LSMU Kauno klinikos) — krešėjimo sistemos vertinimas perioperaciniu laikotarpiu",
+   "bullets": [
+    "Pasaulyje atliekama apie 22 mln. didelės apimties operacijų; manoma, kad apie 30 % populiacijos gali turėti krešėjimo sutrikimų.",
+    "Per daug priešoperacinių tyrimų: kuo daugiau tiriama, tuo daugiau randama atsitiktinių nukrypimų, operacijos atidedamos, didėja išlaidos. Tirti reikia tik turint klinikinę indikaciją.",
+    "Didelės kraujavimo rizikos procedūros: kardiochirurgija, kraujagyslių ir onkologinės operacijos, bet kuri didelės apimties operacija, trunkanti ilgiau nei 45 min."
+   ]
+  },
+  {
+   "title": "Algoritmas",
+   "start": 13610,
+   "end": 13793,
+   "part": "Prof. Daiva Urbonienė (LSMU Kauno klinikos) — krešėjimo sistemos vertinimas perioperaciniu laikotarpiu",
+   "bullets": [
+    "Pirmiausia — paciento ir šeimos kraujavimo anamnezė.",
+    "Neigiama anamnezė ir mažos rizikos operacija — hemostazės tyrimų nereikia. Didelės rizikos operacija — rutininiai tyrimai.",
+    "Rutininiai tyrimai normalūs, bet rizika didelė — specializuoti tyrimai (pvz., von Willebrando ligos paieška).",
+    "Priešoperacinis trombozinių būklių tyrimas nerekomenduojamas."
+   ]
+  },
+  {
+   "title": "PT ir aPTT deriniai",
+   "start": 13974,
+   "end": 14159,
+   "part": "Prof. Daiva Urbonienė (LSMU Kauno klinikos) — krešėjimo sistemos vertinimas perioperaciniu laikotarpiu",
+   "bullets": [
+    "Izoliuotai pakitęs protrombino laikas (Owren) — VII faktoriaus stoka ar inhibitorius.",
+    "Izoliuotai pailgėjęs aPTT — VIII, IX, XI (hemofilijos A, B, C) ar XII faktorių stoka, vilkligės antikoaguliantas.",
+    "Abu pakitę — dažniausiai įgytos priežastys: vitamino K stoka, kepenų liga, vaistai.",
+    "<strong>XIII faktoriaus stoka</strong>: PT ir aPTT normalūs, o kraujavimai intensyvūs. Įgyta stoka nėra reta (inkstų ligos, chirurgija).",
+    "<strong>XII faktoriaus stoka</strong>: aPTT gali siekti 250 s, bet tokie pacientai nekraujuoja, greičiau linkę į hiperkoaguliaciją."
+   ]
+  },
+  {
+   "title": "Vaistai",
+   "start": 14159,
+   "end": 14736,
+   "part": "Prof. Daiva Urbonienė (LSMU Kauno klinikos) — krešėjimo sistemos vertinimas perioperaciniu laikotarpiu",
+   "bullets": [
+    "Varfarinas: Owren metodas jautrus II, VII ir X faktoriams. aPTT taip pat ilgėja, bet su gydymu nekoreliuoja. Dėl proteino C stokos gydymo pradžioje galimos trombozės.",
+    "Nefrakcionuotas heparinas veikia ir II, ir X faktorių, MMMH — daugiausia Xa. Todėl aPTT tinka nefrakcionuotam heparinui, bet ne MMMH; anti-Xa tinka abiem, jei kalibruotas konkrečiam heparinui.",
+    "Heparinai be antitrombino neveikia, todėl antitrombino tyrimas turėtų būti prieinamas visą parą. Nefrakcionuoto heparino pusinės eliminacijos laikas apie 1 val., HIT — iki 5 % pacientų.",
+    "Tiesioginiams geriamiesiems antikoaguliantams nereikia <strong>rutininio</strong> monitoringo, bet yra situacijų, kai jis būtinas; PT ir aPTT į klausimą, ar vaisto per daug, neatsako.",
+    "Aspirinas ir klopidogrelis veikia negrįžtamai. Aspirinas esant mažai kraujavimo rizikai dažnai tęsiamas, klopidogrelis prieš operacijas nutraukiamas."
+   ]
+  },
+  {
+   "title": "Širdies chirurgijos gairės",
+   "start": 14837,
+   "end": 15385,
+   "part": "Prof. Daiva Urbonienė (LSMU Kauno klinikos) — krešėjimo sistemos vertinimas perioperaciniu laikotarpiu",
+   "bullets": [
+    "Standartiniai, viskoelastiniai ir trombocitų tyrimai nepatikimai susiję su kraujo netekimo mastu, todėl rutiniškai jų nerekomenduojama; išimtis — trombocitų skaičius.",
+    "Trombocitų funkcijos tyrimai P2Y12 inhibitoriams gali padėti nuspręsti, kada operuoti.",
+    "Planinė operacija vartojant vitamino K antagonistus — kai INR ne didesnis kaip 1,5; jei laukti negalima — krešėjimo faktorių preparatai.",
+    "XIII faktorių papildyti, jei jo mažiau 70 %; žemas fibrinogenas (Clauss metodu ar tromboelastometrija) — aiški rekomendacija koreguoti.",
+    "Rezultatas labai priklauso nuo mėginio paėmimo: santykis su citratu, sumaišymas, laikas, temperatūra.",
+    "Skubiais atvejais viskoelastiniai tyrimai neturi alternatyvos."
+   ]
+  },
+  {
+   "title": "Kraujavimas po širdies operacijų",
+   "start": 15778,
+   "end": 15934,
+   "part": "Dr. Yerlan Orazymbetov (LSMU) — kraujavimo rizikos valdymas širdies chirurgijoje",
+   "bullets": [
+    "Iki 40 % kardiochirurginių pacientų reikia kraujo perpylimo; vidutinis netekimas apie 300 ml, gerokai didesnis 10 % atvejų; pakartotinių operacijų dėl kraujavimo — iki 8 %.",
+    "Iki 67 % kraujavimų lemia chirurginės priežastys, likusius — krešėjimo sutrikimai."
+   ]
+  },
+  {
+   "title": "Dirbtinė kraujo apytaka",
+   "start": 16026,
+   "end": 16242,
+   "part": "Dr. Yerlan Orazymbetov (LSMU) — kraujavimo rizikos valdymas širdies chirurgijoje",
+   "bullets": [
+    "Koagulopatiją lemia hemodiliucija (kontūras užpildomas ~1,5 l Ringerio tirpalo), audinių trauma ir kraujo kontaktas su kontūru.",
+    "Heparinizacija: ACT ne mažiau 480 s.",
+    "Po DKA protrombino laikas ir INR padidėja ~33 %, aPTT ~20 %; fibrinogenas, trombocitų skaičius, jų funkcija ir krešėjimo faktoriai sumažėja atitinkamai ~36, 45, 65 ir iki 50 %."
+   ]
+  },
+  {
+   "title": "CDS masyviam kraujavimui",
+   "start": 16313,
+   "end": 16658,
+   "part": "Dr. Yerlan Orazymbetov (LSMU) — kraujavimo rizikos valdymas širdies chirurgijoje",
+   "bullets": [
+    "Komponentai: realaus laiko stebėsena ir duomenų integracija (įskaitant ROTEM), rizikos prognozė, antikoaguliacijos ir protamino valdymas, masyvių transfuzijų protokolai, įspėjimai realiu laiku.",
+    "Tikslas — mažiau transfuzijų, vienodesni sprendimai, mažesnės išlaidos."
+   ]
+  },
+  {
+   "title": "TGAK kontrolė",
+   "start": 16881,
+   "end": 17197,
+   "part": "Respublikinė Vilniaus universitetinė ligoninė — ligoninės algoritmai (pranešėja)",
+   "bullets": [
+    "Būtinosios indikacijos: išeminis insultas svarstant trombolizę, kai antidotas neprieinamas ir nuo paskutinės dozės praėjo mažiau 48 val.; gyvybei pavojingas kraujavimas (ir intrakranijinis); skubi operacija, kai nuo dozės praėjo mažiau 48 val.",
+    "Rekomenduotinos: nežinoma, ar pacientas vartoja vaistą; labai didelis ar mažas svoris; sąveikos per P glikoproteiną (priešgrybeliniai vaistai, kai kurie antibiotikai, kardiologiniai vaistai); inkstų ar kepenų nepakankamumas, inkstų hiperfunkcija, malabsorbcija.",
+    "Dabigatranas (ekarino tyrimas): mažiau 30 ng/ml — operuoti; 30–200 ng/ml — laukti 12 val. ir kartoti; daugiau 400 ng/ml — ryškus perdozavimas. Kraujuojant — antidotas, jo nesant — PCC.",
+    "aPTT netinka skubiai dabigatrano poveikio patikrai — gali būti normalus esant vaistui.",
+    "Rivaroksabanui ir apiksabanui (anti-Xa) ribos tos pačios; antidoto Lietuvoje nėra, todėl kraujuojant — PCC arba FEIBA.",
+    "Neurochirurginėms procedūroms ir neuroaksinei anestezijai koncentracija turi būti nulinė.",
+    "Visi algoritmai — vieno puslapio, kad gydytojas greitai rastų atsakymą; nurodoma, kada imti kraują."
+   ]
+  },
+  {
+   "title": "Antiagregantai",
+   "start": 17197,
+   "end": 17471,
+   "part": "Respublikinė Vilniaus universitetinė ligoninė — ligoninės algoritmai (pranešėja)",
+   "bullets": [
+    "Klopidogrelio PRU gydymo metu: iki 95 — per stiprus poveikis (mažinti dozę, kartoti po 7 d.); 95–208 — tikslinis; daugiau 208 — per silpnas, trombozės rizika.",
+    "Prieš operaciją: PRU daugiau 230 — kraujavimo rizikos dėl antiagreganto nėra; iki 230 — rizika yra.",
+    "Aspirinas prieš operaciją: ARU mažiau 550 — operaciją atidėti (gyvybinės indikacijos atveju ruošti trombocitus ir operuoti); 550 ir daugiau — slopinimo nėra, galima operuoti."
+   ]
+  },
+  {
+   "title": "Fibrino monomerai ir heparinai",
+   "start": 17471,
+   "end": 17759,
+   "part": "Respublikinė Vilniaus universitetinė ligoninė — ligoninės algoritmai (pranešėja)",
+   "bullets": [
+    "Fibrino monomerai — ankstyvasis trombogenezės žymuo (venų ir arterinės trombozės, PATE po operacijų, DIK). Fibrino ir fibrinogeno degradacijos produktai ankstyvai trombogenezei vertinti netinka. Rekomenduojama tirti kartu su D-dimerais.",
+    "Nefrakcionuotam heparinui būtinas anti-Xa; MMMH atveju aPTT neinformatyvus; fondaparinuksui — jam kalibruotas anti-Xa. Svarbu nurodyti, kada imti kraują."
+   ]
+  },
+  {
+   "title": "Kodėl HIT svarbus",
+   "start": 17784,
+   "end": 18200,
+   "part": "Prof. dr. Julius Ptašekas — CDS modelis HIT diagnostikos klaidoms mažinti",
+   "bullets": [
+    "Heparino sukelta trombocitopenija pasitaiko 1–3 % (kai kur nurodoma iki 5 %) pacientų, tačiau jos klinika sunki: naujos venų ir arterinės trombozės gydant trombozę.",
+    "Mechanizmas: IgG antikūnai prieš heparino ir trombocitų 4 faktoriaus (PF4) kompleksą aktyvuoja trombocitus. Ne visi kompleksai ir antikūnai yra patogeniški.",
+    "Formos: klasikinė (heparinai, MMMH, minimaliai fondaparinuksas, kiti polianijoniniai vaistai), autoimuninė, spontaninė (pvz., po kelio ar klubo sąnario endoprotezavimo, infekcijos) ir su vakcinomis susijusi."
+   ]
+  },
+  {
+   "title": "Dvi klaidų kryptys",
+   "start": 18522,
+   "end": 18614,
+   "part": "Prof. dr. Julius Ptašekas — CDS modelis HIT diagnostikos klaidoms mažinti",
+   "bullets": [
+    "Pavėluota diagnozė — praleidžiama trombozė.",
+    "Per dažna diagnozė — be reikalo nutraukiamas heparinas (bazinė trombozė lieka nepagydyta) arba pereinama prie alternatyvaus antikoagulianto, kurį sunku dozuoti ir stebėti.",
+    "Kaip papildomas trombogenezės žymuo minimos mikrodalelės."
+   ]
+  },
+  {
+   "title": "4T skalė ir testavimas",
+   "start": 18614,
+   "end": 18874,
+   "part": "Prof. dr. Julius Ptašekas — CDS modelis HIT diagnostikos klaidoms mažinti",
+   "bullets": [
+    "4T: trombocitopenijos laipsnis, laikas (timing), trombozė, kitos priežastys. Tirti rekomenduojama tik esant vidutinei ar didelei tikimybei.",
+    "Praktikoje tiriama beveik kiekvienam trombocitų sumažėjimui — iki 85 % netinkamai skirtų brangių tyrimų.",
+    "Imunologinio tyrimo specifiškumas apie 50 % (kai kuriose populiacijose — 25 %): neigiamas rezultatas HIT atmeta, teigiamą būtina patvirtinti serotonino atpalaidavimo testu (SRA) — auksiniu standartu. Skriningo tyrimo negalima laikyti patvirtinamuoju.",
+    "Esant mažai 4T tikimybei patvirtinama tik apie 1 % atvejų — 99 % pacientų tiriama be reikalo."
+   ]
+  },
+  {
+   "title": "CDS rezultatai",
+   "start": 18874,
+   "end": 19388,
+   "part": "Prof. dr. Julius Ptašekas — CDS modelis HIT diagnostikos klaidoms mažinti",
+   "bullets": [
+    "JAV (30 ligoninių su bendra elektronine sveikatos istorija): realaus laiko patarimas esant mažai tikimybei netirti. Tyrimų sumažėjo ~25 %, heparino terapija be pakeitimo tęsta 44 % dažniau, 83 % atvejų keisti antikoagulianto nereikėjo.",
+    "Šveicarija: panašus 4T pagrindu sukurtas algoritmas — imunologinių tyrimų sumažėjo ~65 %, klaidingai teigiamų rezultatų — 50–70 %.",
+    "Taisyklės formuojamos institucijoje, aptarus gaires ir praktiką, todėl rekomendacija yra teisiškai apdorota ir apsaugo gydytoją.",
+    "CDS turi būti patogi: jei formos pildymas užima penkias minutes, ja nesinaudojama."
+   ]
+  },
+  {
+   "title": "Diskusija",
+   "start": 19431,
+   "end": 19524,
+   "part": "Prof. dr. Julius Ptašekas — CDS modelis HIT diagnostikos klaidoms mažinti",
+   "bullets": [
+    "Santaros klinikų patirtis: esant mažai tikimybei netiriama, esant labai didelei — iš karto keičiamas gydymas, tarpiniu atveju — tiriami antikūnai. Svarbus laboratorijos ir klinicistų bendradarbiavimas."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Heparinų kontrolei nacionalinės gairės rekomenduoja anti-Xa (kalibruotą konkrečiam heparinui), varfarinui — Owren INR, dabigatranui — ekarino tyrimą, Xa inhibitoriams — vaistui kalibruotą anti-Xa.",
+  "D-dimerus pateikti µg/l FEU; vyresniems nei 50 m. riba — amžius × 10; skirtingų metodų rezultatų nelyginti.",
+  "Priešoperacinius hemostazės tyrimus skirti pagal anamnezę ir operacijos kraujavimo riziką, o ne visiems.",
+  "Normalūs PT ir aPTT neatmeta XIII faktoriaus stokos; labai ilgas aPTT be kraujavimo gali būti XII faktoriaus stoka.",
+  "HIT tirti tik esant vidutinei ar didelei 4T tikimybei; teigiamą imunologinį tyrimą patvirtinti SRA.",
+  "Masyvaus kraujavimo metu pirmiausia mechaninis stabdymas ir kalcis; eritrocitai kraujavimo nestabdo; traneksamo rūgštį skirti aptarus su chirurgu."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Anti-Xa, nefrakcionuotas heparinas",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "aPTT santykis, nefrakcionuotas heparinas",
+    "1,5–2,5"
+   ],
+   [
+    "ACT: dializė / PKI / DKA",
+    "120–200 s / 250–350 s / &gt; 400 s (kardiochirurgijoje minimaliai 480 s)"
+   ],
+   [
+    "Anti-Xa, MMMH (~4 val. po injekcijos)",
+    "profilaktika 0,2–0,4; gydymas 0,6–2"
+   ],
+   [
+    "INR, varfarinas",
+    "2–3 (didesnio intensyvumo iki 3,5–4,5)"
+   ],
+   [
+    "Kliniškai reikšmingas INR pokytis",
+    "7,1–8,7 %"
+   ],
+   [
+    "INR prieš planinę kardiochirurginę operaciją",
+    "≤ 1,5"
+   ],
+   [
+    "Dabigatranas prieš operaciją",
+    "&lt; 30 ng/ml operuoti; 30–200 laukti 12 val.; &gt; 400 perdozavimas"
+   ],
+   [
+    "Aspirinas, ARU",
+    "550 (VerifyNow); Multiplate riba 30"
+   ],
+   [
+    "Klopidogrelis, PRU gydymo metu",
+    "≤ 95 per stiprus; 95–208 tikslinis; &gt; 208 per silpnas"
+   ],
+   [
+    "Klopidogrelis, PRU prieš operaciją",
+    "&gt; 230 — galima operuoti"
+   ],
+   [
+    "D-dimerai, &gt; 50 m.",
+    "riba = amžius × 10 (µg/l FEU)"
+   ],
+   [
+    "D-dimerų specifiškumas (PATE)",
+    "&gt; 70 %"
+   ],
+   [
+    "Fibrino monomerai",
+    "&gt; 6000 µg/l — aktyvi trombogenezė; &gt; 40 000 µg/l po operacijos — labai didelė rizika"
+   ],
+   [
+    "XIII faktorius",
+    "&lt; 70 % — papildyti"
+   ],
+   [
+    "HIT dažnis",
+    "1–3 % (iki 5 %)"
+   ],
+   [
+    "HIT imunologinio tyrimo specifiškumas",
+    "~50 %"
+   ],
+   [
+    "Kraujo perpylimas kardiochirurgijoje",
+    "iki 40 % pacientų"
+   ]
+  ]
+ },
+ "reviewed": false
+}

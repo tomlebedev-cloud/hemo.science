@@ -51,6 +51,16 @@
    ]
   },
   {
+   "title": "Diferencinė diagnostika",
+   "start": 1227,
+   "end": 1284,
+   "part": null,
+   "bullets": [
+    "Paviršinės hematomos gali atrodyti grėsmingai, tačiau svarbiausi pokyčiai vyksta vidaus organuose.",
+    "DIK reikia atskirti nuo kepenų patologijos ir HELLP sindromo: esant hemolizei ir mažam trombocitų skaičiui vaizdas gali priminti suvartojimo sindromą, bet tai ne DIK. Atskirti padeda aukšto specifiškumo D-dimerai ir fibrino monomerai — sergant DIK jie auga."
+   ]
+  },
+  {
    "title": "Svarbu: tyrimai dinamikoje",
    "start": 1067,
    "end": 1096,
@@ -133,6 +143,10 @@
    [
     "FM specifiškumas septiniam DIK",
     "apie 93 %"
+   ],
+   [
+    "D-dimerų tyrimo specifiškumas",
+    "ne mažiau 70 %"
    ],
    [
     "Viskoelastometrijos atsakymas",

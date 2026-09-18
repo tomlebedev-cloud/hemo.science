@@ -1,0 +1,421 @@
+{
+ "summary": [
+  "Kasmetinė konferencija „Ką klinicistai turėtų žinoti, o laboratorija atlikti“: išeminio insulto profilaktikos ir gydymo gairių naujovės, imunotrombozė sergant vaskulitais ir inkstų ligomis, vaikų venų trombozės, trombinės mikroangiopatijos, mikroorganizmų vaidmuo ūminių išeminių sindromų trombozėje, krešėjimo tyrimų preanalitika ir antikoaguliacija regioninės anestezijos metu."
+ ],
+ "sections": [
+  {
+   "title": "Antrinė profilaktika: kraujospūdis ir lipidai",
+   "start": 225,
+   "end": 801,
+   "part": "Prof. Dalius Jatužis — kas naujo išeminio insulto gairėse",
+   "bullets": [
+    "Po išeminio insulto ar praeinančio smegenų išemijos priepuolio kraujospūdį rekomenduojama mažinti iki 130/80 mm Hg ir mažiau (įrodymų kokybė vidutinė — daugiausia kardiologinių tyrimų duomenys).",
+    "Statinai po išeminio insulto aiškiai mažina pakartotinio insulto riziką (aukšta įrodymų kokybė). Vienintelis neabejotinas šalutinis poveikis — mialgijos ir miopatija (iki 5 % pacientų).",
+    "Kardiologų gairėse labai didelės rizikos pacientams MTL cholesterolio tikslas 1,4 mmol/l arba sumažinimas 50 %; Europos insulto organizacijos ekspertai po insulto siūlo iki 1,8 mmol/l. Lietuvoje daugelis pacientų po insulto turi 2,5–3 mmol/l ir daugiau.",
+    "Jei per 6 savaites maksimaliomis toleruojamomis statinų dozėmis tikslo nepasiekiama — pridėti ezetimibą 10 mg, vėliau svarstyti PCSK9 inhibitorius (brangūs)."
+   ]
+  },
+  {
+   "title": "Prieširdžių virpėjimas ir antiagregantai",
+   "start": 801,
+   "end": 1168,
+   "part": "Prof. Dalius Jatužis — kas naujo išeminio insulto gairėse",
+   "bullets": [
+    "Esant nevožtuviniam prieširdžių virpėjimui pirmiausia renkamasi ne vitamino K geriamuosius antikoaguliantus (Lietuvoje kompensuojami keturi), antras pasirinkimas — varfarinas; esant kontraindikacijoms — kairiojo prieširdžio ausytės uždarymas. Mechaninis vožtuvas ar vidutinė–sunki mitralinė stenozė — vitamino K antagonistai.",
+    "Keturių TGAK tarpusavyje tiesiogiai lyginti negalima — jie lyginti tik su varfarinu.",
+    "Insulto profilaktikai dažniausiai skiriama antiagregantų monoterapija. Dviguba — po stentavimo (1–6 mėn.), po nedidelio insulto ar didelės rizikos PSIP (3 savaites), esant intrakranijinei stenozei.",
+    "Kartojantis įvykiams nepaisant profilaktikos galima laboratoriškai nustatyti atsparumą klopidogreliui arba pridėti tikagrelorą.",
+    "Rivaroksabanas 2,5 mg du kartus per parą su aspirinu 100 mg — tik pacientams su koronarine ar periferinių arterijų liga."
+   ]
+  },
+  {
+   "title": "XI faktoriaus inhibitoriai",
+   "start": 1168,
+   "end": 1377,
+   "part": "Prof. Dalius Jatužis — kas naujo išeminio insulto gairėse",
+   "bullets": [
+    "Žmonės su įgimta XI faktoriaus stoka šiek tiek dažniau kraujuoja, bet rečiau patiria trombozes — tai paskatino kurti XI faktoriaus inhibitorius.",
+    "Mažų molekulių inhibitoriai milveksianas ir asundeksianas tiriami III fazės tyrimuose (dalyvauja ir Lietuva) pacientams po nekardioembolinio insulto, pridedant prie antiagreganto."
+   ]
+  },
+  {
+   "title": "Ūminio insulto gydymas Lietuvoje",
+   "start": 1377,
+   "end": 1989,
+   "part": "Prof. Dalius Jatužis — kas naujo išeminio insulto gairėse",
+   "bullets": [
+    "Nuo 2014 m. insulto centrų tinklas: 11 ligoninių, iš jų 6 atlieka ir trombolizę, ir trombektomiją.",
+    "Reperfuzinį gydymą gauna daugiau kaip 20 % pacientų; 2030 m. Europos tikslai — trombolizė ne mažiau 15 %, trombektomija 5 % (trombektomijų tikslas jau viršytas).",
+    "Insulto centruose hospitalinis mirštamumas apie 10 % ar mažiau, kitose ligoninėse 14–18 %.",
+    "Trombolizė iki 4,5 val., atrinktiems pagal perfuzinę KT ar MRT — iki 9 val.; trombektomija iki 6 val., atrinktiems — iki 24 val. Tenekteplazė patogesnė (vienas boliusas), bet trūksta jos gamybos.",
+    "Trumpieji MRT protokolai (2–7 min.) ir automatizuoto vaizdų vertinimo sistemos (RAPID, Viz.ai) padeda greičiau atrinkti pacientus."
+   ]
+  },
+  {
+   "title": "Klinikinis atvejis",
+   "start": 2092,
+   "end": 2298,
+   "part": "Prof. Marius Miglinas — imunotrombozė, kardiovaskulinės ir inkstų ligos",
+   "bullets": [
+    "Jaunas vyras su sinusitu, neutrofiline leukocitoze, trombocitoze ir CRB apie 350; proteinurija, hematurija, didėjantis kreatininas — įtartas greitai progresuojantis glomerulonefritas. c-ANCA teigiami, biopsija — pusmėnulinis glomerulonefritas.",
+    "8-ą hospitalizacijos dieną — ūminė dešinės išorinės klubinės venos trombozė (padidėję D-dimerai, dupleksinis tyrimas)."
+   ]
+  },
+  {
+   "title": "Autoimuninės ligos ir hemostazė",
+   "start": 2298,
+   "end": 2565,
+   "part": "Prof. Marius Miglinas — imunotrombozė, kardiovaskulinės ir inkstų ligos",
+   "bullets": [
+    "Nefrologai mato ir kraujavimus (citopenijos), ir trombozes (antifosfolipidinis sindromas, trombinės mikroangiopatijos, sklerodermijos inkstų krizė).",
+    "Imuninė trombocitopenija: raudona vėliava — mažiau 30 tūkst.; vertinama, ar sutrikusi gamyba, ar padidėjęs suvartojimas.",
+    "Sergant vilklige per 5 metus trombozinius įvykius patiria iki 16 % pacientų, nepriklausomai nuo antifosfolipidinių antikūnų.",
+    "Johns Hopkins duomenimis, sergant ANCA vaskulitais venų trombozė išsivysto 14 % pacientų, dažniausiai per pirmą ligos mėnesį; rizikos veiksniai — c-ANCA (PR3), didesnis KMI, hipoalbuminemija."
+   ]
+  },
+  {
+   "title": "Neutrofilų ekstraląstelinės gaudyklės",
+   "start": 2565,
+   "end": 2804,
+   "part": "Prof. Marius Miglinas — imunotrombozė, kardiovaskulinės ir inkstų ligos",
+   "bullets": [
+    "Neutrofilai išskiria DNR tinklus su histonais (NETs), kurie gaudo bakterijas, bet kartu aktyvina trombocitus, pažeidžia endotelį ir paleidžia krešėjimą — tai imunotrombozė.",
+    "Sergant aktyviu vaskulitu tokių neutrofilų gerokai daugiau. Vaskulitu sergančiųjų kardiovaskulinė rizika didesnė apie 65 %."
+   ]
+  },
+  {
+   "title": "Inkstų liga ir uždegimas",
+   "start": 2804,
+   "end": 3336,
+   "part": "Prof. Marius Miglinas — imunotrombozė, kardiovaskulinės ir inkstų ligos",
+   "bullets": [
+    "Kuo prastesnė inkstų funkcija, tuo daugiau kardiovaskulinių mirčių, infarktų, insultų ir amputacijų; rizikai vertinti reikia ir GFG, ir albuminurijos.",
+    "Esant ženkliai inkstų ligai MTL cholesterolio tikslas 1,4 mmol/l, esant vidutinei — 1,8 mmol/l.",
+    "COLCOT: mažos kolchicino dozės po infarkto sumažino pakartotinių išeminių įvykių riziką; FDA patvirtino kolchiciną kardiovaskulinei prevencijai. Kanakinumabas (CANTOS) FDA nepatvirtintas.",
+    "Esant nepaaiškinamoms trombozėms ar kraujavimams verta pagalvoti apie autoimunines ligas."
+   ]
+  },
+  {
+   "title": "Epidemiologija",
+   "start": 3484,
+   "end": 3938,
+   "part": "Dr. Sonata Trakimienė — vaikų trombozės XXI amžiuje",
+   "bullets": [
+    "Per 20 metų trombozių tarp hospitalizuotų vaikų JAV padaugėjo apie 200 %: daugiau invazinių procedūrų, ilgesnis išgyvenimas sergant lėtinėmis ligomis, geresnė diagnostika.",
+    "Didžiausia rizika — naujagimiams ir paaugliams (11–18 m.). Daugiau kaip 90 % atvejų randamas bent vienas rizikos veiksnys; svarbiausias — centrinis venų kateteris.",
+    "Sergant COVID-19 hospitalizuotiems vaikams trombozė išsivysto iki 7 %, esant daugiasisteminiam uždegiminiam sindromui — iki 20 %.",
+    "Suaugusiesiems 90–95 % GVT apima apatines galūnes, vaikams iki pusės — viršutines (dėl kateterių)."
+   ]
+  },
+  {
+   "title": "D-dimerai vaikams nepatikimi",
+   "start": 4016,
+   "end": 4195,
+   "part": "Dr. Sonata Trakimienė — vaikų trombozės XXI amžiuje",
+   "bullets": [
+    "Tyrimai nevienodai standartizuoti, skiriasi vienetai, ne visi validuoti trombozei atmesti.",
+    "Vaikams D-dimerai būna normalūs iki 15 % PATE atvejų ir 26 % trombozių sergant ūmine limfoblastine leukemija — jie nenaudojami nei atmesti, nei patvirtinti.",
+    "Išimtis — COVID-19: D-dimerai nepriklausomai susiję su ligos sunkumu ir mirštamumu."
+   ]
+  },
+  {
+   "title": "Trombofilijos tyrimai",
+   "start": 4195,
+   "end": 4398,
+   "part": "Dr. Sonata Trakimienė — vaikų trombozės XXI amžiuje",
+   "bullets": [
+    "Įgimta trombofilija nėra diagnozė — tik vienas iš veiksnių; trombozė visada daugiaveiksnė.",
+    "Penkios klasikinės trombofilijos: antitrombino, proteinų C ir S stoka, V faktoriaus Leideno ir protrombino mutacijos.",
+    "Tyrimai pradinio gydymo nekeičia, gali pakeisti tik trukmę. Rekomenduojami: pirmo neprovokuoto epizodo, pasikartojančios trombozės atveju, kai pirmos eilės giminaičiams nustatyta trombofilija, kai heparino reikia labai didelių dozių."
+   ]
+  },
+  {
+   "title": "Gydymas",
+   "start": 4398,
+   "end": 4872,
+   "part": "Dr. Sonata Trakimienė — vaikų trombozės XXI amžiuje",
+   "bullets": [
+    "Pagrindas — antikoaguliacija; trombolizė ir trombektomija retos.",
+    "Auksinis standartas — MMMH (nuspėjamas atsakas, minimalus stebėjimas), nors Lietuvoje daugiausia naudojamas nadroparinas oficialios indikacijos vaikams neturi; labiausiai ištirtas enoksaparinas.",
+    "2021 m. rivaroksabanas ir dabigatranas registruoti vaikų venų trombozei gydyti ir profilaktikai: geriami, stabili farmakokinetika, fiksuotos dozės. Tai šiuo metu geriausiai ištirti antikoaguliantai vaikams.",
+    "Trukmė: provokuota trombozė — 3 mėn., išliekantys rizikos veiksniai — 12 mėn. ir ilgiau, idiopatinė — 6–12 mėn. Randomizuotame tyrime (417 pacientų) provokuotai trombozei 6 savaitės buvo ne blogiau nei 3 mėnesiai (recidyvai 0,6 % ir 0,7 %).",
+    "Profilaktika vaikams — tik COVID-19 kontekste: MMMH, jei yra kitų rizikos veiksnių arba D-dimerai 5 kartus ir daugiau viršija normą."
+   ]
+  },
+  {
+   "title": "Diskusija",
+   "start": 5043,
+   "end": 5436,
+   "part": "Dr. Sonata Trakimienė — vaikų trombozės XXI amžiuje",
+   "bullets": [
+    "Antitrombino stoka — viena sunkiausių trombofilijų; aprašytas atvejis su apatinės tuščiosios venos ageneze (vėliau paaiškėjo, kad agenezė pati susijusi su antitrombino stoka) — gydymas visą gyvenimą.",
+    "Leideno mutacijai suaugusiųjų laboratorijose pirmiausia tiriamas APC rezistentiškumas, o nustačius sutrikimą — genetinis tyrimas."
+   ]
+  },
+  {
+   "title": "Trys sindromai",
+   "start": 5528,
+   "end": 5694,
+   "part": "VU Santaros klinikų nefrologė — retos ligos: trombinių mikroangiopatijų pasaulis",
+   "bullets": [
+    "Trombinė mikroangiopatija — triada: smulkiųjų kraujagyslių trombozė, anemija, trombocitopenija.",
+    "<strong>Trombozinė trombocitopeninė purpura</strong> — ADAMTS13 stoka, didelių von Willebrando faktoriaus multimerų kaupimasis ir trombocitų agregacija.",
+    "<strong>Atipinis hemolizinis ureminis sindromas</strong> (komplemento sukelta TMA) — nekontroliuojama alternatyviojo komplemento kelio aktyvacija (mutacijos, dažniausiai CFH gene, arba autoantikūnai).",
+    "<strong>Tipinis HUS</strong> — susijęs su šiga toksiną gaminančia E. coli."
+   ]
+  },
+  {
+   "title": "Eiga ir pasekmės",
+   "start": 5812,
+   "end": 6213,
+   "part": "VU Santaros klinikų nefrologė — retos ligos: trombinių mikroangiopatijų pasaulis",
+   "bullets": [
+    "23 % pacientų, kol nustatyta diagnozė, lankėsi pas keturis ir daugiau gydytojų.",
+    "Daugiau kaip 50 % pacientų pažeidžiami inkstai; per pirmus metus dializių reikia ~20 % vaikų ir ~30 % suaugusiųjų; galimi infarktai, insultai, traukuliai; mirštamumas iki 10 %.",
+    "Liga gali atsinaujinti persodintame inkste: pacientas prarado keturis transplantatus, kol genetiškai nustatytos komplemento mutacijos; paskyrus gydymą penktasis funkcionuoja."
+   ]
+  },
+  {
+   "title": "Diagnostika",
+   "start": 6213,
+   "end": 6484,
+   "part": "VU Santaros klinikų nefrologė — retos ligos: trombinių mikroangiopatijų pasaulis",
+   "bullets": [
+    "Įtarti esant trombocitopenijai, anemijai ir bent vieno organo (dažniausiai inkstų) pažaidai.",
+    "Tirti šistocitus (net vienas — signalas), LDH (padidėjęs), haptoglobiną (sumažėjęs), Kumbso mėginį (neigiamas); koaguliograma — diferencinei diagnostikai, esant TMA ji normali.",
+    "Du svarbiausi tyrimai: šiga toksinas išmatose ir ADAMTS13 aktyvumas (mažiau 10 % — TTP, hematologams; daugiau 10 % — komplemento TMA, nefrologams).",
+    "Trigeriai: nėštumas, piktybinė hipertenzija, transplantacija, autoimuninės būklės."
+   ]
+  },
+  {
+   "title": "Gydymas",
+   "start": 6484,
+   "end": 6643,
+   "part": "VU Santaros klinikų nefrologė — retos ligos: trombinių mikroangiopatijų pasaulis",
+   "bullets": [
+    "Ekulizumabas (C5 blokatorius, kas 2 savaites) arba ilgiau veikiantis ravulizumabas (kartą per mėnesį): regresuoja anemija ir trombocitopenija, laiku pradėjus atsistato inkstų funkcija.",
+    "Neaiškiu atveju pradedama nuo plazmaferezės."
+   ]
+  },
+  {
+   "title": "Aterotrombozė",
+   "start": 10865,
+   "end": 11471,
+   "part": "Dr. Vacis Tatarūnas (LSMU Kardiologijos institutas) — mikroorganizmai ir trombozė ūminių išeminių sindromų metu",
+   "bullets": [
+    "Lietuvoje išeminės širdies ligos sergamumas ir mirštamumas didžiausi Europos Sąjungoje; būdingas aukštas kraujospūdis vyrams ir nepalankus lipidų santykis.",
+    "Aterotrombozė vyksta plyšus plokštelės fibroziniam dangteliui arba dėl erozijos (20–40 % atvejų, dažniau jauniems). Eroziją skatina ir NETozė bei trombocitų aktyvacija per TLR receptorius."
+   ]
+  },
+  {
+   "title": "Trombocitai ir infekcija",
+   "start": 11471,
+   "end": 11983,
+   "part": "Dr. Vacis Tatarūnas (LSMU Kardiologijos institutas) — mikroorganizmai ir trombozė ūminių išeminių sindromų metu",
+   "bullets": [
+    "Trombocitai turi daugybę receptorių (C tipo lektino, TLR2, TLR4, viduląstelinius TLR3, 7, 9) ir dalyvauja kovoje su bakterijomis ir virusais.",
+    "Jau 1901 m. aprašyta, kad bakteriemija kartu su kraujagyslės pažeidimu gyvūnams sukelia trombozę."
+   ]
+  },
+  {
+   "title": "Bakterijos plokštelėse ir trombuose",
+   "start": 11983,
+   "end": 12292,
+   "part": "Dr. Vacis Tatarūnas (LSMU Kardiologijos institutas) — mikroorganizmai ir trombozė ūminių išeminių sindromų metu",
+   "bullets": [
+    "Aterosklerozinėse plokštelėse randama bakterijų DNR; dažniausiai — burnos mikrofloros (Porphyromonas, Prevotella, Treponema), taip pat Chlamydia, citomegalo virusas, Helicobacter pylori, herpes virusas.",
+    "Bioplėvelės apsaugo bakterijas nuo antibiotikų, todėl profilaktinis antibiotikų skyrimas problemos neišsprendžia."
+   ]
+  },
+  {
+   "title": "Tyrimo rezultatai",
+   "start": 12292,
+   "end": 12984,
+   "part": "Dr. Vacis Tatarūnas (LSMU Kardiologijos institutas) — mikroorganizmai ir trombozė ūminių išeminių sindromų metu",
+   "bullets": [
+    "75 ūminiu išeminiu sindromu sergančių pacientų ir sveikų asmenų kraujyje tirti bakterijų 16S rRNR ir bioplėveles formuojančių enterobakterijų genai (PGR). Sveikiems jų nerasta.",
+    "Pacientai, kurių kraujyje rasta enterobakterijų genų, dažniau buvo jaunesni nei 65 metų ir dažniau sirgo cukriniu diabetu; jiems nustatyta daugiau antimikrobinio peptido LL-37 ir arachidono rūgšties metabolito 12S-HETE.",
+    "Klinikinis atvejis: parvovirusas B19 nustatytas praėjus 3 mėnesiams po ūminio išeminio sindromo — galimas miokarditas, pasireiškiantis kaip infarktas."
+   ]
+  },
+  {
+   "title": "Kur daromos klaidos",
+   "start": 13006,
+   "end": 13344,
+   "part": "Dr. Valdas Banys — ar galima pasitikėti laboratorijų rezultatais: krešėjimo tyrimų preanalitika",
+   "bullets": [
+    "Diagnostinių klaidų, kylančių dėl neteisingai atlikto tyrimo, tik apie 8 %; dažniausiai tyrimas neužsakomas, netinkamai parenkamas ar klaidingai interpretuojamas.",
+    "Analitinės klaidos — tik ledkalnio viršūnė; didžioji dalis — preanalitinės ir poanalitinės.",
+    "Trombofilijos žymenys dažnai užsakomi per anksti — jie svarbūs praėjus ūminiam trombozės periodui."
+   ]
+  },
+  {
+   "title": "Netinkamas mėgintuvėlis",
+   "start": 13344,
+   "end": 13557,
+   "part": "Dr. Valdas Banys — ar galima pasitikėti laboratorijų rezultatais: krešėjimo tyrimų preanalitika",
+   "bullets": [
+    "Krešėjimo tyrimams tinka tik citratinė plazma. EDTA plazmoje PT ir aPTT pailgėja maždaug dvigubai, keičiasi fibrinogenas ir D-dimerai; serume ir heparino plazmoje krešėjimo laikų išmatuoti neįmanoma.",
+    "Heparino plazmoje proteinų C ir S aktyvumas būna neišmatuojamai mažas — klaidingai galvojama apie trombofiliją."
+   ]
+  },
+  {
+   "title": "Kaip imti",
+   "start": 13557,
+   "end": 14053,
+   "part": "Dr. Valdas Banys — ar galima pasitikėti laboratorijų rezultatais: krešėjimo tyrimų preanalitika",
+   "bullets": [
+    "Eiliškumas: citratinis mėgintuvėlis — pirmas (jei imamas kraujo pasėlis — po jo).",
+    "Imant tiesia adata išmetamo mėgintuvėlio nereikia; imant per Luer adapterį ar „peteliškę“ — reikia.",
+    "Nepripildymas: 10 % trūkumas pailgina aPTT iki 10 s, daugiau — iki 20 s; PT reikšmingai pailgėja, kai trūksta pusės tūrio (3,2 % citratas); fibrinogenas mažėja trūkstant trečdalio.",
+    "Užteršimas: EDTA kraujo (apie trečdalis tūrio) — PT ir aPTT ilgėja, fibrinogenas mažėja; serumo mėgintuvėlio krešėjimo aktyvatorius — klaidingai trumpi krešėjimo laikai.",
+    "Turniketas: pokyčiai reikšmingi jau po 1 min.; po 3 min. trumpėja krešėjimo laikai, didėja fibrinogenas ir D-dimerai. Kai venos matomos — imti be turniketo, kitaip laikyti ne ilgiau 1 min.",
+    "Europos tyrimo duomenimis, nepripildyto mėgintuvėlio neatmeta tik 60 % kraują imančio personalo, turniketo iki 1 min. laikosi tik apie pusė."
+   ]
+  },
+  {
+   "title": "Krešuliai, hemolizė, hematokritas",
+   "start": 14053,
+   "end": 14673,
+   "part": "Dr. Valdas Banys — ar galima pasitikėti laboratorijų rezultatais: krešėjimo tyrimų preanalitika",
+   "bullets": [
+    "Krešulį citratiniame mėgintuvėlyje aptikti vartant mėgintuvėlį arba dviem medinėmis lazdelėmis (CLSI); Pastero pipetė per plati. Nelygus trombocitų sluoksnis centrifuguotame mėginyje — įtarimo ženklas.",
+    "Hemolizė, lipemija ir bilirubinemija trikdo optinius metodus (mažiau — 670 nm bangos ilgį), mechaninė krešulio detekcija jiems beveik nejautri. Terminė hemolizė aPTT veikia jau esant ~1 g/l hemoglobino, mechaninė — tik esant daugiau 16 g/l.",
+    "<strong>D-dimerus bet kokia hemolizė klaidingai padidina.</strong>",
+    "Didelis hematokritas (pvz., sergant įgimtomis širdies ydomis): citrato per daug plazmos atžvilgiu, krešėjimo laikai ilgėja. Citrato kiekis perskaičiuojamas pagal CLSI nomogramą ar formulę ir įšvirkščiamas į mėgintuvėlį be priedų."
+   ]
+  },
+  {
+   "title": "Centrifugavimas, temperatūra, saugojimas",
+   "start": 14673,
+   "end": 15053,
+   "part": "Dr. Valdas Banys — ar galima pasitikėti laboratorijų rezultatais: krešėjimo tyrimų preanalitika",
+   "bullets": [
+    "1500 g ne trumpiau 10–15 min., be aktyvaus stabdymo; trumpesnį laiką reikia validuoti. Vilkligės antikoaguliantui — dvigubas centrifugavimas.",
+    "Plazmos negalima laikyti šaldytuve (2–8 °C) — aktyvuojasi VII faktorius, PT klaidingai trumpėja. Šaldytuve laikomame citratiniame kraujyje mažėja von Willebrando ir VIII faktoriai — klaidinga hemofilijos ar von Willebrando ligos išvada.",
+    "Atšildyti kontroliuojamoje 37 °C vandens vonelėje ir sumaišyti.",
+    "aPTT nefrakcionuoto heparino kontrolei tirti per ~1 val. (per valandą aPTT pailgėja ~20 %). Užšaldyta plazma: –20 °C — trumpai, –70 °C ir žemiau — bent pusmetį.",
+    "Preanalitinių klaidų pasekmės: praleistas antifosfolipidinis sindromas, klaidinga von Willebrando ligos diagnozė, be reikalo atidėtos operacijos, neteisinga antikoaguliantų dozė.",
+    "Owren metodas mažiau jautrus preanalitiniams veiksniams nei Quick."
+   ]
+  },
+  {
+   "title": "Du uždaviniai",
+   "start": 15242,
+   "end": 15768,
+   "part": "Prof. dr. Julius Ptašekas — antikoaguliacijos iššūkiai regioninės anestezijos kontekste",
+   "bullets": [
+    "Neuroaksinė nejautra (spinalinė, epidurinė) atliekama labai dažnai — nuo apendektomijos iki gimdymo. Antikoaguliacija kelia spinalinės hematomos riziką, o nutraukimas — retrombozės.",
+    "Draugijų (Amerikos, Europos, Prancūzijos, Skandinavijos) rekomendacijos skiriasi.",
+    "Laboratorija turi atsakyti į du klausimus: kiek antikoaguliantas slopina krešėjimą ir kaip elgiasi trombozė — progresuoja, regresuoja ar nesikeičia.",
+    "Klinika pasireiškia, kai obstrukcija viršija ~75 %; anksčiau procesą rodo tik biožymenys — fibrino monomerai ir aukšto specifiškumo D-dimerai. Esant 50 % specifiškumui „galima mesti monetą“."
+   ]
+  },
+  {
+   "title": "Koncentracija lemia nejautros tipą",
+   "start": 15795,
+   "end": 16041,
+   "part": "Prof. dr. Julius Ptašekas — antikoaguliacijos iššūkiai regioninės anestezijos kontekste",
+   "bullets": [
+    "TGAK terapinė koncentracija ~100–140 ng/ml; neuroaksinei nejautrai reikia arti nulio.",
+    "Mažiau 30 ng/ml — galima neuroaksinė nejautra; mažiau 50 ng/ml — galima bendroji nejautra ir operacija, bet ne neuroaksinė.",
+    "Kontrolė reikalinga, kai standartinė dozė gali duoti nestandartinį efektą. TGAK vartojimas plečiasi, todėl reanimacijose daugėja masyviai kraujuojančių pacientų."
+   ]
+  },
+  {
+   "title": "Nutraukimas ir atnaujinimas",
+   "start": 16041,
+   "end": 16326,
+   "part": "Prof. dr. Julius Ptašekas — antikoaguliacijos iššūkiai regioninės anestezijos kontekste",
+   "bullets": [
+    "Procedūrą atidėti ir pacientą ištirti, jei per paskutinius 3 mėnesius buvo trombozė ar kraujavimas; atskira situacija — nėštumas ir 6 savaitės po jo.",
+    "Rekomendacijos, po kiek pusinės eliminacijos laikų nutraukti (2, 3, 4 ar 6), skiriasi, o pats pusinės eliminacijos laikas priklauso nuo inkstų, kepenų, amžiaus, kitų vaistų. Kai neaišku — vienintelis būdas išmatuoti koncentraciją.",
+    "Atnaujinimas: pagal skirtingas draugijas nuo 8 val. iki 24–48 val."
+   ]
+  },
+  {
+   "title": "Atskiri vaistai",
+   "start": 16326,
+   "end": 16517,
+   "part": "Prof. dr. Julius Ptašekas — antikoaguliacijos iššūkiai regioninės anestezijos kontekste",
+   "bullets": [
+    "Dabigatranas: esant inkstų problemoms koncentracija gali padidėti iki 6 kartų; sergant COVID-19 — 4–8 kartus. Jei pacientas kraujuoja, o koncentracija mažiau ~140 ng/ml — kraujavimas greičiausiai ne dėl dabigatrano.",
+    "Rivaroksabanas: trečdalis eliminuojama per virškinamąjį traktą, ribojantis veiksnys — kepenų funkcija; sąveikos su antiagregantais ir antivirusiniais vaistais.",
+    "Antiagregantai su TGAK ryškiai didina kraujavimo riziką; klopidogreliui JAV yra įspėjimas dėl hematomų regioninės anestezijos metu.",
+    "Tyrimai: anti-Xa (tinka visiems Xa inhibitoriams, MMMH ir nefrakcionuotam heparinui, kai aPTT klaidina) ir ekarino laikas dabigatranui."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Po išeminio insulto siekti kraujospūdžio iki 130/80 mm Hg ir MTL cholesterolio iki 1,8 mmol/l (kardiologų tikslas labai didelei rizikai — 1,4).",
+  "Vaikams D-dimerai trombozei nei atmesti, nei patvirtinti netinka; trombofilijos tyrimai — tik pagal indikaciją.",
+  "Įtarus trombinę mikroangiopatiją tirti šistocitus, LDH, haptoglobiną, Kumbso mėginį, šiga toksiną ir ADAMTS13 aktyvumą.",
+  "Krešėjimo tyrimams: 3,2 % citratas, pripildyti iki žymos, citratinis mėgintuvėlis pirmas, turniketas ne ilgiau 1 min., plazmos nelaikyti šaldytuve, hemolizuotame mėginyje D-dimerai klaidingai dideli.",
+  "Prieš neuroaksinę nejautrą vartojant TGAK koncentracija turi būti mažesnė nei 30 ng/ml; neaiškiu atveju ją išmatuoti, o ne remtis vien laiku nuo paskutinės dozės."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Kraujospūdis po insulto",
+    "&lt; 130/80 mm Hg"
+   ],
+   [
+    "MTL cholesterolis po insulto",
+    "&lt; 1,8 mmol/l (kardiologai labai didelei rizikai &lt; 1,4)"
+   ],
+   [
+    "Trombolizė / trombektomija",
+    "iki 4,5 (atrinktiems 9) val. / iki 6 (atrinktiems 24) val."
+   ],
+   [
+    "Venų trombozė sergant ANCA vaskulitu",
+    "~14 %"
+   ],
+   [
+    "Trombozės sergant vilklige per 5 m.",
+    "iki 16 %"
+   ],
+   [
+    "Vaikams D-dimerai normalūs esant PATE",
+    "iki 15 % atvejų"
+   ],
+   [
+    "ADAMTS13 aktyvumas",
+    "&lt; 10 % — TTP; &gt; 10 % — komplemento TMA"
+   ],
+   [
+    "Mėgintuvėlio nepripildymas 10 %",
+    "aPTT +10 s"
+   ],
+   [
+    "Turniketas",
+    "≤ 1 min."
+   ],
+   [
+    "Centrifugavimas",
+    "1500 g, 10–15 min., be stabdymo"
+   ],
+   [
+    "aPTT (NFH kontrolė) ištirti",
+    "per ~1 val."
+   ],
+   [
+    "TGAK neuroaksinei nejautrai",
+    "&lt; 30 ng/ml (arti 0)"
+   ],
+   [
+    "TGAK bendrajai nejautrai",
+    "&lt; 50 ng/ml"
+   ],
+   [
+    "TGAK terapinė koncentracija",
+    "~100–140 ng/ml"
+   ]
+  ]
+ },
+ "reviewed": false
+}

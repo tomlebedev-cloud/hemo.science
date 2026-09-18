@@ -101,7 +101,7 @@
   "duration": 19722,
   "youtube": "Sth56WnmB7k",
   "conference": true,
-  "konspektas": false
+  "konspektas": true
  },
  {
   "id": 21,
@@ -348,7 +348,7 @@
   "duration": 18117,
   "youtube": null,
   "conference": true,
-  "konspektas": false
+  "konspektas": true
  },
  {
   "id": 33,

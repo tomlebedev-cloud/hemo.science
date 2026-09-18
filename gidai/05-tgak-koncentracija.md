@@ -21,12 +21,16 @@ TGAK buvo pristatyti kaip nereikalaujantys kontrolės, tačiau kaip ir kiekviena
 - Įtariama vaistų sąveika [[18@10:52]].
 - Nepaisant gydymo auga D-dimerai ar fibrino monomerai [[18@5:33]].
 
+Nacionalinėse gairėse papildomai išvardyti: nėštumas, vaikai, senyvas amžius, nežinoma, ar pacientas vartoja vaistą (pvz., be sąmonės), malabsorbcija, inkstų hiperfunkcija, režimo laikymosi patikra [[22@3:24:31]].
+
 Kraują imti praėjus 4–5 valandoms po dozės [[18@15:42]]. Didžiausia koncentracija būna po 1–4 val., mažiausia — iki 24 val. [[28@17:50]].
 
 ## Kokiu tyrimu
 
 - Xa inhibitoriams (rivaroksabanui, apiksabanui) — anti-Xa testas su konkretaus vaisto kalibratoriumi [[18@14:24]] [[2@45:17]].
-- Dabigatranui — ekarino testas, nes tai tiesioginis trombino inhibitorius [[18@14:24]] [[35@16:40]].
+- Dabigatranui — ekarino testas, nes tai tiesioginis trombino inhibitorius [[18@14:24]] [[35@16:40]]. Normalus trombino laikas reiškia, kad dabigatrano beveik nėra [[22@3:24:31]].
+- aPTT skubiai dabigatrano poveikio patikrai netinka — jis gali būti normalus esant vaistui [[22@4:41:21]].
+- Patvirtintų terapinių intervalų nėra — remiamasi ISTH nurodytomis minimaliomis ir maksimaliomis koncentracijomis [[22@3:24:31]].
 
 ## Ribos
 
@@ -36,7 +40,8 @@ Kraują imti praėjus 4–5 valandoms po dozės [[18@15:42]]. Didžiausia koncen
 | Terapinė nesėkmė | mažiau 100 ng/ml | [[11]] |
 | Nerekomenduojama viršyti, kraujavimo rizika | daugiau ~200 ng/ml | [[11]] [[18]] |
 | Operacija | mažiau 50 ng/ml, saugiau mažiau 30 | [[13@8:25]] [[25@20:04]] [[28@13:30]] |
-| Neuroašinė anestezija, neurochirurgija, trombolizė | 0 ng/ml | [[18@13:45]] [[5]] |
+| Neuroaksinė nejautra | mažiau 30 ng/ml (arti 0) | [[34@4:23:15]] |
+| Neurochirurgija, trombolizė | 0 ng/ml | [[18@13:45]] [[5]] [[22@4:41:21]] |
 
 ## Perioperacinis algoritmas
 
@@ -47,6 +52,14 @@ Pagal Prancūzijos algoritmą, kurį pranešėjas pristato kaip pavyzdį ir kuri
 | mažiau 30 ng/ml | galima operuoti |
 | 30–200 ng/ml | laukti ~12 val. ir kartoti tyrimą; jei laukti negalima — ruoštis kraujavimui |
 | daugiau 400 ng/ml | kraujavimo zona; operuoti tik esant labai rimtai indikacijai |
+
+Respublikinės Vilniaus universitetinės ligoninės algoritme kraujuojant skiriamas antidotas (dabigatranui), o Xa inhibitoriams, kurių antidoto Lietuvoje nėra, — PCC arba FEIBA [[22@4:41:21]].
+
+## Regioninė anestezija
+
+- Draugijų rekomendacijos, po kiek pusinės eliminacijos laikų nutraukti TGAK prieš neuroaksinę nejautrą, skiriasi, o pats pusinės eliminacijos laikas priklauso nuo inkstų, kepenų, amžiaus ir kitų vaistų [[34@4:27:21]].
+- Kai neaišku — išmatuoti koncentraciją: mažiau 30 ng/ml — galima neuroaksinė nejautra; mažiau 50 ng/ml — galima bendroji nejautra, bet ne neuroaksinė [[34@4:23:15]].
+- Procedūrą atidėti ir pacientą ištirti, jei per paskutinius 3 mėnesius buvo trombozė ar kraujavimas [[34@4:27:21]].
 
 ## Kada TGAK netinka
 

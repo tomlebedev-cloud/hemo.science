@@ -113,10 +113,18 @@
   }
 
   function renderToc(k, play) {
-    const items = k.sections.map((s, i) => el('li', {}, [
-      el('a', { href: `#d${i + 1}`, html: s.title }),
-      timeButton(s.start, play, plain(s.title)),
-    ]));
+    const items = [];
+    let part = null;
+    k.sections.forEach((s, i) => {
+      if (s.part && s.part !== part) {
+        part = s.part;
+        items.push(el('li', { class: 'toc-part', text: part }));
+      }
+      items.push(el('li', {}, [
+        el('a', { href: `#d${i + 1}`, html: s.title }),
+        timeButton(s.start, play, plain(s.title)),
+      ]));
+    });
     const extra = [];
     if (k.takeaways.length) extra.push(el('li', {}, el('a', { href: '#isvados', text: 'Praktinės išvados' })));
     if (k.table && k.table.rows.length) extra.push(el('li', {}, el('a', { href: '#ribos', text: 'Rodmenys ir ribos' })));
@@ -141,7 +149,9 @@
     const { box, play } = makeVideo(item);
     const meta = [
       fmtDate(item), fmtDuration(item.duration), item.lang && `${LANG[item.lang]} k.`,
-      item.slides && item.slides !== LANG[item.lang] ? `skaidrės: ${item.slides.toLowerCase()} k.` : null,
+      item.slides && item.slides !== LANG[item.lang]
+        ? (item.slides.startsWith('Įvairios') ? 'skaidrės įvairiomis kalbomis' : `skaidrės: ${item.slides.toLowerCase()} k.`)
+        : null,
       item.conference ? 'keli pranešėjai' : null,
     ].filter(Boolean);
 

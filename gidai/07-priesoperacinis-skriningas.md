@@ -8,6 +8,8 @@ perziureta: ne
 ## Nuo ko pradėti
 
 - Pirmiausia — asmens ir šeimos anamnezė dėl kraujavimų, tik paskui tyrimai [[3@11:13]]. Tyrimų rinkinys parenkamas pagal anamnezę, ne pagal laboratorijos galimybes [[13@23:01]] [[25@13:14]].
+- Neigiama anamnezė ir mažos kraujavimo rizikos operacija — hemostazės tyrimų nereikia; didelės rizikos operacija (kardiochirurgija, kraujagyslių, onkologinės, bet kuri didelės apimties ilgiau nei 45 min.) — rutininiai tyrimai; jei jie normalūs, o rizika didelė — specializuoti tyrimai, pvz., von Willebrando ligos paieška [[22@3:46:50]].
+- Priešoperacinis trombozinių būklių tyrimas be indikacijų nerekomenduojamas [[22@3:46:50]].
 - Anamnezei vertinti tinka ISTH kraujavimo balų skalė: norma suaugusiems vyrams mažiau 4, moterims mažiau 6, vaikams mažiau 3 balų [[3@11:13]].
 - Maždaug 75–80 % pacientų yra mažos rizikos ir problemų neturės, bet tai reikia patvirtinti tyrimais; likusiems pasiruošimas lemia operacijos saugumą [[13@30:20]] [[28@8:20]] [[3@23:17]].
 
@@ -31,6 +33,17 @@ perziureta: ne
 - **Protrombino laikas** vertina II, VII ir X faktorius. VII faktoriaus pusgyvenis trumpiausias, jo stoka gali susiformuoti per valandas, o ją parodo tik protrombino laikas [[3@17:37]].
 - **Fibrinogenas** parodo, koks stiprus susidarys krešulys [[13@6:13]] [[28@0:25]].
 - **Trombocitų skaičius nėra jų funkcijos rodiklis.** Funkcijai — standartizuotas kraujavimo laikas (norma 2–7 ar 2–8 min., netinka esant šokui) arba agregometrija [[13@13:42]] [[17@8:32]].
+
+## PT ir aPTT deriniai
+
+| Derinys | Galimos priežastys |
+|---|---|
+| Izoliuotai pakitęs PT (Owren) | VII faktoriaus stoka ar inhibitorius |
+| Izoliuotai pailgėjęs aPTT | VIII, IX, XI ar XII faktorių stoka, vilkligės antikoaguliantas |
+| Abu pakitę | vitamino K stoka, kepenų liga, vaistai |
+| Abu normalūs, bet pacientas kraujuoja | XIII faktoriaus stoka, trombocitų patologija, fibrinolizė |
+
+Šaltiniai: [[3@18:37]] [[22@3:52:54]]. Izoliuotai labai ilgas aPTT be kraujavimo (net iki 250 s) gali būti XII faktoriaus stoka — tokie pacientai nekraujuoja [[22@3:52:54]]. Vaikui su izoliuotai pailgėjusiu aPTT prieš operaciją pirmiausia daromas maišymo mėginys: randamas inhibitorius dažniausiai yra laikinas vilkligės antikoaguliantas po infekcijos [[22@1:08:17]].
 
 ## Ribos operuoti
 
@@ -65,6 +78,18 @@ Kai rodmenys ties riba (pvz., INR 1,4, aPTT 59 s, fibrinogenas 1,8 g/l), padeda 
 | FIBTEM | daugiau 12 mm |
 
 Sonoreometrija rezultatą pateikia spalvomis; jei visi rodmenys žali, operuoti gana saugu net esant ribiniams laboratoriniams rodmenims [[28@19:51]].
+
+## Preanalitika
+
+Klaidingai pailgėję PT ar aPTT dažnai reiškia ne ligą, o netinkamai paimtą mėginį [[34@3:36:46]]:
+
+- tik 3,2 % natrio citratas, citratinis mėgintuvėlis imamas pirmas, pripildomas iki žymos (10 % trūkumas pailgina aPTT iki 10 s);
+- turniketas ne ilgiau 1 min.;
+- imant per „peteliškę“ ar Luer adapterį pirmą mėgintuvėlį išmesti;
+- plazmos nelaikyti šaldytuve (aktyvuojasi VII faktorius);
+- esant dideliam hematokritui citrato kiekį perskaičiuoti.
+
+Šaltiniai: [[34@3:45:57]] [[34@4:04:33]] [[22@3:37:11]].
 
 ## Ko reikia laboratorijai
 
