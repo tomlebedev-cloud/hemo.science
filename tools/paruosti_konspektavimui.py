@@ -130,18 +130,19 @@ def main():
             print(f'     garsas: {audio}, skaidrių kadrai: {slides}', flush=True)
         has_audio = (folder / 'garsas.mp3').exists()
         n_slides = len(list((folder / 'skaidres').glob('*.jpg'))) if (folder / 'skaidres').exists() else 0
-        has_tr = any(folder.glob('transkripcija*.txt'))
-        rows.append((it, folder.name, has_audio, n_slides, has_tr))
+        has_tr = (folder / 'transkripcija.txt').exists()
+        has_k = (folder / 'konspektas.md').exists()
+        rows.append((it, folder.name, has_audio, n_slides, has_tr, has_k))
 
     md = ['# Konspektavimo medžiaga', '',
-          '| Nr. | Metai | Tema | Trukmė | Šaltinis | Garsas | Skaidrės | Transkripcija |',
-          '|---:|---|---|---:|---|:-:|---:|:-:|']
-    for it, name, a, s, t in rows:
+          '| Nr. | Metai | Tema | Trukmė | Šaltinis | Garsas | Skaidrės | Transkripcija | Konspektas |',
+          '|---:|---|---|---:|---|:-:|---:|:-:|:-:|']
+    for it, name, a, s, t, k in rows:
         src = 'failas' if it['file'] else ('YouTube' if it['link'] else '—')
         md.append(f'| {it["nr"]} | {it["year"] or ""} | [{slug(it["title"], 80)}](<{name}/info.md>) | '
-                  f'{hms(it["duration"])} | {src} | {"✓" if a else ""} | {s or ""} | {"✓" if t else ""} |')
+                  f'{hms(it["duration"])} | {src} | {"✓" if a else ""} | {s or ""} | {"✓" if t else ""} | {f"[✓](<{name}/konspektas.md>)" if k else ""} |')
     md += ['', f'Iš viso: {len(rows)} pranešimų; garsas paruoštas {sum(r[2] for r in rows)}, '
-               f'transkripcija {sum(r[4] for r in rows)}.', '']
+               f'transkripcija {sum(r[4] for r in rows)}, konspektas {sum(r[5] for r in rows)}.', '']
     (OUT / 'SARASAS.md').write_text('\n'.join(md), encoding='utf-8')
     print('SARASAS.md atnaujintas')
 

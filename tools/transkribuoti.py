@@ -45,14 +45,20 @@ def main():
     ap.add_argument('--greitas', action='store_true',
                     help='beam_size=1 ir paketinis apdorojimas – greičiau, šiek tiek prasčiau')
     ap.add_argument('--paketas', type=int, default=8, help='paketo dydis su --greitas')
+    ap.add_argument('--kalba', help='priverstinė kalba (pvz. en), nepaisant info.md')
+    ap.add_argument('--perdaryti', action='store_true', help='perrašyti esamas transkripcijas')
+    ap.add_argument('--priesaga', default='', help='failo priesaga, pvz. .en → transkripcija.en.txt')
     args = ap.parse_args()
+    out_txt = f'transkripcija{args.priesaga}.txt'
+    out_srt = f'transkripcija{args.priesaga}.srt'
 
     folders = [f for f in sorted(OUT.iterdir()) if f.is_dir() and (f / 'garsas.mp3').exists()]
     if args.nr:
         folders = [f for f in folders if int(f.name[:2]) in args.nr]
     if args.praleisti:
         folders = [f for f in folders if int(f.name[:2]) not in args.praleisti]
-    folders = [f for f in folders if not (f / 'transkripcija.txt').exists()]
+    if not args.perdaryti:
+        folders = [f for f in folders if not (f / out_txt).exists()]
     if args.nuo_trumpiausio:
         folders.sort(key=lambda f: (f / 'garsas.mp3').stat().st_size)
     if not folders:
@@ -69,7 +75,7 @@ def main():
         runner = BatchedInferencePipeline(model=model)
 
     for i, folder in enumerate(folders, 1):
-        lang = info_lang(folder)
+        lang = args.kalba or info_lang(folder)
         audio = folder / 'garsas.mp3'
         mb = audio.stat().st_size / 2 ** 20
         print(f'\n[{i}/{len(folders)}] {folder.name}  ({mb:.0f} MB, kalba: {lang or "auto"})', flush=True)
@@ -89,8 +95,8 @@ def main():
             srt.append(f'{n}\n{stamp(seg.start, True)} --> {stamp(seg.end, True)}\n{line}\n')
             if n % 25 == 0:
                 print(f'   ... {stamp(seg.start)}', flush=True)
-        (folder / 'transkripcija.txt').write_text('\n'.join(txt) + '\n', encoding='utf-8')
-        (folder / 'transkripcija.srt').write_text('\n'.join(srt), encoding='utf-8')
+        (folder / out_txt).write_text('\n'.join(txt) + '\n', encoding='utf-8')
+        (folder / out_srt).write_text('\n'.join(srt), encoding='utf-8')
         mins = (time.time() - t0) / 60
         print(f'   baigta per {mins:.1f} min., {len(txt)} eilučių, aptikta kalba: {info.language}', flush=True)
 
