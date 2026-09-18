@@ -1,0 +1,130 @@
+{
+ "summary": [
+  "Kada tiesioginių geriamųjų antikoaguliantų (TGAK) pakanka skirti pagal standartinę schemą, o kada reikia išmatuoti vaisto koncentraciją kraujyje. Pabaigoje — konkretus atvejis, kai standartinė profilaktika po kelio sąnario operacijos nesuveikė."
+ ],
+ "sections": [
+  {
+   "title": "Kodėl venų trombozė gydoma antikoaguliantais",
+   "start": 70,
+   "end": 153,
+   "part": null,
+   "bullets": [
+    "Venų trombas: ~70 % fibrino, 30 % trombocitų — todėl slopinama fibrino gamyba.",
+    "Arterinis trombas: ~70 % trombocitų — todėl skiriami antiagregantai."
+   ]
+  },
+  {
+   "title": "Idealaus antikoagulianto samprata",
+   "start": 183,
+   "end": 285,
+   "part": null,
+   "bullets": [
+    "Idealus vaistas būtų patogus vartoti, greitai pradėtų veikti, nereikalautų tilto keičiant vaistą, nesąveikautų su kitais vaistais ir maistu, nesikauptų esant inkstų nepakankamumui, turėtų nuspėjamą veikimo pradžią bei pabaigą ir pigų antidotą.",
+    "Tokio vaisto nėra ir vargu ar bus. <strong>Kada kontrolės nereikia</strong> [08:35–09:15, 20:39]",
+    "Jei standartinė dozė (pvz., 10 ar 20 mg) sukelia standartinį efektą — trombozė regresuoja, profilaktika veikia — laboratorinė kontrolė nereikalinga.",
+    "Problema ta, kad visi tikisi būti „standartiniu atveju“ net turėdami, pavyzdžiui, lėtinę inkstų ligą.",
+    "Pacientams, nesilaikantiems režimo, reguliari kontrolė (kaip su varfarinu) kartais padeda drausminti."
+   ]
+  },
+  {
+   "title": "Kada koncentraciją matuoti būtina",
+   "start": 853,
+   "end": 1005,
+   "part": null,
+   "bullets": [
+    "Pacientas kraujuoja (kraujavimas gali būti ir dėl kitų priežasčių — verta patikrinti, ar vaisto koncentracija tikrai per didelė).",
+    "Skubi operacija, politrauma.",
+    "Įtariamas perdozavimas, įskaitant režimo nesilaikymą.",
+    "Ūmus inkstų ar kepenų funkcijos sutrikimas; taip pat lėtinis nepakankamumas.",
+    "Labai didelis kūno svoris: riebalinis audinys menkai vaskuliarizuotas, todėl cirkuliuojančio kraujo tūris nepadidėja proporcingai svoriui ir dozavimas tampa nepatikimas.",
+    "Įtariama vaistų sąveika (koncentracija gali būti ir 200, ir 50 vietoj 100)."
+   ]
+  },
+  {
+   "title": "Kada TGAK apskritai netinka",
+   "start": 738,
+   "end": 833,
+   "part": null,
+   "bullets": [
+    "Trombofilinės būklės, onkologinis procesas, antifosfolipidinis sindromas, nėštumas — tokiais atvejais renkamasi mažos molekulinės masės heparinas.",
+    "Pacientas turi būti hemodinamiškai stabilus.",
+    "Nuo 2016 m. galioja dokumentas, nurodantis, kad TGAK skiriami tik atrinktiems pacientams, kai galima tikėtis standartinio efekto; visiems kitiems — konvencinė antikoaguliacija. <strong>Terapinės nesėkmės atpažinimas</strong> [10:01–11:23, 17:00–18:20]",
+    "Iki 70 % giliųjų venų trombozių ir plaučių arterijos embolijų yra besimptomės, todėl klinika nepatikima.",
+    "Ankstyviausias signalas — <strong>tirpūs fibrino monomerai</strong>: jų augimas rodo prasidėjusią retrombozę.",
+    "D-dimerai gydant turi mažėti; jei nemažėja arba auga, gydymas neveiksmingas.",
+    "Radus nesėkmę galima didinti dozę, derinti su antiagregantais arba pereiti prie heparinizacijos ir vėliau grįžti."
+   ]
+  },
+  {
+   "title": "Prieš operaciją",
+   "start": 1129,
+   "end": 1213,
+   "part": null,
+   "bullets": [
+    "Standartinis nutraukimas 48 val. prieš operaciją negarantuoja saugios koncentracijos, ypač esant trombofilijai ar inkstų funkcijos sutrikimui.",
+    "Operuoti galima, kai koncentracija mažiau 30 ng/ml; neuroašinėms procedūroms reikia nulio.",
+    "Tyrimai: ekarino testas dabigatranui, anti-Xa rivaroksabanui.",
+    "Jei koncentracija per didelė — atidėti intervenciją arba pasiruošti antidotą, kuris nėra pigus."
+   ]
+  },
+  {
+   "title": "Atvejis: kada standartinė schema nesuveikė",
+   "start": 1402,
+   "end": 1570,
+   "part": null,
+   "bullets": [
+    "Jaunas pacientas, ūgis daugiau nei 2 m, svoris apie 140–150 kg, kelio sąnario artroplastika. Prieš operaciją laboratorinis ištyrimas nebuvo atliktas.",
+    "Po operacijos skirta profilaktika rivaroksabanu 10 mg kartą per parą. Išsivystė giliųjų venų trombozės klinika, D-dimerai tūkstančiais.",
+    "Pereita prie nadroparino 0,6 du kartus per parą — tai atitinka gaires, tačiau D-dimerai kilo toliau iki 3000, klinika blogėjo.",
+    "Patikrinus anti-Xa gautas tik apie 0,06 (terapinis intervalas 0,3–0,7).",
+    "Padidinus nadroparino dozę pasiektas anti-Xa 0,6; D-dimerai nukrito iki 670, klinika regresavo.",
+    "Išvada: neveikiančio antikoagulianto neįmanoma atpažinti be laboratorinio rodmens."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Standartinė dozė tinka tik tada, kai galima tikėtis standartinio efekto; kitais atvejais reikia matuoti.",
+  "Terapinė koncentracija apie 100–140 ng/ml: virš 200 — kraujavimo rizika, žemiau 100 — terapinė nesėkmė.",
+  "Gydymo veiksmingumą sekti fibrino monomerais ir D-dimerais, o ne vien klinika.",
+  "Labai didelis svoris, inkstų ar kepenų sutrikimai ir trombofilija yra signalai, kad TGAK gali netikti.",
+  "Prieš operaciją remtis koncentracija, o ne vien 48 valandų taisykle.",
+  "Kai heparinas neveikia, pirmiausia patikrinti anti-Xa, o ne keisti vaistą."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "TGAK terapinė koncentracija",
+    "~100–140 ng/ml"
+   ],
+   [
+    "TGAK, kraujavimo rizika",
+    "&gt; 200 ng/ml"
+   ],
+   [
+    "TGAK, terapinė nesėkmė",
+    "&lt; 100 ng/ml"
+   ],
+   [
+    "TGAK prieš operaciją",
+    "&lt; 30 ng/ml; neuroašinėms procedūroms 0"
+   ],
+   [
+    "Anti-Xa, heparino terapija",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "D-dimerų specifiškumas",
+    "ne mažiau 70–75 %"
+   ],
+   [
+    "Besimptomės GVT ir PATE",
+    "iki 70 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

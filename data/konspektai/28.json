@@ -1,0 +1,185 @@
+{
+ "summary": [
+  "Priešoperacinė hemostazės kontrolė: rizikos grupės ir joms skirti tyrimai, antikoaguliantų liekamojo poveikio ribos, kada imti kraują tyrimui po paskutinės dozės ir ką daryti, kai rezultatai „pilkoje zonoje“."
+ ],
+ "sections": [
+  {
+   "title": "Balansas ir tyrimai",
+   "start": 25,
+   "end": 383,
+   "part": null,
+   "bullets": [
+    "Kairė pusė — krešėjimo baltymai: aPTT (daugiau kaip 8 faktoriai), protrombino laikas (varfarino kontrolė ir kepenų rezervas) ir fibrinogenas.",
+    "Fibrinogenas priešoperaciniame etape ypač svarbus: laboratorijoje nematome, kaip generuojamas trombinas, todėl kontroliuojame jo „rezultatą“ — fibrinogeno koncentraciją.",
+    "Dešinė pusė — fibrinolizė: fibrino monomerai (ankstyvas prieštrombozinis žymuo) ir kuo aukštesnio specifiškumo D-dimerai (potrombozinis).",
+    "Kiti dalyviai: kraujagyslių endotelis (gali skatinti trombozę arba kraujuoti per praplatėjusius tarpus), trombocitai, natūralūs inhibitoriai (antitrombinas III, proteinai C ir S)."
+   ]
+  },
+  {
+   "title": "Du vertinimo tikslai ir dvi situacijos",
+   "start": 383,
+   "end": 485,
+   "part": null,
+   "bullets": [
+    "Įvertinti hemostazės rezervą ir įvertinti rizikas.",
+    "Planinė operacija ir skubi operacija turi skirtingus uždavinius ir laiko rėmus.",
+    "Problemos: kraujavimai, trombozės, jų derinys (DIK), liekamasis antikoaguliantų ir antiagregantų poveikis; nepamiršti ir chirurginių priežasčių."
+   ]
+  },
+  {
+   "title": "Kraujavimo rizikos grupės",
+   "start": 500,
+   "end": 663,
+   "part": null,
+   "bullets": [
+    "Labai didelė: teigiama ir šeimos, ir asmens anamnezė dėl chirurginių kraujavimų.",
+    "Didelė: teigiama tik asmens anamnezė.",
+    "Maža: abi neigiamos. Tokių pacientų 75–80 %, jiems reikia minimumo tyrimų.",
+    "Kiekvienai grupei nustatytos aPTT, protrombino laiko, fibrinogeno, trombocitų ir faktorių ribos: žalia — operuoti, raudona — konsultuotis ir, jei įmanoma, atidėti; skubiu atveju ruoštis transfuzijoms ir masyviam kraujavimui.",
+    "Mažos rizikos grupei pakanka aPTT ir fibrinogeno. aPTT pailgėjęs daugiau kaip 30 % arba fibrinogenas mažiau 1,5 g/l — konsultuotis su specialistu."
+   ]
+  },
+  {
+   "title": "Trombozės rizikos grupės",
+   "start": 663,
+   "end": 764,
+   "part": null,
+   "bullets": [
+    "Tas pats stratifikacijos principas. Centre — aukšto specifiškumo D-dimerai ir fibrino monomerai, taip pat trombofilijos žymenys ir trombocitai.",
+    "Mažos rizikos grupei pakanka fibrinogeno ir D-dimerų."
+   ]
+  },
+  {
+   "title": "Įtariamas liekamasis antikoaguliacijos poveikis",
+   "start": 764,
+   "end": 810,
+   "part": null,
+   "bullets": [
+    "Toks pacientas automatiškai priskiriamas didelės rizikos grupei ir tiriamas atitinkamai.",
+    "Visų antikoaguliantų galutinis rezultatas tas pats — sumažėjusi trombino generacija."
+   ]
+  },
+  {
+   "title": "Ribos operuoti",
+   "start": 810,
+   "end": 1025,
+   "part": null,
+   "bullets": [
+    "<strong>Varfarinas:</strong> Owren INR mažiau 1,3; kolonoskopijai — iki 1,7. Quick metodas papildomai reaguoja į I ir V faktorius, todėl esant fibrinogeno pokyčiams ar V faktoriaus mutacijai duoda klaidingą INR.",
+    "<strong>Nefrakcionuotas heparinas:</strong> aPTT mažiau 55 s, bet kritinės būklės pacientui ir esant faktorių disbalansui geriausia anti-Xa.",
+    "<strong>Mažos molekulinės masės heparinai</strong> (nadroparinas, dalteparinas): anti-Xa mažiau 0,4.",
+    "<strong>Fondaparinuksas:</strong> mažiau 0,1.",
+    "<strong>Rivaroksabano grupė ir dabigatranas:</strong> mažiau 50 ng/ml; specialiose situacijose (regioninė anestezija) — 30 arba 0."
+   ]
+  },
+  {
+   "title": "Kada imti kraują tyrimui",
+   "start": 920,
+   "end": 1070,
+   "part": null,
+   "bullets": [
+    "Esant nuolatinei nefrakcionuoto heparino infuzijai — bet kada.",
+    "Skiriant porcijomis — valandą prieš kitą porciją (terapinės koncentracijos atveju).",
+    "Mažos molekulinės masės heparinas — praėjus kelioms valandoms po injekcijos.",
+    "Perioperaciniam liekamajam poveikiui: po paskutinės nefrakcionuoto heparino dozės laukti mažiausiai 12 valandų; po mažos molekulinės masės heparino — 24–48, iki 72 valandų.",
+    "TGAK: pikas po 1–4 valandų; mažiausia koncentracija (trough) — iki 24 valandų po dozės."
+   ]
+  },
+  {
+   "title": "Perioperacinis TGAK algoritmas",
+   "start": 1070,
+   "end": 1162,
+   "part": null,
+   "bullets": [
+    "Mažiau 30 ng/ml — žalia šviesa operuoti.",
+    "30–200 ng/ml — daugiau nei terapinė koncentracija (terapinė 100–140): kartoti matavimą ir laukti; jei laukti negalima — būti pasiruošus masyviam kraujavimui.",
+    "Daugiau 400 ng/ml — kartais nieko padaryti nebeįmanoma."
+   ]
+  },
+  {
+   "title": "Antiagregantai",
+   "start": 1162,
+   "end": 1191,
+   "part": null,
+   "bullets": [
+    "Didelės ir labai didelės rizikos grupėse vertinama trombocitų funkcija: operuoti negalima, jei agregacijos slopinimas viršija 50 %.",
+    "Liekamąjį aspirino ir klopidogrelio poveikį geriausia matuoti VerifyNow platforma, kur yra aiškios operabilumo ribos."
+   ]
+  },
+  {
+   "title": "„Pilkoji zona“",
+   "start": 1191,
+   "end": 1368,
+   "part": null,
+   "bullets": [
+    "Kartais rezultatas ties riba (pvz., aPTT 51–52 s, fibrinogenas 1,4 g/l) ir aiškiai nuspręsti neįmanoma.",
+    "Tada padeda prie paciento lovos atliekama viskoelastinė kontrolė — ji parodo hemostazės rezervą šiuo momentu (laboratoriniai tyrimai rodo stabilumą, bet jų nepakeičia).",
+    "Tromboelastometrija reikalauja rankinio kreivių lyginimo, o sonoreometrija parodo spalvomis: CT/CS — faktoriai, PCS — trombocitai, CSL — hiperfibrinolizė (DIK), FCS — fibrinogenas. Jei visi žali, operuoti gana saugu net esant ribiniams laboratoriniams rodmenims."
+   ]
+  }
+ ],
+ "takeaways": [
+  "75–80 % pacientų yra mažos rizikos: pakanka aPTT ir fibrinogeno.",
+  "Įtariant liekamąją antikoaguliaciją pacientas tiriamas kaip didelės rizikos.",
+  "Ribos: INR &lt; 1,3; anti-Xa (MMMH) &lt; 0,4; fondaparinuksas &lt; 0,1; TGAK &lt; 50 ng/ml.",
+  "Kraują liekamajam poveikiui imti laiku: po nefrakcionuoto heparino ≥ 12 val., po MMMH 24–72 val.",
+  "Pilkoje zonoje remtis viskoelastine kontrole."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Mažos rizikos pacientų dalis",
+    "75–80 %"
+   ],
+   [
+    "aPTT, mažos rizikos grupė",
+    "pailgėjimas &gt; 30 % — konsultuotis"
+   ],
+   [
+    "Fibrinogenas",
+    "&lt; 1,5 g/l — konsultuotis"
+   ],
+   [
+    "Varfarinas",
+    "INR (Owren) &lt; 1,3; kolonoskopijai &lt; 1,7"
+   ],
+   [
+    "Nefrakcionuotas heparinas",
+    "aPTT &lt; 55 s"
+   ],
+   [
+    "MMMH",
+    "anti-Xa &lt; 0,4"
+   ],
+   [
+    "Fondaparinuksas",
+    "&lt; 0,1"
+   ],
+   [
+    "TGAK",
+    "&lt; 50 ng/ml; specialiais atvejais 30 arba 0"
+   ],
+   [
+    "TGAK algoritmas",
+    "&lt; 30 operuoti; 30–200 kartoti; &gt; 400 kritinė"
+   ],
+   [
+    "Trombocitų funkcija",
+    "slopinimas &gt; 50 % — neoperuoti"
+   ],
+   [
+    "Laukimas po paskutinės dozės",
+    "NFH ≥ 12 val.; MMMH 24–72 val."
+   ],
+   [
+    "TGAK pikas / trough",
+    "1–4 val. / iki 24 val."
+   ]
+  ]
+ },
+ "reviewed": false
+}

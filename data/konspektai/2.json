@@ -1,0 +1,150 @@
+{
+ "summary": [
+  "Pirmoji dalis — kaip D-dimerai naudojami įprastinėje praktikoje (trombozės įtarimui atmesti ir gydymo efektui sekti) ir kodėl ne visi D-dimerų tyrimai tam tinka. Antroji dalis — kaip tas pats rodmuo sergant COVID-19 tampa prognozės įrankiu, leidžiančiu iš anksto numatyti, kuriam pacientui prireiks intensyviosios terapijos."
+ ],
+ "sections": [
+  {
+   "title": "Fibrino monomerai ir D-dimerai — skirtingi rodmenys",
+   "start": 0,
+   "end": 230,
+   "part": null,
+   "bullets": [
+    "<strong>Fibrino monomerai (FM)</strong> atspindi grįžtamąjį fibrinogeno ir fibrino skilimo etapą. Tai ankstyvas trombogenezės rodmuo, naudojamas pozityviajai diagnostikai: sekamas koncentracijos didėjimas. Patologinė riba — 6 µg; didėjimas rodo retrombozę, neefektyvų gydymą arba restenozės pradžią.",
+    "<strong>D-dimerai</strong> yra antrinės fibrinolizės produktas, susidarantis veikiant plazminui. Procesas negrįžtamas, koncentracija atspindi trombo formavimosi tikimybę. Naudojami negatyviajai diagnostikai: mažiau 500 ng/ml reiškia, kad trombozės nėra."
+   ]
+  },
+  {
+   "title": "Ne visi D-dimerų tyrimai tinka",
+   "start": 234,
+   "end": 375,
+   "part": null,
+   "bullets": [
+    "D-dimerų tyrimas nėra standartizuotas: kiekvienas gamintojas pats validuoja 500 ng/ml ribą tūkstančiais pacientų.",
+    "Greitieji point-of-care analizatoriai neturi nei validacijos, nei įrodytos neigiamos prognostinės vertės, todėl netinka nei plaučių arterijos tromboembolijos, nei giliųjų venų trombozės įtarimui atmesti. Tai tik orientacinis tyrimas."
+   ]
+  },
+  {
+   "title": "Kaip naudoti pagal Wells skalę",
+   "start": 816,
+   "end": 1040,
+   "part": null,
+   "bullets": [
+    "Giliųjų venų trombozė: daugiau kaip 2 balai — didelė tikimybė, reikia skirti antikoaguliaciją ir atlikti instrumentinį tyrimą, D-dimerai situacijos nebesprendžia. Mažiau kaip 2 balai — D-dimerai turi prasmę.",
+    "Plaučių arterijos tromboembolija: riba yra 4 balai, principas tas pats.",
+    "Esant mažai ar vidutinei tikimybei galima laukti diagnostinės informacijos iki 24 valandų.",
+    "Jei antikoaguliacija skiriama skubiai, kraują D-dimerams reikia paimti <strong>prieš</strong> ją.",
+    "Praktinė nauda: pacientai, kuriems nereikia brangios kompiuterinės tomografijos su angiografija, atrenkami laboratoriniu tyrimu."
+   ]
+  },
+  {
+   "title": "Gydymo sekimas ir dažna klaida",
+   "start": 472,
+   "end": 778,
+   "part": null,
+   "bullets": [
+    "Iki trečdalio plaučių arterijos tromboembolija sirgusių pacientų per penkerius metus patiria retrombozę; pakartotinė trombozė dažnai turi blogesnę išeitį.",
+    "Gydant D-dimerai turi mažėti (pavyzdžiui, nuo 3000 iki 800 per dvi savaites) — tai rodo gydymo sėkmę.",
+    "<strong>Klaida:</strong> pasiekus 500 ng/ml automatiškai nutraukti gydymą. Antikoaguliantų fonas pats savaime mažina D-dimerų koncentraciją, todėl atsakymas yra sumažintas. Sprendimą nutraukti gydymą reikia grįsti ir instrumentiniu tyrimu, ir visa klinikine informacija.",
+    "Esant trombofilijai (antitrombino, proteinų C ir S trūkumas, Leideno mutacija) antikoaguliacijos trukmė dvigubinama."
+   ]
+  },
+  {
+   "title": "Kuo COVID-19 skiriasi nuo įprastos virusinės infekcijos",
+   "start": 1080,
+   "end": 1396,
+   "part": null,
+   "bullets": [
+    "Tai dviejų sistemų pažaida vienu metu: imuninės ir krešėjimo. Įprastose virusinėse infekcijose ryškios krešėjimo pažaidos nėra.",
+    "Virusas per angiotenziną konvertuojantį fermentą pažeidžia endotelį, kyla imuninis atsakas, o per komplemento sistemą formuojasi membranos atakos kompleksas, kuris aktyvina krešėjimo kaskadą ir trombocitus.",
+    "Venų trombo sudėtis — apie 70 % fibrino ir 30 % trombocitų, arterinio — atvirkščiai. Kadangi COVID-19 anksti aktyvina trombocitus, vystosi ir arterinės trombozės.",
+    "Klinikai svarbiau ne stambiųjų kraujagyslių trombozės, o mikrotrombozės, sukeliančios daugybinio organų pažeidimo sindromą.",
+    "Dešimties tūkstančių pacientų duomenimis, trombozių dažnis sergant COVID-19 yra 10–15 kartų didesnis nei įprastoje klinikinėje populiacijoje."
+   ]
+  },
+  {
+   "title": "Trys stadijos ir ką jos reiškia praktiškai",
+   "start": 2039,
+   "end": 2378,
+   "part": null,
+   "bullets": [
+    "<strong>I stadija:</strong> D-dimerai padidėję ne daugiau kaip 2–3 kartus, kiti rodmenys (PT, aPTT, trombocitai, fibrinogenas) normos ribose, radiologiniai radiniai neigiami. Pacientą galima gydyti namuose, bet reikia stebėti.",
+    "<strong>II stadija:</strong> D-dimerai 3–6 kartus padidėję (apie 3000–4000), pradeda mažėti trombocitai, svyruoja protrombino laikas, kompiuterinė tomografija rodo plaučių pažeidimus. Reikia aukšto intensyvumo antikoaguliacijos ir intensyviosios terapijos resursų.",
+    "<strong>III stadija:</strong> D-dimerai padidėję daugiau kaip 6 kartus (4500 ir daugiau), trombocitopenija, ilgėja aPTT, mažėja fibrinogenas. Tai suvartojimo sindromo variantas be kraujavimo, nes hiperkoaguliacija jį kompensuoja. Prie antikoaguliacijos pridedama fibrinolizinė terapija.",
+    "Praktinė vertė: D-dimerų tyrimas kas 24–48 valandas leidžia 3–4 paras iki savaitės iš anksto numatyti, kam prireiks reanimacijos, ir planuoti tiek lovas, tiek gydytojų resursus. <strong>Antikoaguliacija ir jos kontrolė</strong> [32:03–32:31, 43:19–45:17]",
+    "Įprastinė tromboprofilaktika (pavyzdžiui, 0,3 mažos molekulinės masės heparino) nepakankama; reikia sustiprintos, dvigubo aktyvumo profilaktikos.",
+    "aPTT sergant COVID-19 neinformatyvus, nes smarkiai pakitusios fibrinogeno ir VIII faktoriaus koncentracijos maskuoja heparino poveikį.",
+    "Vienintelis tikslus būdas — <strong>anti-Xa</strong>, terapinis intervalas 0,3–0,7 TV/ml."
+   ]
+  },
+  {
+   "title": "Pacientai, jau vartojantys tiesioginius geriamuosius antikoaguliantus",
+   "start": 2717,
+   "end": 2954,
+   "part": null,
+   "bullets": [
+    "Dėl sąveikos su antivirusiniais vaistais rivaroksabano ar dabigatrano koncentracija gali pakilti 6–7 kartus.",
+    "Terapinė koncentracija yra 100–150 ng/ml, o sergant COVID-19 fiksuota iki kelių šimtų ng/ml — atitinkamai išauga kraujavimo rizika, nors hiperkoaguliacija ją iš dalies amortizuoja.",
+    "Xa inhibitorių koncentracija matuojama anti-Xa testu su vaisto kalibratoriumi, dabigatrano — ekarino laiko tyrimu."
+   ]
+  },
+  {
+   "title": "Specifiškumas",
+   "start": 2489,
+   "end": 2546,
+   "part": null,
+   "bullets": [
+    "Aukšto specifiškumo D-dimerų tyrimas duoda mažiau klaidingai teigiamų atsakymų. Tuo metu buvo pasiektas iki 75 % specifiškumas, palyginti su ankstesniu apie 50 % lygiu.",
+    "Prognozei ir gydymo kontrolei tinka tik toks tyrimas."
+   ]
+  }
+ ],
+ "takeaways": [
+  "D-dimerai įprastinėje praktikoje atmeta įtarimą, o sergant COVID-19 — prognozuoja eigą. Tai skirtingi naudojimo būdai.",
+  "Kraują D-dimerams imti prieš pradedant antikoaguliaciją.",
+  "Nenutraukti gydymo vien todėl, kad D-dimerai nukrito žemiau 500 — vertinti kartu su instrumentiniais tyrimais.",
+  "Greitieji D-dimerų testai netinka trombozės įtarimui atmesti.",
+  "Sergant COVID-19 heparino kontrolei naudoti anti-Xa, ne aPTT.",
+  "Pacientui, vartojančiam tiesioginį geriamąjį antikoaguliantą ir susirgusiam COVID-19, matuoti vaisto koncentraciją arba pereiti prie heparinizacijos."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerai, trombozės atmetimas",
+    "&lt; 500 ng/ml"
+   ],
+   [
+    "Fibrino monomerai, patologinė riba",
+    "6 µg <em>(vienetus patikslinti skaidrėse)</em>"
+   ],
+   [
+    "Wells skalė, GVT",
+    "&gt; 2 balai — didelė tikimybė"
+   ],
+   [
+    "Wells skalė, PATE",
+    "&gt; 4 balai — didelė tikimybė"
+   ],
+   [
+    "D-dimerai, I / II / III stadija",
+    "2–3 k. / 3–6 k. / &gt; 6 k. padidėję"
+   ],
+   [
+    "Anti-Xa, heparino terapija",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "TGAK terapinė koncentracija",
+    "100–150 ng/ml"
+   ],
+   [
+    "D-dimerų tyrimo specifiškumas",
+    "iki 75 % (anksčiau apie 50 %)"
+   ]
+  ]
+ },
+ "reviewed": false
+}

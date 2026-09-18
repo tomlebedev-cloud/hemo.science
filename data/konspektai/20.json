@@ -1,0 +1,144 @@
+{
+ "summary": [
+  "DIK patogenezė, dvi jo formos, klinikinės priežastys ir dviejų etapų laboratorinė diagnostika. Pabaigoje — ką daryti esant masyviam kraujavimui, kai laboratoriniai tyrimai nebeinformatyvūs."
+ ],
+ "sections": [
+  {
+   "title": "Kas yra DIK",
+   "start": 78,
+   "end": 172,
+   "part": null,
+   "bullets": [
+    "„Diseminuota“ reiškia sisteminę intravaskulinę koaguliaciją.",
+    "Pradinė stadija visada yra suintensyvėjusi koaguliacija; visada yra pagrindinė liga ar priežastis.",
+    "Pasekmės — trombozė, kraujavimas arba abu kartu."
+   ]
+  },
+  {
+   "title": "Mechanizmas",
+   "start": 456,
+   "end": 688,
+   "part": null,
+   "bullets": [
+    "Koaguliacijos aktyvacija, natūralių inhibitorių (antitrombino III, proteinų C ir S) sumažėjimas, fibrinolizės didėjimas iki hiperfibrinolizės.",
+    "Proceso biožymenys — aukšto specifiškumo D-dimerai ir tirpūs fibrino monomerai.",
+    "Uždegiminiai ir citokininiai veiksniai dažniausiai būna trigeris. <strong>Dvi DIK formos</strong> [08:06–09:39, 21:24–23:44]",
+    "<strong>Hiperfibrinolizinis („ugnies“) DIK:</strong> ryškus natūralių inhibitorių sutrikimas, visi faktoriai „sudega“ greitai, suvartojimo sindromas vystosi sparčiai — kartu su trombozėmis prasideda masyvus sisteminis kraujavimas. Tipiškas politraumai, akušerijai, sepsiui, kai kurioms infekcinėms ligoms.",
+    "<strong>Hipofibrinolizinis DIK:</strong> labiau subalansuotas, pasireiškia trombozėmis ir daugybiniu organų nepakankamumu, o ne kraujavimu. Pavyzdys — septinis DIK su mikrotrombozėmis įvairiuose organuose; jį diagnozuoti sunkiau, nes nėra įprasto kraujavimo simptomo."
+   ]
+  },
+  {
+   "title": "Dvi pasekmių kryptys",
+   "start": 723,
+   "end": 935,
+   "part": null,
+   "bullets": [
+    "Fibrino sankaupos ant endotelio sukelia smulkių ir vidutinių kraujagyslių trombozes parenchiminiuose organuose (kepenys, plaučiai, inkstai).",
+    "Kai prie to prisideda suvartojimas (krenta krešėjimo faktoriai ir trombocitai), išsivysto kraujavimas iki masyvaus.",
+    "Daugybinis organų nepakankamumas kartu su kraujavimu reiškia blogą išeitį.",
+    "COVID-19 trombozės retai virsdavo DIK — ten vyravo pirmoji kryptis."
+   ]
+  },
+  {
+   "title": "Klinikinės priežastys",
+   "start": 1000,
+   "end": 1227,
+   "part": null,
+   "bullets": [
+    "Nėra priežasties — nėra DIK; tada reikia ieškoti kito paaiškinimo.",
+    "Pagrindinės grupės: onkologija (stiprus trigeris), hipotermija, politrauma ir karo medicina, plaučių ir kitų parenchiminių organų ligos, infekcijos, akušerija (vaisiaus vandenų embolija, placentos patologija, didelės apimties operacijos).",
+    "Paviršinės hematomos gali atrodyti grėsmingai, bet svarbiausia vyksta vidaus organuose — išvaizda ne visada atspindi sunkumą."
+   ]
+  },
+  {
+   "title": "Svarbu: tyrimai dinamikoje",
+   "start": 1067,
+   "end": 1096,
+   "part": null,
+   "bullets": [
+    "Vienas tyrimas vertas mažai; kartotiniai tyrimai parodo proceso laiko liniją ir sunkėjimą."
+   ]
+  },
+  {
+   "title": "Dviejų etapų diagnostika",
+   "start": 1449,
+   "end": 1708,
+   "part": null,
+   "bullets": [
+    "<strong>1 etapas — trombogenezės aktyvacija:</strong> fibrino monomerai (norma iki maždaug 10 µg/ml; 30–50 µg/ml rodo aktyvaciją) ir aukšto specifiškumo D-dimerai.",
+    "<strong>2 etapas — suvartojimas:</strong> Owren protrombino laikas (protrombino komplekso tyrimas, taip pat informatyvus kepenų funkcijai), fibrinogenas, trombocitų skaičius, aPTT.",
+    "Jei trombogenezės žymenys auga, bet suvartojimo nėra — tai ne DIK arba ne hiperfibrinolizinis DIK.",
+    "<strong>DIK diagnozė:</strong> bent vienas žymuo iš pirmos grupės auga (D-dimerai arba fibrino monomerai) ir bent vienas iš antros krenta (fibrinogenas, trombocitai arba Owren protrombino laikas). Tai biocheminė diagnozė net be kraujavimo, ir ji jau yra indikacija skirti antifibrinolizinius vaistus (traneksamo rūgštį)."
+   ]
+  },
+  {
+   "title": "ISTH balai",
+   "start": 1715,
+   "end": 1806,
+   "part": null,
+   "bullets": [
+    "Skaičiuojami balai pagal fibrino žymenų augimą, protrombino laiko pailgėjimą, fibrinogeną ir trombocitus.",
+    "5 ir daugiau balų — akivaizdus (overt) DIK; mažiau 5 — neakivaizdus. Esant neaiškumui tyrimai kartojami po 1–2 dienų."
+   ]
+  },
+  {
+   "title": "Fibrino monomerai kaip ankstyviausias žymuo",
+   "start": 1806,
+   "end": 1999,
+   "part": null,
+   "bullets": [
+    "Prieštrombozinis, todėl jautresnis už D-dimerus ankstyvoje stadijoje; D-dimerai rodo negrįžtamus pokyčius.",
+    "Ypač vertingi septinio DIK atveju (naujagimių ir suaugusiųjų): specifiškumas apie 93 %.",
+    "Nėštumo metu DIK geriau diagnozuojamas fibrino monomerais nei D-dimerais.",
+    "Fibrino monomerai prognozuoja mirštamumo riziką; derinant abu žymenis pagerėja diagnozės specifiškumas."
+   ]
+  },
+  {
+   "title": "Masyvus kraujavimas: laboratorija nebepadeda",
+   "start": 1999,
+   "end": 2187,
+   "part": null,
+   "bullets": [
+    "Kai kraujuojama masyviai, hemostazės balanso nebėra, todėl laboratoriniai tyrimai nebeduoda patikimos informacijos.",
+    "Pereinama prie viskoelastometrijos: per 10 minučių matoma, ar vyksta hiperfibrinolizė, ir kokia fibrinogeno, trombocitų bei faktorių būklė.",
+    "Pažangiausia technologija — sonoreometrija su automatizuotu sprendimų palaikymu: žalios zonos rodo normą, geltonos — patologiją (krešulio stabilumas ir hiperfibrinolizė, faktorių suvartojimas, trombocitų indėlis, fibrinogenas)."
+   ]
+  }
+ ],
+ "takeaways": [
+  "DIK visada turi priežastį; jos nesant ieškoti kito paaiškinimo.",
+  "Atskirti hiperfibrinolizinį (kraujuoja) ir hipofibrinolizinį (organų nepakankamumas) DIK — jų eiga ir gydymas skiriasi.",
+  "Diagnozė: trombogenezės žymuo auga + suvartojimo žymuo krenta. Tai pagrindas antifibrinolizinei terapijai net be kraujavimo.",
+  "Tyrimus kartoti dinamikoje.",
+  "Esant masyviam kraujavimui remtis viskoelastometrija, o ne laboratorija."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Fibrino monomerai, norma",
+    "iki ~10 µg/ml"
+   ],
+   [
+    "Fibrino monomerai, aktyvacija",
+    "30–50 µg/ml"
+   ],
+   [
+    "ISTH DIK balai",
+    "≥ 5 — akivaizdus DIK; &lt; 5 — kartoti po 1–2 d."
+   ],
+   [
+    "FM specifiškumas septiniam DIK",
+    "apie 93 %"
+   ],
+   [
+    "Viskoelastometrijos atsakymas",
+    "per ~10 min."
+   ]
+  ]
+ },
+ "reviewed": false
+}

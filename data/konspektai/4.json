@@ -1,0 +1,202 @@
+{
+ "summary": [
+  "Kaip vėžys pakeičia hemostazę, kodėl onkologiniams pacientams vienu metu didėja ir trombozės, ir kraujavimo rizika, kokiais biožymenimis tai sekti ir kaip parinkti bei kontroliuoti antikoaguliaciją. Atskirai — kodėl aPTT netinka heparino kontrolei ir kodėl tiesioginių geriamųjų antikoaguliantų vieta onkologijoje kol kas neapibrėžta."
+ ],
+ "sections": [
+  {
+   "title": "Kodėl tai svarbu",
+   "start": 253,
+   "end": 320,
+   "part": null,
+   "bullets": [
+    "Onkologiniuose stacionaruose 60–70 % mirčių lemia trombozė arba kraujavimas, tai yra krešėjimo sistemos sutrikimas, o ne pats onkologinis procesas (jam tenka 30–40 %).",
+    "Vėžiu sergančiųjų venų tromboembolijos rizika yra iki 10 kartų didesnė nei kitų pacientų grupėse."
+   ]
+  },
+  {
+   "title": "Kuo onkologija skiriasi nuo COVID-19",
+   "start": 673,
+   "end": 753,
+   "part": null,
+   "bullets": [
+    "Sergant COVID-19 vyrauja trombozės, o kraujavimai reti, nes hiperkoaguliacija juos „amortizuoja“.",
+    "Onkologijoje abu procesai vyksta kartu: kepenyse ir audiniuose išsenka hemostazės faktorių atsargos, todėl hemoraginių komplikacijų daug. Didžiausia tokia grupė — sergantieji leukemija."
+   ]
+  },
+  {
+   "title": "Paradoksali trombocitozė",
+   "start": 777,
+   "end": 854,
+   "part": null,
+   "bullets": [
+    "Naviko ląstelės aktyvina šeimininko hemostazę per pirminę grandį, vystosi trombocitozė.",
+    "Tačiau gaminami trombocitai yra degranuliuoti, todėl didelis jų skaičius susijęs su <strong>padidėjusia kraujavimo rizika</strong>. Tai vertinant prasminga pažiūrėti trombocitų citoplazmos morfologiją. <strong>Krešėjimas ir paties vėžio augimas</strong> [17:14–18:06, 21:33–22:25]",
+    "Audinių faktorius (tissue factor) dalyvauja ne tik hemostazės aktyvacijoje, bet ir vėžio audinio augime, neovaskuliarizacijoje bei metastazavime.",
+    "Prie diagnostikos panelės prisideda protromboziniai mikrodaleliai (MP testas), priklausantys nuo naviko proceso aktyvumo."
+   ]
+  },
+  {
+   "title": "Trombofilinis fonas ir rizikos vertinimas",
+   "start": 1442,
+   "end": 1672,
+   "part": null,
+   "bullets": [
+    "Trys pagrindiniai natūralūs inhibitoriai, kurių gamyba krinta pažeidus kepenis: antitrombinas III, proteinas C, proteinas S (norma — daugiau 80 %).",
+    "Vien antitrombino III stygius (40–60 %) reiškia, kad iš 100 tokių pacientų maždaug 70 patirs trombozę.",
+    "Dviejų inhibitorių derinys (pvz., proteinas C 35 % ir antitrombinas 29 %) trombozės tikimybę pakelia iki maždaug 98 %."
+   ]
+  },
+  {
+   "title": "Leideno mutacija ir dozės korekcija",
+   "start": 1672,
+   "end": 1794,
+   "part": null,
+   "bullets": [
+    "APC rezistencijos testas parodo V faktoriaus (Leideno) mutaciją.",
+    "Tokiam pacientui tromboprofilaktika dvigubinama (pavyzdys: vietoj 0,3 du kartus per parą — 0,6 du kartus per parą).",
+    "Skiriant rivaroksabaną dozę koreguoti „iš akies“ nereikėtų: anti-Xa su vaisto kalibratoriumi parodo koncentraciją (terapinis intervalas 100–140 ng/ml, viršutinė riba apie 200 ng/ml)."
+   ]
+  },
+  {
+   "title": "Antifosfolipidinis sindromas",
+   "start": 1806,
+   "end": 1903,
+   "part": null,
+   "bullets": [
+    "Vilkligės antikoaguliantai pailgina aPTT 2–3 kartus, nors kraujavimo rizikos tai nereiškia.",
+    "Nepaaiškinamai pailgėjęs aPTT (pvz., 90 s), kai kepenys sveikos ir heparinas neskiriamas, yra indikacija tirti dėl antifosfolipidinio sindromo.",
+    "Diagnozė keičia gydymo trukmę: vietoj 12 mėnesių po plaučių arterijos tromboembolijos antikoaguliacija gali tapti nuolatinė."
+   ]
+  },
+  {
+   "title": "D-dimerai ir fibrino monomerai onkologijoje",
+   "start": 1931,
+   "end": 2384,
+   "part": null,
+   "bullets": [
+    "D-dimerų koncentracija virš <strong>3000 ng/ml</strong> reiškia konkrečią trombozės riziką ir indikaciją sustiprintai tromboprofilaktikai.",
+    "Prieš operaciją esant D-dimerams virš 3000 reikia iš anksto suplanuoti antikoaguliacijos tiltą (bridging).",
+    "Antikoaguliantų fonas mažina D-dimerų rodmenį, todėl 500 ng/ml pasiekimas dar nereiškia, kad gydymą galima nutraukti — sprendimas priimamas su visa klinikine informacija.",
+    "Kai D-dimerai svyruoja bangomis, papildomas fibrino monomerų tyrimas parodo, ar gydymas iš tikrųjų veiksmingas.",
+    "Onkologijoje fibrino monomerai tiriami jau apie 20 metų; jų koncentracija susijusi ir su išgyvenamumu. <strong>Tiesioginiai geriamieji antikoaguliantai onkologijoje</strong> [14:56–16:32, 54:54–56:53]",
+    "Jų vaidmuo onkologijoje neapibrėžtas: terapinio intervalo (kaip heparinui) nėra, žinoma tik koncentracija 100–140 ng/ml.",
+    "Pirmo pasirinkimo vaistas lieka <strong>mažos molekulinės masės heparinas</strong>, o sunkios būklės pacientams — nefrakcionuotas heparinas.",
+    "Aktyvuotos hemostazės būklėse (kaip ir sergant COVID-19) šių vaistų koncentracija gali šoktelėti iki 5 kartų."
+   ]
+  },
+  {
+   "title": "Kodėl aPTT netinka heparino kontrolei",
+   "start": 2712,
+   "end": 2944,
+   "part": null,
+   "bullets": [
+    "aPTT priklauso nuo reagentų, analizatorių, farmakokinetikos ir pačios hemostazės būklės: jį trumpina antitrombino III stoka, aukštas fibrinogenas, VIII faktoriaus aktyvumas virš 300 %; ilgina antifosfolipidinis sindromas, fibrinogenas mažiau 1 g/l, varfarinas ir fibrinolizinė terapija.",
+    "Praktikoje, matuojant tuos pačius pacientus, tik maždaug pusė patenka į anti-Xa intervalą 0,3–0,7, nors aPTT atrodo „teisingas“.",
+    "Nuo ACCP gairių 9-osios redakcijos aPTT nebelaikomas heparinizacijos kontrolės būdu; tinkamas tik <strong>anti-Xa</strong>.",
+    "Intervalai priklauso nuo preparato: nadroparinui 0,3–0,7, enoksaparinui apie 1,0 — reikia žiūrėti konkretaus vaisto duomenis."
+   ]
+  },
+  {
+   "title": "Heparino sukelta trombocitopenija (HIT)",
+   "start": 3001,
+   "end": 3238,
+   "part": null,
+   "bullets": [
+    "Trombozė ištinka 30–80 % pacientų, kuriems yra tikra HIT.",
+    "Šiandien problema yra perteklinė diagnostika: antikūnų prieš heparino ir PF4 kompleksus radimas dar nereiškia HIT, o ne kiekviena trombocitopenija yra HIT.",
+    "Praktiškai vertingiau turėti greitą testą HIT <strong>atmesti</strong> (pvz., HIT Expert Stick, atsakymas per 10 min.) su aukšta neigiama prognostine verte, nei siekti patvirtinimo sudėtingu serotonino testu, kuris Baltijos šalyse neatliekamas."
+   ]
+  },
+  {
+   "title": "Kraujavimai esant leukemijai",
+   "start": 3413,
+   "end": 3481,
+   "part": null,
+   "bullets": [
+    "Svarbiausia nepražiopsoti DIK. Tromboelastometrija per 10 minučių parodo hiperfibrinolizę.",
+    "Patvirtinus DIK sprendžiama dėl antifibrinolizinių vaistų ir labai atsargiai dėl kraujo komponentų perpylimo."
+   ]
+  },
+  {
+   "title": "Atsakymai į klausimus",
+   "start": 3763,
+   "end": 4479,
+   "part": null,
+   "bullets": [
+    "<strong>Kepenų rezervas:</strong> tiesioginio ryšio tarp pažeisto kepenų tūrio ir hemostazės sutrikimo nėra; svarbu likęs rezervas. Jautriausi yra II, VII ir X faktoriai, todėl naudojamas protrombino laikas: mažiau 70 % (be antikoaguliantų) rodo nepakankamumą, mažiau 25 % — kepenų krizę.",
+    "<strong>Migruojančios trombozės kaip ankstyvas vėžio požymis:</strong> nuomonė — hemostazės aktyvacija gali atspindėti dar kliniškai neišreikštą onkologinį procesą; praktikoje pasitaiko nepaaiškinamų labai didelių D-dimerų, ir tokiu atveju verta ieškoti kitos priežasties.",
+    "<strong>Skirtumai tarp vėžio tipų:</strong> kuo didesnis piktybiškumo laipsnis, tuo stipresnė hemostazės aktyvacija; hormoniškai aktyvių organų navikai dažniau susiję su trombozėmis. Tiesioginio ryšio su naviko dydžiu nėra.",
+    "<strong>Aspirinas sergant COVID-19:</strong> tromboprofilaktika heparinu skiriama visiems, o aspirinas ar klopidogrelis — tik esant arterinės trombozės, pavyzdžiui, miokardo pažeidimo, požymiams (apie 20 % pacientų)."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Onkologiniam pacientui vertinti abi rizikas: ir trombozės, ir kraujavimo.",
+  "Didelis trombocitų skaičius nebūtinai reiškia trombozės riziką — degranuliuoti trombocitai kraujuoja.",
+  "D-dimerus ir fibrino monomerus matuoti prieš pradedant antikoaguliaciją ir sekti dinamiką.",
+  "Esant trombofilijai (ypač dviejų inhibitorių stygiui ar Leideno mutacijai) profilaktikos dozę didinti ir grįsti anti-Xa.",
+  "Heparino kontrolei naudoti anti-Xa, atsižvelgiant į konkretaus preparato intervalą.",
+  "Įtarus HIT pirmiausia naudoti atmetamąjį testą, o ne keisti gydymą iš baimės."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Natūralūs inhibitoriai (AT III, PC, PS)",
+    "norma &gt; 80 %"
+   ],
+   [
+    "Antitrombinas III 40–60 %",
+    "~70 iš 100 pacientų patirs trombozę"
+   ],
+   [
+    "AT III + proteino C stygius",
+    "~98 % trombozės tikimybė"
+   ],
+   [
+    "APC rezistencija",
+    "&gt; 120 s — Leideno mutacija"
+   ],
+   [
+    "D-dimerai onkologijoje",
+    "&gt; 3000 ng/ml — sustiprinta profilaktika"
+   ],
+   [
+    "Anti-Xa, nadroparinas",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "Anti-Xa, enoksaparinas",
+    "apie 1,0 TV/ml"
+   ],
+   [
+    "TGAK koncentracija",
+    "100–140 ng/ml (viršutinė riba ~200)"
+   ],
+   [
+    "TGAK prieš operaciją",
+    "&lt; 30 ng/ml; neurochirurgijoje 0"
+   ],
+   [
+    "Varfarinas prieš operaciją",
+    "INR &lt; 1,3 (neinvazinėms &lt; 1,7)"
+   ],
+   [
+    "Protrombino laikas, kepenų rezervas",
+    "&lt; 70 % nepakankamumas; &lt; 25 % krizė"
+   ],
+   [
+    "Trombocitai",
+    "&gt; 350 tūkst. — įtartina"
+   ],
+   [
+    "HIT",
+    "trombozė 30–80 % tikrų atvejų"
+   ]
+  ]
+ },
+ "reviewed": false
+}

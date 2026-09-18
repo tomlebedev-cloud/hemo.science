@@ -1,0 +1,215 @@
+{
+ "summary": [
+  "Venų tromboembolijos valdymas per biožymenis: kodėl laukti klinikos per vėlu, kaip teisingai naudoti D-dimerus ir fibrino monomerus, kodėl Quick ir Owren protrombino laiko metodai gali duoti visiškai skirtingą INR ir kada tiesioginiams geriamiesiems antikoaguliantams reikia laboratorinės kontrolės."
+ ],
+ "sections": [
+  {
+   "title": "Paradigma: klinika ateina per vėlai",
+   "start": 269,
+   "end": 320,
+   "part": null,
+   "bullets": [
+    "Klinikinė manifestacija atsiranda, kai kraujagyslė užkimšta daugiau kaip 80 %.",
+    "Biožymenys (fibrino monomerai, D-dimerai) leidžia atpažinti trombozę, kai obstrukcija dar mažesnė, ir pradėti gydymą anksčiau."
+   ]
+  },
+  {
+   "title": "Paradoksas: aktyvi trombozė virsta kraujavimu",
+   "start": 320,
+   "end": 349,
+   "part": null,
+   "bullets": [
+    "Labai aktyvi trombų gamyba, ypač parenchiminių organų (plaučių, kepenų, inkstų) trombozėse, sunaudoja krešėjimo faktorius tiek, kad prasideda sunkus kraujavimas — DIK sindromas."
+   ]
+  },
+  {
+   "title": "Mastas",
+   "start": 204,
+   "end": 240,
+   "part": null,
+   "bullets": [
+    "Europoje trombozinės ligos kasmet nusineša daugiau kaip pusę milijono gyvybių — daugiau nei bet kuri kita žinoma mirties priežastis."
+   ]
+  },
+  {
+   "title": "Besimptomės formos",
+   "start": 484,
+   "end": 591,
+   "part": null,
+   "bullets": [
+    "Pavojingiausia yra proksimalinė giliųjų venų trombozė: iki 60–70 % atvejų ji pereina į besimptomę plaučių arterijos emboliją.",
+    "Apie 20 % simptominių giliųjų venų trombozių plinta proksimaliai.",
+    "75 % ir daugiau simptominių plaučių embolijų turi besimptomę giliųjų venų trombozę, kuri gali pasireikšti praėjus pusmečiui.",
+    "Nepastebėta simptominė plaučių embolija reiškia 10 % mirštamumą, o esant mirtiniems recidyvams — iki 30 %."
+   ]
+  },
+  {
+   "title": "Neįprastos lokalizacijos",
+   "start": 609,
+   "end": 655,
+   "part": null,
+   "bullets": [
+    "Vidaus organų (visceralinių) venų trombozė gali pasireikšti pilvo skausmu ir atrodyti kaip chirurginė patologija.",
+    "Pasitaiko tinklainės venos, dubens ir smegenų sinusų trombozių."
+   ]
+  },
+  {
+   "title": "Kaip teisingai naudoti D-dimerus",
+   "start": 713,
+   "end": 875,
+   "part": null,
+   "bullets": [
+    "Pirma nustatoma klinikinė tikimybė pagal Wells skalę, tik paskui skiriamas tyrimas.",
+    "Maža ar vidutinė tikimybė (PATE mažiau 4 balų): neigiamas D-dimerų atsakas (mažiau 500) atmeta įtarimą; teigiamas siunčia skenuoti. Tam yra iki 24 valandų.",
+    "Didelė tikimybė: D-dimerų <strong>nedaryti</strong> — tai biudžeto švaistymas. Pacientas iš karto siunčiamas instrumentinei diagnostikai, o D-dimerai atliekami vėliau, gydymo efektui sekti.",
+    "Dažna klaida — naudoti D-dimerus diagnozei patvirtinti."
+   ]
+  },
+  {
+   "title": "Nėštumas",
+   "start": 903,
+   "end": 1142,
+   "part": null,
+   "bullets": [
+    "D-dimerai teigiami visą nėštumą, todėl oficialus algoritmas remiasi tik instrumentine diagnostika.",
+    "Fibrino monomerai nėštumo metu nedidėja: paprastai lieka tarp 0 ir 10 mg/l. Išsivysčius trombozei koncentracija pakyla daugiau kaip 10 kartų, iki 30–40 mg/l.",
+    "Riba, nuo kurios yra argumentas skirti tromboprofilaktiką — apie <strong>25 mg/l</strong>. Tai svarbu, nes bet kokia antikoaguliacija nėščiajai yra rizika.",
+    "DIK diagnostikai nėštumo metu fibrino monomerai specifiškesni nei D-dimerai.",
+    "D-dimerų tyrimo specifiškumas turi būti didesnis nei 70 %, ne 40–50 %."
+   ]
+  },
+  {
+   "title": "Heparino sukelta trombocitopenija",
+   "start": 1169,
+   "end": 1245,
+   "part": null,
+   "bullets": [
+    "Trombocitų skaičiaus mažėjimas yra rimtas simptomas, bet HIT patvirtinama tik apie 20 % tokių atvejų.",
+    "Kiekvieną kartą keisti hepariną neefektyvu ir kartais pavojinga; greitas atmetamasis testas (HIT expert stick) padeda priimti sprendimą."
+   ]
+  },
+  {
+   "title": "Varfarino pradžia",
+   "start": 1245,
+   "end": 1294,
+   "part": null,
+   "bullets": [
+    "Pirmąsias 48 valandas varfarinas veikia protromboziškai, nes krinta natūralių antikoaguliantų — proteinų C ir S — koncentracija.",
+    "Trombofiliškiems ar retrombozę patyrusiems pacientams reikia heparino tilto, kol INR pasiekia 2."
+   ]
+  },
+  {
+   "title": "Kodėl Owren, o ne Quick: konkretus atvejis",
+   "start": 1511,
+   "end": 1604,
+   "part": null,
+   "bullets": [
+    "Pacientui, kuriam atsinaujino giliųjų venų trombozės simptomai, Quick metodu dviejuose skirtinguose analizatoriuose gautas INR apie 3,0.",
+    "Tas pats pacientas Owren metodu davė INR 1,2, pakartojus — vėl 1,2.",
+    "Paaiškėjo, kad pacientas turėjo V faktoriaus Leideno mutaciją, kurią Quick metodas įtraukia į rezultatą. Ji užmaskavo per mažą varfarino dozę ir atrodė kaip per didelė.",
+    "Quick metodas duoda klaidingus rezultatus 20–30 % terapinių intervalų; jei jis naudojamas, būtina papildomai daryti aPTT."
+   ]
+  },
+  {
+   "title": "Varfarino dozės stabilumas",
+   "start": 1604,
+   "end": 1652,
+   "part": null,
+   "bullets": [
+    "Owren protrombino laikas tinka ir kepenų rezervui įvertinti prieš pradedant gydymą.",
+    "Gavus tinkamą INR, jį reikia pakartoti po 24 valandų, o vėliau po savaitės — tik taip patvirtinamas dozės stabilumas. Stabilizavus galima tikrinti kas 4–6 savaites."
+   ]
+  },
+  {
+   "title": "Heparinų kontrolė",
+   "start": 1318,
+   "end": 1436,
+   "part": null,
+   "bullets": [
+    "aPTT netinka: heparinas veikia tik IIa ir Xa faktorius, o aPTT matuoja dar šešis.",
+    "Auksinis standartas — anti-Xa, intervalas 0,3–0,7 TV/ml. Tas pats testas tinka ir mažos molekulinės masės heparinui bei fondaparinuksui.",
+    "aPTT paradoksas: pailgėjimas be kraujavimo rizikos, kai yra vilkligės antikoaguliantų. Naudojant LA jautrų aPTT galima atrinkti pacientus tolesniam tyrimui pagal ISTH protokolą."
+   ]
+  },
+  {
+   "title": "Kada TGAK reikia matuoti",
+   "start": 1694,
+   "end": 2028,
+   "part": null,
+   "bullets": [
+    "Jei standartinė 20 mg rivaroksabano dozė duoda standartinį efektą (D-dimerai ir fibrino monomerai mažėja), kontrolės nereikia.",
+    "Jei žymenys nemažėja arba auga — tai ne standartinis efektas: reikia matuoti koncentraciją.",
+    "Terapinis intervalas 100–140 ng/ml: 70 ng/ml reiškia per mažą dozę, 160 ng/ml — kraujavimo riziką.",
+    "Aiškios situacijos, kai matavimas būtinas: kraštutinis kūno svoris, sutrikę eliminacijos keliai (kepenys, inkstai), kraujuojantis pacientas, įtariamas perdozavimas, skubi operacija.",
+    "Prieš operaciją reikia mažiau 50 ng/ml (kartais 30 arba net 0); 48 valandų laukimas ne visada pakanka.",
+    "Daugiau kaip 400 ng/ml reiškia perdozavimą ir didelę kraujavimo riziką.",
+    "Nė vienas TGAK neturi validuoto terapinio intervalo, o vaistų sąveikos ištirtos nepakankamai."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Pirma klinikinė tikimybė, tik paskui D-dimerai. Esant didelei tikimybei tyrimas nereikalingas.",
+  "D-dimerai diagnozės nepatvirtina — tik atmeta įtarimą arba seka gydymą.",
+  "Nėščiosioms naudoti fibrino monomerus; riba apie 25 mg/l.",
+  "Varfariną kontroliuoti Owren metodu; Quick metodas gali visiškai iškreipti INR.",
+  "Pradedant varfariną trombofiliškam pacientui būtinas heparino tiltas.",
+  "Trombocitų kritimas heparino fone dažniausiai nėra HIT — naudoti atmetamąjį testą."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Klinikinė manifestacija",
+    "obstrukcija &gt; 80 %"
+   ],
+   [
+    "D-dimerai, atmetimas",
+    "&lt; 500 ng/ml"
+   ],
+   [
+    "D-dimerų specifiškumas",
+    "&gt; 70 %"
+   ],
+   [
+    "Wells, PATE",
+    "&lt; 4 balai — maža ar vidutinė tikimybė"
+   ],
+   [
+    "Fibrino monomerai nėštumo metu",
+    "0–10 mg/l; trombozė 30–40 mg/l"
+   ],
+   [
+    "Fibrino monomerai, profilaktikos riba",
+    "apie 25 mg/l"
+   ],
+   [
+    "Anti-Xa",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "TGAK terapinis intervalas",
+    "100–140 ng/ml"
+   ],
+   [
+    "TGAK prieš operaciją",
+    "&lt; 50 ng/ml (kartais 30 arba 0)"
+   ],
+   [
+    "TGAK perdozavimas",
+    "&gt; 400 ng/ml"
+   ],
+   [
+    "Quick metodo klaidos",
+    "20–30 % terapinių intervalų"
+   ],
+   [
+    "HIT tikimybė esant trombocitopenijai",
+    "apie 20 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

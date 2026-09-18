@@ -1,0 +1,141 @@
+{
+ "summary": [
+  "Kodėl aspirinas ir klopidogrelis dažnai neveikia taip, kaip tikimasi, ir kaip tai patikrinti. Pranešimas skirtas šeimos gydytojams, kardiologams ir terapeutams, kurie perima pacientą po stentavimo ir turi spręsti, ar vaistai jį apsaugo nuo retrombozės."
+ ],
+ "sections": [
+  {
+   "title": "Problema",
+   "start": 0,
+   "end": 132,
+   "part": null,
+   "bullets": [
+    "Po miokardo infarkto su ST pakilimu ir stentavimo trombocitų funkciją slopinantys vaistai pradedami dar prieš procedūrą ir tęsiami maždaug 7–8 dienas iki išrašymo; toliau pacientas atitenka ambulatorinei grandžiai.",
+    "Stentas yra svetimkūnis: jis gelbsti gyvybę, bet dirgina endotelį ir gali sukelti trombozę, jei trombocitų funkcija nepakankamai slopinama.",
+    "Aspirino ir klopidogrelio atsparumas atskirose grupėse siekia 30–40 %. Vadinasi, maždaug kas trečiam pacientui vaistas neveikia, nors ir gydytojas, ir pacientas tiki priešingai."
+   ]
+  },
+  {
+   "title": "Rombo principas",
+   "start": 184,
+   "end": 293,
+   "part": null,
+   "bullets": [
+    "Ir kraujavimas, ir trombozė turi bent keturias priežasčių grupes: kraujagyslės būklė, trombocitų funkcija, krešėjimo faktoriai ir natūralūs inhibitoriai (trombofilinis fonas).",
+    "Arterinės trombozės atveju svarbiausias yra per didelis trombocitų liekamasis reaktyvumas."
+   ]
+  },
+  {
+   "title": "Venų ir arterijų trombų sudėtis",
+   "start": 320,
+   "end": 414,
+   "part": null,
+   "bullets": [
+    "Venų trombas: apie 70 % fibrino ir 30 % trombocitų — todėl gydoma antikoaguliantais.",
+    "Arterinis trombas: apie 70 % trombocitų ir 30 % fibrino — todėl poinfarktinės terapijos pagrindas yra antiagregantai.",
+    "Mišrios trombozės (dažnos sergant COVID-19) reikalauja abiejų: heparino ir antiagregantų.",
+    "Esant trombofilijai (antitrombino III, proteinų C ir S stygiui) prie antiagregantų prireikia ir heparinizacijos. <strong>Ką iš tikrųjų matuojame</strong> [07:23–08:49, 23:41–24:31]",
+    "Trombocitas veikia trimis fazėmis: aktyvacija, prilipimas prie sienelės ir agregacija. Svarbiausia yra aktyvacija.",
+    "Matuojamas <strong>liekamasis trombocitų reaktyvumas</strong> — kiek trombocitų lieka neužblokuota, pavyzdžiui, po 100 mg aspirino ar 75 mg klopidogrelio.",
+    "Tai terapinė kontrolė, skirta vaisto dozei, o ne trombocitų ligoms tirti. <strong>Aspirinas</strong> [14:19–14:49, 25:30–26:42]",
+    "Blokuoja negrįžtamai, todėl prieš planinę operaciją reikia laukti, kol atsinaujins trombocitų populiacija (apie 3 paras).",
+    "Didesnė dozė (300 mg) veikia patikimiau, bet duoda daugiau šalutinio poveikio; prie 80–100 mg atsparumas siekia apie 30 %.",
+    "VerifyNow ARU vienetai: mažiau 550 — vaistas veikia; daugiau 550 — neveikia. Kuo aukščiau virš 550 (600, 700), tuo didesnė trombozės rizika ir tuo labiau reikia dvigubos ar trigubos terapijos.",
+    "Per mažos reikšmės reiškia per stiprų slopinimą ir kraujavimo riziką. <strong>Klopidogrelis</strong> [16:39–20:29, 27:06–28:06]",
+    "Slopina P2Y12 receptorių negrįžtamai; prieš planinę operaciją įprastai laukiama iki dviejų savaičių, tačiau tyrimas gali parodyti, kad vaistas nebeveikia jau po kelių parų, ir operaciją galima atlikti anksčiau.",
+    "Apie 30 % atvejų atsparumą lemia CYP2C19 polimorfizmas. JAV pakuotėje apie tai įspėjama atskiru lapeliu, Europoje — ne.",
+    "Sąveikos taip pat svarbu: protonų siurblio inhibitoriai, statinai.",
+    "Lietuvoje atlikti tyrimai (doc. Tatarūno darbas Kauno klinikose) rodė panašius skaičius — apie 26 % ir tik apie 60 % normaliai metabolizuojančių pacientų.",
+    "VerifyNow PRU terapinis intervalas — <strong>85–282</strong>: žemiau yra kraujavimo rizika, aukščiau — trombozės rizika. Intervalas validuotas ir pripažintas Europos vaistų agentūros."
+   ]
+  },
+  {
+   "title": "Ką daryti radus atsparumą",
+   "start": 1307,
+   "end": 1400,
+   "part": null,
+   "bullets": [
+    "Pirmiausia didinti to paties vaisto dozę ir pakartoti tyrimą — klopidogrelis turi mažesnę kraujavimo riziką.",
+    "Jei nepadeda — keisti antiagregantą į stipresnį, įvertinus kraujavimo riziką.",
+    "Kraštutiniu atveju — pridėti prostaglandinų tipo preparatą (cilostazolį) prie aspirino ir klopidogrelio."
+   ]
+  },
+  {
+   "title": "Kiti antiagregantai",
+   "start": 557,
+   "end": 706,
+   "part": null,
+   "bullets": [
+    "Tikagreloras slopina grįžtamai — tai svarbu ruošiant pacientą operacijai.",
+    "GP IIb/IIIa inhibitoriai (pvz., abciksimabas) naudojami stentavimo metu, kai klopidogrelis neveikia; jie labai stiprūs, todėl reikia balanso tarp saugaus stentavimo ir kraujavimo rizikos.",
+    "Nė vienas antiagregantas nėra 100 % veiksmingas — visiškas receptorių blokavimas reikštų didelę kraujavimo riziką."
+   ]
+  },
+  {
+   "title": "Kam dar naudingas testas",
+   "start": 585,
+   "end": 653,
+   "part": null,
+   "bullets": [
+    "Leidžia nustatyti, kada po vaisto nutraukimo galima operuoti, ir taip sutrumpinti laukimo laiką prieš planines operacijas (pavyzdžiui, sąnario protezavimą).",
+    "Atsakymą galima gauti prie paciento lovos arba kabinete."
+   ]
+  },
+  {
+   "title": "Praktinė pastaba dėl prieinamumo",
+   "start": 1751,
+   "end": 1774,
+   "part": null,
+   "bullets": [
+    "Tyrimas mokamas, ligonių kasų nekompensuojamas; kaina apie 40 eurų."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Maždaug kas trečias pacientas nereaguoja į standartinę aspirino ar klopidogrelio dozę — to negalima nustatyti kliniškai.",
+  "Matuojamas liekamasis trombocitų reaktyvumas: aspirinui ARU riba 550, klopidogreliui PRU intervalas 85–282.",
+  "Radus atsparumą pirmiausia didinti dozę, tik paskui keisti vaistą.",
+  "Per stiprus slopinimas taip pat pavojingas — svarbus intervalas, o ne „kuo mažiau, tuo geriau“.",
+  "Tas pats tyrimas leidžia saugiai ir anksčiau planuoti operaciją."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Aspirinas (VerifyNow ARU)",
+    "&lt; 550 veikia; &gt; 550 neveikia"
+   ],
+   [
+    "Klopidogrelis (VerifyNow PRU)",
+    "85–282 terapinis intervalas"
+   ],
+   [
+    "Atsparumas aspirinui / klopidogreliui",
+    "30–40 % (Lietuvoje apie 26 %)"
+   ],
+   [
+    "Normaliai metabolizuojantys",
+    "apie 60 % pacientų"
+   ],
+   [
+    "Aspirino nutraukimas prieš operaciją",
+    "apie 3 paros"
+   ],
+   [
+    "Klopidogrelio nutraukimas",
+    "iki 2 savaičių, patikrinus gali būti trumpiau"
+   ],
+   [
+    "Venų trombas",
+    "~70 % fibrino, 30 % trombocitų"
+   ],
+   [
+    "Arterinis trombas",
+    "~70 % trombocitų, 30 % fibrino"
+   ]
+  ]
+ },
+ "reviewed": false
+}

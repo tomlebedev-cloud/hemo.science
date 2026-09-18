@@ -7,10 +7,17 @@ Statinis puslapis (HTML, CSS, JS be priklausomybių), talpinamas GitHub Pages.
 
 ## Struktūra
 
-- `index.html` – puslapis
-- `assets/style.css`, `assets/app.js` – išvaizda, filtrai, grotuvas
+- `index.html` – pradžia: gidai ir pranešimų sąrašas
+- `pranesimas.html?nr=N` – pranešimo puslapis: įrašas ir konspektas su laiko žymomis
+- `gidas.html?id=…` – gidas pagal temą su nuorodomis į pranešimų vietas
+- `assets/` – išvaizda ir puslapių skriptai (`common.js` bendros funkcijos)
 - `data/pranesimai.json` – pranešimų sąrašas
+- `data/konspektai/N.json` – konspektai
+- `data/gidai.json`, `data/gidai-sarasas.json` – gidai
+- `gidai/*.md` – gidų tekstai (redaguojami ranka)
 - `tools/build_data.py` – JSON generavimas iš Excel sąrašo (lapas „Puslapiui“)
+- `tools/build_konspektai.py` – konspektai iš `konspektavimas/*/konspektas.md`
+- `tools/build_gidai.py` – gidai iš `gidai/*.md`
 
 ## Sąrašo atnaujinimas
 
@@ -19,6 +26,20 @@ python tools/build_data.py "kelias/iki/Pranešimų sąrašas.xlsx"
 ```
 
 Be argumento skaitomas `../DS/PRESENTATIONS/Pranešimų sąrašas 2026-09-17.xlsx`.
+
+## Konspektai ir gidai
+
+```bash
+python tools/build_konspektai.py
+python tools/build_gidai.py
+```
+
+Konspektų šaltiniai (`konspektavimas/`) į repozitoriją nekeliami. Konspektas laikomas
+autoriaus peržiūrėtu, jei jame yra eilutė `Peržiūrėta: taip`; gidas – jei antraštėje
+`perziureta: taip`. Neperžiūrėti rodomi su pastaba.
+
+Gido tekste nuoroda į pranešimą rašoma `[[14@11:53]]` (pranešimas Nr. 14, nuo 11:53)
+arba `[[14]]`.
 
 ## Vietinė peržiūra
 

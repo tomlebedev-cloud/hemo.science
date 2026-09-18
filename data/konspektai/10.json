@@ -1,0 +1,129 @@
+{
+ "summary": [
+  "Kodėl arterinę trombozę gydome antiagregantais, kodėl standartinė dozė daliai pacientų neveikia ir kaip vaisto veiksmingumą objektyviai patikrinti prie paciento lovos."
+ ],
+ "sections": [
+  {
+   "title": "Trombo sudėtis lemia gydymą",
+   "start": 99,
+   "end": 160,
+   "part": null,
+   "bullets": [
+    "Arterinis (baltasis) trombas: apie 70 % trombocitų ir 30 % fibrino, todėl gydoma antiagregantais.",
+    "Venų trombas: atvirkščiai, 70 % fibrino ir 30 % trombocitų, todėl skiriama antikoaguliacija (vitamino K antagonistai, tiesioginiai geriamieji antikoaguliantai arba heparinas)."
+   ]
+  },
+  {
+   "title": "Kodėl antiagregantų yra tiek daug",
+   "start": 190,
+   "end": 417,
+   "part": null,
+   "bullets": [
+    "Trombocitas turi daug receptorių. Užblokavus vieną, jis bando kompensuoti aktyvindamas kitus, todėl kartais reikia dvigubos terapijos arba kito vaisto.",
+    "Grupės: aspirinas, P2Y1 ir P2Y12 inhibitoriai (klopidogrelis, tikagreloras), GP IIb/IIIa blokatoriai (labai stiprūs, naudojami intervencinėje kardiologijoje), tromboksano grupės, serotonino receptorių, fosfodiesterazės, prostaglandinų, trombino receptorių inhibitoriai, taip pat P-selektino ir von Willebrando faktoriaus blokatoriai.",
+    "Serotoninas svarbus ir kitame kontekste: trombocitai patys jį gamina, o jo dalyvavimas paaiškina heparino sukeltos trombocitopenijos mechanizmą.",
+    "Bendras dėsnis: kuo stipresnis antiagregacinis poveikis, tuo didesnė kraujavimo rizika."
+   ]
+  },
+  {
+   "title": "Vaistų sąveikos",
+   "start": 433,
+   "end": 478,
+   "part": null,
+   "bullets": [
+    "Ibuprofenas blokuoja aspirino veikimą — praktikoje apie tai kalbama mažai.",
+    "Statinai slopina klopidogrelio veikimą ir yra viena atsparumo priežasčių.",
+    "Nutraukiant antiagregantą reikia iš anksto numatyti grįžimo schemą, kad nebūtų rebound efekto."
+   ]
+  },
+  {
+   "title": "Aspirinas",
+   "start": 616,
+   "end": 792,
+   "part": null,
+   "bullets": [
+    "Blokuoja negrįžtamai, todėl funkcijai atkurti reikia palaukti naujos trombocitų populiacijos.",
+    "Didelės dozės veikia beveik visiems, bet kelia kraujavimo riziką; 80–100 mg dozė patraukli, tačiau turi atsparumo problemą.",
+    "Radus atsparumą logiškiau keisti vaistą, o ne didinti dozę ir rizikuoti virškinamojo trakto kraujavimu.",
+    "Nedidelės dozės paprastai neverčia atidėti intervencinių procedūrų."
+   ]
+  },
+  {
+   "title": "Klopidogrelis",
+   "start": 792,
+   "end": 1031,
+   "part": null,
+   "bullets": [
+    "Atsparumas 30–40 %. JAV pakuotėje yra „black box“ įspėjimas, Europoje apie tai tylima.",
+    "Tai provaistis: aktyvinamas kepenyse per citochromo P450 sistemą, receptorių blokuoja negrįžtamai.",
+    "Pagrindinė atsparumo priežastis — CYP2C19 polimorfizmas. Yra greitieji analizatoriai, leidžiantys tai nustatyti dar stentavimo laboratorijoje ir iš karto rinktis kitą vaistą.",
+    "Svarbios ir gretutinės būklės: pirmoje vietoje cukrinis diabetas — šie pacientai yra prioritetiniai testavimui. Taip pat inkstų funkcija.",
+    "Normaliai metabolizuoja tik apie 60 % pacientų; yra ir hipermetabolizuojančių, kuriems kyla kraujavimo rizika.",
+    "Lietuvos tyrimų duomenimis, apie 26 % vartojančiųjų turi šią problemą."
+   ]
+  },
+  {
+   "title": "Ką daryti radus atsparumą",
+   "start": 1124,
+   "end": 1168,
+   "part": null,
+   "bullets": [
+    "Didinti dozę, remiantis testo rezultatu.",
+    "Keisti į stipresnį antiagregantą, įvertinus didesnę kraujavimo riziką.",
+    "Pridėti prostaglandinų tipo preparatą (cilostazolį) — triguba terapija."
+   ]
+  },
+  {
+   "title": "Testavimas",
+   "start": 1190,
+   "end": 1348,
+   "part": null,
+   "bullets": [
+    "Naudojama prie paciento lovos veikianti sistema (VerifyNow) su dvigubą kokybės kontrolę turinčiomis kasetėmis ir apibrėžtu testavimo laiku.",
+    "<strong>Aspirinas:</strong> mažiau 550 — veikia; daugiau 550 — neveikia. Reikšmingai aukštesnės reikšmės reiškia kliniškai validuotą trombozės riziką, o per žemos — kraujavimo pavojų.",
+    "<strong>Klopidogrelis ir tikagreloras:</strong> terapinis langas nuo maždaug 86 iki 230 vienetų; jis validuotas FDA ir CE. Tikagrelorui tai ypač svarbu, nes kraujavimai dažnesni.",
+    "GP IIb/IIIa preparatams galioja panašus principas."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Arterinė trombozė gydoma antiagregantais, venų — antikoaguliantais; tai lemia trombo sudėtis.",
+  "Atsparumas klopidogreliui siekia 30–40 %, todėl veiksmingumą verta pamatuoti, ypač sergantiems cukriniu diabetu.",
+  "Ieškoma terapinio lango, o ne maksimalaus slopinimo.",
+  "Prieš didinant dozę patikrinti sąveikas (ibuprofenas, statinai).",
+  "Nutraukiant antiagregantą numatyti grįžimo schemą."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Aspirinas (ARU)",
+    "&lt; 550 veikia; &gt; 550 neveikia"
+   ],
+   [
+    "Klopidogrelis / tikagreloras (PRU)",
+    "apie 86–230 vienetų"
+   ],
+   [
+    "Atsparumas klopidogreliui",
+    "30–40 % (Lietuvoje apie 26 %)"
+   ],
+   [
+    "Normaliai metabolizuojantys",
+    "apie 60 %"
+   ],
+   [
+    "Arterinis trombas",
+    "~70 % trombocitų"
+   ],
+   [
+    "Venų trombas",
+    "~70 % fibrino"
+   ]
+  ]
+ },
+ "reviewed": false
+}

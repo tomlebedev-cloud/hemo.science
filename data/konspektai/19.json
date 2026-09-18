@@ -1,0 +1,135 @@
+{
+ "summary": [
+  "Kaip tirpūs fibrino monomerai (FM) ir aukšto specifiškumo D-dimerai padeda anksti diagnozuoti venų tromboemboliją, sekti gydymą ir prognozuoti recidyvą. Daugiausia dėmesio — nėštumui ir akušeriniam DIK, taip pat onkologijai, insultams ir chirurgijai."
+ ],
+ "sections": [
+  {
+   "title": "Du fibrinolizės lygiai, du žymenys",
+   "start": 183,
+   "end": 267,
+   "part": null,
+   "bullets": [
+    "<strong>Fibrino monomerai</strong> — prieštrombozinis žymuo: ankstyvi pokyčiai, ar pakanka antikoaguliacijos, ar prasideda recidyvas.",
+    "<strong>D-dimerai</strong> — negrįžtamų pokyčių žymuo: proceso sunkumas, stabilumas ir momentas, kada galima baigti gydymą."
+   ]
+  },
+  {
+   "title": "VTE valdymo strategija",
+   "start": 267,
+   "end": 521,
+   "part": null,
+   "bullets": [
+    "Nustatyti trombofilinį foną (inhibitoriai, antifosfolipidinis sindromas, vilkligės antikoaguliantas) — jis lemia gydymo trukmę ir intensyvumą bei pateisina didesnę kraujavimo riziką.",
+    "Stratifikuoti pacientus pagal kraujavimo riziką ir parinkti atitinkamą tyrimų paketą.",
+    "Pagal tai pasirinkti vaistą: vieną ar dvigubą antikoaguliacinę ir antiagregacinę terapiją.",
+    "Sekti terapinį efektą FM ir D-dimerų dinamika ir prireikus koreguoti dozę ar pridėti antiagregantą.",
+    "Minimas technologinis trendas: laboratorijos platformoje veikiantys algoritmai, automatiškai pateikiantys gydytojui diagnostinę rekomendaciją."
+   ]
+  },
+  {
+   "title": "Wells skalė",
+   "start": 596,
+   "end": 754,
+   "part": null,
+   "bullets": [
+    "GVT: daugiau kaip 2 balai — didelė tikimybė; 2 ir mažiau — maža ar vidutinė.",
+    "PATE: daugiau kaip 4 balai — didelė tikimybė, D-dimerai nedaromi, iš karto kompiuterinė tomografija su angiografija.",
+    "Esant mažai ar vidutinei tikimybei D-dimerai atliekami be antikoaguliacijos fono: mažiau 500 ng/ml — įtarimas atmetamas; daugiau — skenavimas.",
+    "Kuo specifiškesnis D-dimerų tyrimas, tuo mažiau nereikalingų skenavimų. Reikalavimai aprašyti ir CLSI standarte."
+   ]
+  },
+  {
+   "title": "Prognozė po išrašymo",
+   "start": 754,
+   "end": 889,
+   "part": null,
+   "bullets": [
+    "Paciento su plaučių embolija ir ryškiu protromboziniu fenotipu (pvz., onkologine liga) mirties rizika per 30 dienų po hospitalizacijos gerokai didesnė; D-dimerai yra vienas iš prognostinės skalės kriterijų.",
+    "Ženevos prognostinė skalė vertina recidyvo tikimybę per 3 mėnesius.",
+    "Vienos nomograma ir DASH skalė vertina ilgesnį laikotarpį (metus, penkerius metus); aukšto specifiškumo D-dimerai čia yra pagrindinis instrumentas.",
+    "Recidyvas ištinka apie 30 % pacientų per 10 metų, todėl šeimos gydytojui svarbu dažniau sekti žymenis ir koreguoti gydymą nelaukiant, kol pacientas grįš su dusuliu. <strong>Nėštumas</strong> [14:49–18:43, 24:00–24:55]",
+    "D-dimerai cirkuliuoja nuolat nuo pirmojo trimestro (placentos kraujagyslės trūkinėja, fibrinas patenka į plazmą), todėl atmetimo principas netaikomas.",
+    "Fibrino monomerai visą nėštumą stabilūs: norma iki 10, esant trombozei — 30–60. Riba, nuo kurios galima įtarti trombozę ir pagrįstai skirti profilaktiką — <strong>25 mg/l</strong>.",
+    "Profilaktika — mažos molekulinės masės heparinas arba jo derinys su aspirinu. Kadangi apie 30 % žmonių atsparūs aspirinui, rekomenduojama patikrinti, ar jis veikia.",
+    "Fibrino monomerai mažiau 6 µg/ml leidžia atmesti venų tromboemboliją, kai klinika ją tik imituoja. Tai apsaugo nuo nereikalingos profilaktikos, kraujavimo ir vaisiaus netekimo rizikos."
+   ]
+  },
+  {
+   "title": "Akušerinis DIK",
+   "start": 1495,
+   "end": 1587,
+   "part": null,
+   "bullets": [
+    "DIK esmė — aktyvi trombogenezė parenchiminėse kraujagyslėse ir suvartojimo sindromas, dar prieš prasidedant kraujavimui.",
+    "Laiku nustačius galima subalansuotai heparinizuoti ir neleisti išsivystyti DIK su kraujavimu.",
+    "Ypač agresyvus DIK kyla esant vaisiaus vandenų embolijai.",
+    "ISTH turi atskirą skalę pagal fibrino monomerus; jų vertė DIK sunkumui vertinti net didesnė nei D-dimerų.",
+    "Praktikoje geriausia sekti abu rodmenis — dviejų rodmenų dinamika yra tvirtesnis signalas."
+   ]
+  },
+  {
+   "title": "Kitos taikymo sritys",
+   "start": 1123,
+   "end": 1440,
+   "part": null,
+   "bullets": [
+    "<strong>Onkologija:</strong> kuo didesnė FM koncentracija, tuo prastesnė vėžinio proceso prognozė; apie 60 % mirčių onkologijoje susijusios su trombogeneze.",
+    "<strong>Insultai:</strong> FM padeda ankstyvoje fazėje atskirti kardioembolinius insultus (reikia antikoaguliacijos kartu su antiagregantais) nuo arterinės kilmės (pakanka antiagregantų). D-dimerai čia diagnostinės vertės neturi.",
+    "<strong>Miokardo infarktas:</strong> FM kaip ankstyvas trombozinės priežasties rodmuo kartu su troponinais ir BNP.",
+    "<strong>Chirurgija:</strong> pooperacinės trombozės rizika pilvo ir neurospinalinėje chirurgijoje, klubo sąnario endoprotezavime; FM augimas leidžia laiku pradėti aktyvią tromboprofilaktiką."
+   ]
+  }
+ ],
+ "takeaways": [
+  "FM rodo procesą anksti, D-dimerai — jo sunkumą ir pabaigą. Geriausia sekti abu.",
+  "Nėščiosioms D-dimerai netinka; FM riba 25 mg/l, o mažiau 6 µg/ml leidžia atmesti VTE.",
+  "Skiriant aspiriną nėščiajai patikrinti, ar jis veikia.",
+  "Po išrašymo recidyvo riziką vertinti prognostinėmis skalėmis (Ženevos, Vienos, DASH) ir D-dimerų dinamika.",
+  "Akušerinį DIK diagnozuoti dar prieš kraujavimą pagal FM dinamiką."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerai, atmetimas",
+    "&lt; 500 ng/ml"
+   ],
+   [
+    "Wells skalė",
+    "GVT &gt; 2 balai, PATE &gt; 4 balai — didelė tikimybė"
+   ],
+   [
+    "FM nėštumo metu, norma",
+    "iki 10"
+   ],
+   [
+    "FM nėštumo metu, trombozė",
+    "30–60"
+   ],
+   [
+    "FM, profilaktikos riba",
+    "25 mg/l"
+   ],
+   [
+    "FM, VTE atmetimas",
+    "&lt; 6 µg/ml"
+   ],
+   [
+    "Atsparumas aspirinui",
+    "apie 30 %"
+   ],
+   [
+    "VTE recidyvas",
+    "apie 30 % per 10 metų"
+   ],
+   [
+    "Mirtys dėl trombozių onkologijoje",
+    "apie 60 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

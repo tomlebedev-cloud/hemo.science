@@ -1,0 +1,157 @@
+{
+ "summary": [
+  "2025 m. Nacionalinės jungtinės antitrombozinio gydymo gairės ir viena konkreti jų dalis: kaip prieš operaciją ar intervenciją įvertinti, kiek paciento kraujyje dar veikia antikoaguliantas. Pranešėjas praeina per pagrindinius laboratorinius rodmenis, jų ribas ir tai, kada operuoti galima, o kada procedūrą reikia atidėti ir konsultuotis."
+ ],
+ "sections": [
+  {
+   "title": "Gairės ir kodėl jos atsirado",
+   "start": 35,
+   "end": 230,
+   "part": null,
+   "bullets": [
+    "Gaires parengė jungtinė LSMU, VU, Kauno ir Santaros klinikų bei kitų įstaigų autorių grupė, vadovaujama prof. Čelutkienės; prisidėjo daug profesinių draugijų.",
+    "Ankstesnis dokumentas (Santaros klinikų ir VU iniciatyva) aprašė krešėjimo tyrimus, bet antitrombozinio gydymo valdymui reikėjo atskirų algoritmų.",
+    "Trombozė yra visų klinikinių sričių problema. Pavyzdys iš onkologijos: apie 60 % mirčių įvyksta ne nuo paties vėžio, o nuo trombozės."
+   ]
+  },
+  {
+   "title": "Gairių sandara",
+   "start": 231,
+   "end": 345,
+   "part": null,
+   "bullets": [
+    "Penki skyriai: klinikiniai algoritmai, profilaktika ir gydymas, specialios situacijos onkologijoje ir hematologijoje, gydymo nutraukimo rekomendacijos (kad išvengtų rebound efekto ir re-trombozės) ir laboratorinė kontrolė.",
+    "Penktasis skyrius duoda gydytojui įrankį: biožymenis, kurie anksti parodo trombinę aktyvaciją ir trombo produkciją.",
+    "Aptariami ir preanaliziniai veiksniai (kaip paimti kraują) bei vaistų sąveikos — nuo jų priklauso, ar laboratorijos atsakymas nebus klaidinantis."
+   ]
+  },
+  {
+   "title": "Nefrakcionuotas heparinas: aPTT ar anti-Xa",
+   "start": 374,
+   "end": 532,
+   "part": null,
+   "bullets": [
+    "aPTT (DATL) vertina aštuonis krešėjimo faktorius, o heparinas veikia tik du iš jų (IIa ir Xa). Todėl kitų šešių faktorių disbalansas (fibrinogeno nuokrypiai, V faktoriaus mutacijos, hemofilinės būklės) iškreipia rezultatą nepriklausomai nuo tikro heparino poveikio.",
+    "Jei pirmas aPTT rezultatas neatitinka dozės ar klinikinės situacijos, toliau kontroliuojama <strong>anti-Xa testu</strong>, kuris parodo tik heparino veikimą."
+   ]
+  },
+  {
+   "title": "Varfarinas: protrombino laikas tik Owren metodu",
+   "start": 540,
+   "end": 635,
+   "part": null,
+   "bullets": [
+    "Owren metodas vertina tik VII, X ir II faktorius — būtent tuos, kuriuos veikia varfarinas.",
+    "Klasikinis Quick metodas papildomai vertina I ir V faktorius, todėl esant fibrinogeno disbalansui ar V faktoriaus mutacijai gaunamas netikslus INR.",
+    "Svarbu, kad visoje šalyje varfarino kontrolė būtų vienoda: protrombino laikas atliekamas Owren metodu."
+   ]
+  },
+  {
+   "title": "Ar trombozė progresuoja, ar regresuoja",
+   "start": 632,
+   "end": 790,
+   "part": null,
+   "bullets": [
+    "<strong>Fibrino monomerai (FM)</strong> — prieštrombotinis žymuo, rodantis trombino aktyvaciją. Jei gydant trombozę FM kyla, tai reiškia terapinę nesėkmę arba naują trombozę. Tai anksčiausias būdas pamatyti procesą.",
+    "<strong>D-dimerai</strong> — potrombotinis žymuo, rodantis jau susiformavusią trombo masę.",
+    "Gairėse nurodyta naudoti tik <strong>aukšto specifiškumo D-dimerų tyrimą</strong> (specifiškumas virš 70 %), kad būtų mažiau klaidingai teigiamų atsakymų."
+   ]
+  },
+  {
+   "title": "Perioperacinis tyrimų planas pagal rizikos grupę",
+   "start": 794,
+   "end": 980,
+   "part": null,
+   "bullets": [
+    "Tyrimų apimtį lemia ne tai, ką laboratorija turi, o tai, kuriai rizikos grupei priklauso pacientas.",
+    "Žema rizika: neigiama asmens ir šeimos anamnezė — standartizuotas kraujavimo laikas trombocitams, aPTT ir fibrinogenas.",
+    "Aukšta rizika: teigiama asmens anamnezė — papildomai agregometrija (trombocitų funkcija) ir Owren protrombinas dėl VII faktoriaus.",
+    "Teigiama ir asmens, ir šeimos anamnezė — dar ir faktorinė analizė.",
+    "Kodėl šalia aPTT reikia fibrinogeno: mėginiui sukrešėti užtenka labai mažo trombino kiekio, kuris neatspindi organizmo poreikio esant keturiems litrams kraujo. Fibrinogeno koncentracija parodo hemostazės rezervą.",
+    "Labai aukštos ir aukštos rizikos pacientai sudaro apie 25 % visų, todėl toks skirstymas taupo resursus."
+   ]
+  },
+  {
+   "title": "Kada operuoti, o kada atidėti",
+   "start": 981,
+   "end": 1185,
+   "part": null,
+   "bullets": [
+    "Kiekvienai rizikos grupei gairėse pateikti algoritmai su konkrečiomis ribomis: patenkant į „žalią“ intervalą galima operuoti, esant nuokrypiams (pvz., aPTT pailgėjimas daugiau kaip 30 %) procedūrą reikia atidėti ir konsultuotis.",
+    "Žemos kraujavimo rizikos grupė yra didžiausia (apie 75–80 % pacientų) ir jai užtenka aPTT bei fibrinogeno.",
+    "Trombozių pusėje principas toks pat: prie bazinių rodmenų prisideda D-dimerai ir fibrino monomerai, o labai aukštos rizikos atveju — antitrombinas, proteinai C ir S, Leideno mutacija (PGR), antifosfolipidinis sindromas, trombocitų funkcija.",
+    "Žemos trombozinės rizikos grupėje pakanka D-dimerų: mažiau 500 — problemos nėra, virš 2000 — reikia planuoti pooperacinę antikoaguliaciją."
+   ]
+  },
+  {
+   "title": "Liekamasis vaistų poveikis prieš procedūrą",
+   "start": 1204,
+   "end": 1400,
+   "part": null,
+   "bullets": [
+    "Jei pacientas operuojamas antikoaguliacijos fone, jis iš karto priskiriamas aukštai arba labai aukštai rizikos grupei.",
+    "<strong>Tiesioginiai geriamieji antikoaguliantai (dabigatranas, rivaroksabanas, apiksabanas, edoksabanas):</strong> koncentracija nustatoma anti-Xa testu su atskiru vaisto kalibratoriumi. Prieš operaciją siekiama mažiau kaip 50 ng/ml, saugus lygis — 30 ng/ml. Esant regioninei anestezijai kartais reikia nulinės koncentracijos. Jei pasiekti negalima, svarstomi antidotai.",
+    "<strong>Varfarinas:</strong> operabilumo riba — INR mažiau 1,3 pagal Owren metodą; neinvazinėms manipuliacijoms, pavyzdžiui, kolonoskopijai — mažiau 1,7.",
+    "<strong>Heparinai:</strong> mažos molekulinės masės — tik anti-Xa, mažiau 0,2; nefrakcionuotas — pagal aPTT arba taip pat anti-Xa mažiau 0,2. Visada įvertinti, ar nėra inkstų funkcijos sutrikimo ir vaisto kaupimosi.",
+    "<strong>Antiagregantai (klopidogrelis, didelės aspirino dozės, tikagreloras):</strong> liekamąjį trombocitų reaktyvumą geriausiai parodo specializuota agregometrija (VerifyNow tipo arba Multiplate), aprašyta gairėse."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Heparino kontrolei, kai aPTT neatitinka klinikos, pereiti prie anti-Xa.",
+  "Varfarino kontrolei naudoti tik Owren metodo protrombino laiką.",
+  "Tyrimų apimtį parinkti pagal paciento rizikos grupę, o ne pagal laboratorijos galimybes.",
+  "Gydymo efektyvumui sekti naudoti fibrino monomerus (ankstyvas signalas) kartu su aukšto specifiškumo D-dimerais.",
+  "Prieš intervenciją išmatuoti tiesioginio antikoagulianto koncentraciją, o ne spręsti iš paskutinės dozės laiko."
+ ],
+ "table": {
+  "head": [
+   "Situacija",
+   "Rodmuo",
+   "Riba"
+  ],
+  "rows": [
+   [
+    "Nefrakcionuotas heparinas, terapija",
+    "anti-Xa",
+    "0,3–0,7 TV/ml <em>(patikrinti gairėse)</em>"
+   ],
+   [
+    "Varfarinas, operabilumas",
+    "INR (Owren)",
+    "&lt; 1,3"
+   ],
+   [
+    "Varfarinas, neinvazinė procedūra",
+    "INR (Owren)",
+    "&lt; 1,7"
+   ],
+   [
+    "Mažos molekulinės masės heparinas, operabilumas",
+    "anti-Xa",
+    "&lt; 0,2"
+   ],
+   [
+    "TGAK, terapinis lygis",
+    "koncentracija",
+    "~100 ng/ml <em>(įraše neaiškiai)</em>"
+   ],
+   [
+    "TGAK, prieš operaciją",
+    "koncentracija",
+    "&lt; 50 ng/ml, saugu 30 ng/ml"
+   ],
+   [
+    "D-dimerai, žema trombozinė rizika",
+    "D-dimerai",
+    "&lt; 500 gerai, &gt; 2000 problema"
+   ],
+   [
+    "D-dimerų tyrimo kokybė",
+    "specifiškumas",
+    "&gt; 70 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

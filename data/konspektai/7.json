@@ -1,0 +1,179 @@
+{
+ "summary": [
+  "Kaip praktiškai valdyti COVID-19 sergančio paciento antikoaguliaciją remiantis D-dimerų dinamika: kada pradėti profilaktiką, kada ją stiprinti, kada pereiti prie terapinio režimo ir kokie kiti rodmenys tam reikalingi. Pabaigoje — kodėl pailgėjęs aPTT nėra priežastis mažinti antikoaguliaciją."
+ ],
+ "sections": [
+  {
+   "title": "COVID-19 kaip dviejų sistemų pažaida",
+   "start": 87,
+   "end": 218,
+   "part": null,
+   "bullets": [
+    "Venų tromboembolijos sergantiesiems COVID-19 pasitaiko 10–12 kartų dažniau nei įprastai.",
+    "Tai imuninio atsako audros ir krešėjimo sistemos aktyvacijos derinys. Fibrinogenas pakyla iki 6–9 g/l, daugėja von Willebrando ir VIII faktoriaus, P-selektino.",
+    "Slopinama pirminė fibrinolizė, o antrinė vyksta labai aktyviai — iš čia milžiniškos D-dimerų koncentracijos.",
+    "Pavojingiausios yra parenchiminės mikrotrombozės, sukeliančios daugybinį organų pažeidimą; apie 20 % atvejų pažeidžiamos miokardo kraujagyslės. <strong>Nedaryti visų tyrimų iš karto</strong> [05:18–05:50, 27:06–28:10]",
+    "ISTH įspėja vengti panikos sukelto masinio laboratorinio tyrimo: COVID-19 keičia bent 30 rodmenų.",
+    "Reikšmingi yra fibrinolizės žymenys (D-dimerai, tirpūs fibrino monomerai) ir hiperkoaguliacijos žymenys (fibrinogenas, VIII bei von Willebrando faktorius)."
+   ]
+  },
+  {
+   "title": "Profilaktika visiems, dozė — pagal D-dimerus",
+   "start": 561,
+   "end": 854,
+   "part": null,
+   "bullets": [
+    "Kiekvienas pacientas su patvirtinta COVID-19 diagnoze turi gauti tromboprofilaktiką.",
+    "Standartinė dozė (pvz., nadroparino 0,3 du kartus per parą) didinama du ar tris kartus priklausomai nuo D-dimerų dinamikos.",
+    "D-dimerams viršijus 2000 ng/ml rekomenduojama sustiprinta profilaktika arba perėjimas prie terapinio režimo.",
+    "Viršijus 6000 ng/ml ir esant daugybinei organų pažaidai prie heparino pridedamas audinių plazminogeno aktyvatorius ir antitrombino koncentratas.",
+    "Heparinas pasirenkamas ir dėl to, kad veikia viruso spyglio baltymą bei turi priešuždegiminį poveikį."
+   ]
+  },
+  {
+   "title": "Profilaktika po išrašymo",
+   "start": 643,
+   "end": 714,
+   "part": null,
+   "bullets": [
+    "Įprasta praktika: dar 5 dienos tromboprofilaktikos visiems, kurių D-dimerai didesni nei dvigubos normos, tai yra daugiau kaip 1000 ng/ml.",
+    "Svarbi amžiaus pataisa: vyresniems nei 65 metų norma didėja apie 100 ng kas penkerius–dešimt metų, todėl aštuoniasdešimtmečiui atskaitos taškas yra apie 1500 ng/ml."
+   ]
+  },
+  {
+   "title": "Pailgėjęs aPTT nėra priežastis mažinti antikoaguliaciją",
+   "start": 760,
+   "end": 827,
+   "part": null,
+   "bullets": [
+    "aPTT ilgėja dėl suvartojimo sindromo, kurį sukelia aktyvi trombogenezė — tai argumentas antikoaguliaciją <strong>tęsti</strong>.",
+    "Dalis pacientų turi protrombozinį fenotipą su antifosfolipidiniais antikūnais, kurie patys ilgina aPTT.",
+    "Sutarta: aPTT pailgėjimas tiesiogiai nesusijęs su kraujavimo rizika ir niekada negali būti priežastis nutraukti ar sumažinti antikoaguliaciją. <strong>Tromboelastometrija kaip greitas sprendimas</strong> [16:39–17:34, 28:22–28:50]",
+    "ROTEM per 10 minučių parodo hiperkoaguliacijos lygį: didesnis FIBTEM ir MCF reiškia stipresnę hiperkoaguliaciją.",
+    "Kai laboratorija perkrauta, tai geras indikatorius pradėti tromboprofilaktiką.",
+    "Kraujavimo rizika stiprinant antikoaguliaciją lieka minimali būtent dėl fone esančios hiperkoaguliacijos."
+   ]
+  },
+  {
+   "title": "D-dimerų dinamika kaip prognozė",
+   "start": 1393,
+   "end": 1487,
+   "part": null,
+   "bullets": [
+    "Nepergyvenusių pacientų koncentracijos buvo 5–6 kartus didesnės nei pergyvenusių.",
+    "Augimas reiškia sunkesnę eigą ir didesnį mirštamumą — verta iš anksto planuoti vietą reanimacijoje.",
+    "Mažėjimas (pavyzdys iš praktikos: nuo 4000 iki 2080 per porą dienų) rodo, kad gydymas veikia."
+   ]
+  },
+  {
+   "title": "Dializės poreikio riba",
+   "start": 1487,
+   "end": 1566,
+   "part": null,
+   "bullets": [
+    "Sprendžiant dėl dializės poreikio minima riba <strong>2600 ng/ml</strong>: didesnė koncentracija patvirtina poreikį.",
+    "Inkstų mikrotrombozės dažniausiai pasireiškia iki 7 dienų po hospitalizacijos, platesnės tromboembolinės komplikacijos — 10–12 dienų."
+   ]
+  },
+  {
+   "title": "Trys stadijos",
+   "start": 1756,
+   "end": 1888,
+   "part": null,
+   "bullets": [
+    "I stadija: D-dimerai 2–3 kartus padidėję, plaučių pažeidimai minimalūs.",
+    "II stadija: 3–6 kartus padidėję, mikrotrombozės plaučių parenchimoje, bet neišeinančios už jos ribų.",
+    "III stadija: daugiau kaip 6 kartus, daugybinė organų pažaida.",
+    "Atskaitos taškas priklauso nuo amžiaus: 500, 650 ar 750 ng/ml."
+   ]
+  },
+  {
+   "title": "Heparinizacijos kontrolė",
+   "start": 1936,
+   "end": 2020,
+   "part": null,
+   "bullets": [
+    "Standartinė dozė gali veikti per stipriai esant kepenų pažaidai arba per silpnai esant antitrombino III stygiui (kuris pats dažnai atsiranda dėl kepenų pažeidimo).",
+    "Todėl reikia anti-Xa: jis parodo funkcinį terapinį intervalą ir leidžia laimėti laiko kritinės būklės pacientui."
+   ]
+  },
+  {
+   "title": "Pacientai, vartojantys TGAK",
+   "start": 2041,
+   "end": 2127,
+   "part": null,
+   "bullets": [
+    "Dabigatrano ir rivaroksabano koncentracija sergant COVID-19 nevaldomai pakyla 5–6 kartus.",
+    "Rekomendacija: kol pacientas nestabilus — heparinizacija; grįžti prie TGAK galima, kai būklė stabili, o D-dimerai nukrenta žemiau maždaug 1500 ng/ml.",
+    "Terapinė koncentracija apie 140 ng/ml. Praktinis pavyzdys: radus 200 ng/ml anemiškam pacientui, vietoj kraujo komponentų perpylimo galima perpus sumažinti dozę."
+   ]
+  },
+  {
+   "title": "Atsakymai į klausimus",
+   "start": 2158,
+   "end": 2249,
+   "part": null,
+   "bullets": [
+    "<strong>Kada pradėti antikoaguliantus:</strong> visiems hospitalizuotiems pacientams su COVID-19 iš karto, toliau koreguojant pagal D-dimerus.",
+    "<strong>Ar D-dimerai atspindi tiesioginį plaučių pažeidimą:</strong> iš vietinių fibrino sankaupų patenka tik nedidelės koncentracijos. Pagrindinis šaltinis yra sisteminė hiperkoaguliacija ir antrinė fibrinolizė, todėl D-dimerai plaučių pažeidimą atspindi netiesiogiai; tiesiogiai jį rodo instrumentiniai tyrimai."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Tromboprofilaktika skiriama visiems hospitalizuotiems pacientams, o dozė nustatoma pagal D-dimerų dinamiką.",
+  "D-dimerams viršijus 2000 — stiprinti; viršijus 6000 ir esant organų pažaidai — pridėti fibrinolizinę terapiją.",
+  "Pailgėjęs aPTT nėra kraujavimo rizikos ženklas ir nėra priežastis mažinti dozę.",
+  "Vertinant vyresnio amžiaus pacientą taikyti amžiaus pataisą D-dimerų normai.",
+  "Po išrašymo dar 5 dienas tęsti profilaktiką, jei D-dimerai viršija dvigubą normą.",
+  "Heparino veiksmingumą tikrinti anti-Xa, ypač esant kepenų pažaidai."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerai, I / II / III stadija",
+    "2–3 k. / 3–6 k. / &gt; 6 k. padidėję"
+   ],
+   [
+    "D-dimerų atskaitos taškas",
+    "500 ng/ml; vyresniems 650–1500"
+   ],
+   [
+    "Sustiprinta profilaktika",
+    "D-dimerai &gt; 2000 ng/ml"
+   ],
+   [
+    "Fibrinolizinė terapija",
+    "D-dimerai &gt; 6000 ng/ml + organų pažaida"
+   ],
+   [
+    "Dializės poreikis",
+    "apie 2600 ng/ml"
+   ],
+   [
+    "Grįžimas prie TGAK",
+    "D-dimerai &lt; ~1500 ng/ml ir stabili būklė"
+   ],
+   [
+    "Profilaktika po išrašymo",
+    "5 dienos, jei D-dimerai &gt; 1000 ng/ml"
+   ],
+   [
+    "Fibrinogenas sergant COVID-19",
+    "6–9 g/l"
+   ],
+   [
+    "TGAK terapinė koncentracija",
+    "apie 140 ng/ml"
+   ],
+   [
+    "D-dimerų specifiškumas",
+    "iki 75 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

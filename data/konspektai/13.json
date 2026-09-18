@@ -1,0 +1,184 @@
+{
+ "summary": [
+  "Priešoperacinis hemostazės skriningas: kokie tyrimai reikalingi kuriai rizikos grupei, kokios ribinės reikšmės leidžia operuoti ir kada operaciją reikia atidėti. Aptariama ir antikoaguliantų liekamojo poveikio kontrolė bei automatizuotas laboratorijos sprendimų algoritmas."
+ ],
+ "sections": [
+  {
+   "title": "Trys problemos, kurių vengiama",
+   "start": 27,
+   "end": 82,
+   "part": null,
+   "bullets": [
+    "Kraujavimas, perioperacinė trombozė ir blogiausiu atveju jų derinys su hiperfibrinolize (DIK)."
+   ]
+  },
+  {
+   "title": "Balansas ir keturi kampai",
+   "start": 111,
+   "end": 281,
+   "part": null,
+   "bullets": [
+    "Hemostazė yra pusiausvyra tarp koaguliacijos (apie 30 faktorių, kurių sąveika baigiasi fibrinu) ir fibrinolizės.",
+    "Kraujavimo ir trombozės priežastys skirstomos į keturias grupes: kraujagyslės ir endotelis, trombocitai (hipo- arba hiperagregacija), krešėjimo baltymai ir natūralūs inhibitoriai (antitrombinas III, proteinai C ir S)."
+   ]
+  },
+  {
+   "title": "Baziniai tyrimai ir ką jie matuoja",
+   "start": 373,
+   "end": 505,
+   "part": null,
+   "bullets": [
+    "<strong>aPTT</strong> apima aštuonis faktorius ir geriausiai atspindi bendrą krešėjimo būklę (Lietuvoje vadinamas DATL).",
+    "<strong>Protrombino laikas</strong> vertina II, VII ir X faktorius — būtent nuo vitamino K priklausomus, todėl tinka varfarino kontrolei.",
+    "<strong>Fibrinogeno koncentracija</strong> parodo, koks stiprus susidarys krešulys (dalyvauja ir XIII faktorius)."
+   ]
+  },
+  {
+   "title": "Antikoaguliantų kontrolė prieš operaciją",
+   "start": 505,
+   "end": 806,
+   "part": null,
+   "bullets": [
+    "<strong>Heparinai:</strong> tiksliausias rodmuo yra anti-Xa (metodika naudojama jau apie 40–50 metų). aPTT netinka, nes jį iškreipia aukštas fibrinogenas, didelis VIII faktoriaus aktyvumas ar vilkligės antikoaguliantas.",
+    "<strong>Varfarinas:</strong> protrombino laikas Owren metodu, naudojamas Skandinavijoje, Nyderlanduose, Belgijoje ir Japonijoje. Quick metodas papildomai matuoja I ir V faktorius, todėl duoda klaidingą rezultatą.",
+    "<strong>TGAK:</strong> anti-Xa su kalibratoriumi (rivaroksabanui, apiksabanui, edoksabanui) ir ekarino laiko testas dabigatranui. Koncentracija daugiau kaip <strong>50 ng/ml</strong> paprastai yra priežastis operaciją atidėti."
+   ]
+  },
+  {
+   "title": "Trombocitų vertinimas",
+   "start": 822,
+   "end": 947,
+   "part": null,
+   "bullets": [
+    "Agregometrija būna <strong>diagnostinė</strong> (be antiagregantų) ir <strong>terapinė</strong> (liekamasis reaktyvumas, pavyzdžiui, po 75 mg klopidogrelio).",
+    "Trombocitų skaičius nerodo jų funkcijos: onkologiniams pacientams skaičius gali būti labai didelis, o kraujavimas sunkus.",
+    "Standartizuotas kraujavimo laikas (norma 2–8 min.) tinka planinėms procedūroms, bet netinka esant šokui ar sutrikusiai kapiliarinei kraujotakai."
+   ]
+  },
+  {
+   "title": "INR ir aPTT reikšmė kraujavimo rizikai",
+   "start": 1093,
+   "end": 1176,
+   "part": null,
+   "bullets": [
+    "INR yra kliniškai naudingiausia protrombino laiko išraiška, nes įvertina reagento jautrumą, analizatorių ir laboratorijos normą.",
+    "INR daugiau 1,1 — kraujavimo specifiškumas apie 72 %; daugiau 1,5 — artėja prie 100 %.",
+    "Pailgėjęs aPTT kartu su mažu trombocitų skaičiumi taip pat artėja prie 100 % specifiškumo kraujavimui."
+   ]
+  },
+  {
+   "title": "Tyrimų rinkiniai pagal rizikos grupę",
+   "start": 1381,
+   "end": 1658,
+   "part": null,
+   "bullets": [
+    "<strong>Labai didelė kraujavimo rizika</strong> (teigiama ir asmens, ir pirmos eilės giminaičių anamnezė): aPTT, VII faktorius, protrombino laikas, fibrinogenas, trombocitų skaičius ir funkcija, faktorių tyrimai. Jei laboratorija negali visko atlikti, pirmiausia atsisakoma faktorių tyrimų.",
+    "<strong>Didelė rizika</strong> (teigiama tik asmens anamnezė): tas pats be faktorių tyrimų.",
+    "<strong>Maža rizika:</strong> aPTT ir fibrinogenas. Protrombino laiko nereikia, nes jis skirtas varfarinui ir kepenų rezervui.",
+    "<strong>Labai didelė trombozės rizika:</strong> prie bazinių tyrimų pridedami D-dimerai, fibrino monomerai, antitrombinas III, proteinai C ir S, Leideno mutacija (APCR), antifosfolipidiniai antikūnai, trombocitų skaičius ir funkcija.",
+    "<strong>Didelė trombozės rizika:</strong> be trombofilijos ir antifosfolipidinių tyrimų.",
+    "<strong>Maža trombozės rizika:</strong> aPTT, fibrinogenas ir D-dimerai. Esant aukštiems D-dimerams planuojama tromboprofilaktika ir tinkamas tiltas."
+   ]
+  },
+  {
+   "title": "Ribos, kada operaciją atidėti",
+   "start": 1658,
+   "end": 1771,
+   "part": null,
+   "bullets": [
+    "Labai didelės kraujavimo rizikos grupė: aPTT pailgėjęs daugiau kaip 30 %, INR daugiau 1,3, fibrinogenas mažiau 1,5 g/l, trombocitų skaičius ar funkcija sumažėję daugiau kaip 75 %, VIII faktorius mažiau 40 %, IX faktorius mažiau 40 %.",
+    "Mažos rizikos grupė: aPTT pailgėjimas iki 50 % ir fibrinogenas daugiau 2 g/l leidžia operuoti; fibrinogenas mažiau 1,5 g/l reiškia, kad operaciją reikia atidėti ir pasiruošti.",
+    "Tarpinės reikšmės visada reikalauja hemostaziologo konsultacijos."
+   ]
+  },
+  {
+   "title": "Kodėl tai apsimoka",
+   "start": 1820,
+   "end": 1841,
+   "part": null,
+   "bullets": [
+    "Apie 75 % pacientų yra mažos rizikos ir stabilūs, bet tai reikia įrodyti tyrimais.",
+    "Likę 25 % yra sudėtingesni, ir būtent jiems pasiruošimas keičia operacijos saugumą."
+   ]
+  },
+  {
+   "title": "Automatizavimas",
+   "start": 1870,
+   "end": 1919,
+   "part": null,
+   "bullets": [
+    "Latvijos laboratorijų tinkle veikia projektas, kur šie algoritmai atliekami automatiškai ir gydytojas gauna rekomendaciją, ar operaciją planuoti, ar atidėti."
+   ]
+  },
+  {
+   "title": "Kokios klinikinės informacijos reikia laboratorijai",
+   "start": 1238,
+   "end": 1381,
+   "part": null,
+   "bullets": [
+    "Ar pacientas hospitalizuotas (nuo to priklauso atsakymo skubumas).",
+    "Diagnozė, ūmi ar lėtinė būklė.",
+    "Vaistų sąveikos rizika (pavyzdys: antibiotikai stiprina varfarino poveikį).",
+    "Ar pacientas šiuo metu kraujuoja, judrumas, žinomi hemostazės sutrikimai.",
+    "Tikslūs duomenys apie antikoaguliantų ir antiagregantų terapiją: vaistas, dozė, trukmė."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Tyrimų rinkinys parenkamas pagal asmens ir šeimos anamnezę, ne pagal laboratorijos galimybes.",
+  "Heparino kontrolė — anti-Xa, varfarino — Owren protrombino laikas.",
+  "TGAK koncentracija virš 50 ng/ml yra priežastis atidėti operaciją.",
+  "Trombocitų skaičius nėra jų funkcijos rodiklis.",
+  "INR virš 1,3 ir fibrinogenas žemiau 1,5 g/l didelės rizikos grupėje reiškia atidėjimą.",
+  "Laboratorijai reikia klinikinės informacijos, kitaip atsakymas lieka be konteksto."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "TGAK prieš operaciją",
+    "&gt; 50 ng/ml — atidėti"
+   ],
+   [
+    "INR",
+    "&gt; 1,1 — 72 % specifiškumas kraujavimui; &gt; 1,5 — ~100 %"
+   ],
+   [
+    "Labai didelė rizika: aPTT",
+    "pailgėjęs &gt; 30 % — atidėti"
+   ],
+   [
+    "Labai didelė rizika: INR",
+    "&gt; 1,3 — atidėti"
+   ],
+   [
+    "Labai didelė rizika: fibrinogenas",
+    "&lt; 1,5 g/l — atidėti"
+   ],
+   [
+    "Labai didelė rizika: trombocitai",
+    "sumažėję &gt; 75 % — atidėti"
+   ],
+   [
+    "Labai didelė rizika: VIII ir IX faktoriai",
+    "&lt; 40 % — atidėti"
+   ],
+   [
+    "Maža rizika",
+    "aPTT iki +50 %, fibrinogenas &gt; 2 g/l — operuoti"
+   ],
+   [
+    "Standartizuotas kraujavimo laikas",
+    "2–8 min."
+   ],
+   [
+    "Mažos rizikos pacientų dalis",
+    "apie 75 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

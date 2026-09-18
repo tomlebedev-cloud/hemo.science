@@ -1,0 +1,171 @@
+{
+ "summary": [
+  "Kaip senėjimas keičia hemostazę ir ką tai reiškia trombozių rizikai, diagnostikai ir gydymui. Antroje dalyje — pagrindiniai 2025 m. Nacionalinių jungtinių antitrombozinio gydymo gairių laboratorinės kontrolės akcentai."
+ ],
+ "sections": [
+  {
+   "title": "Kodėl apie gaires kalbama nuolat",
+   "start": 3,
+   "end": 78,
+   "part": null,
+   "bullets": [
+    "Gairės gimė iš 12–14 klinikinių profesinių draugijų konsensuso, nes trombozė yra problema beveik visose klinikinės medicinos srityse (onkologija, giliųjų venų trombozė, plaučių arterijos tromboembolija, nėštumas)."
+   ]
+  },
+  {
+   "title": "Senėjimo vektoriai",
+   "start": 83,
+   "end": 158,
+   "part": null,
+   "bullets": [
+    "Didėjantis ir lėtinis sergamumas, uždegiminių ligų paplitimas, funkcinė priklausomybė, gyvenimo kokybės blogėjimas.",
+    "Socialinis vektorius — ne tik tai, kad senstanti visuomenė turės mažiau dirbančiųjų, bet ir tai, kiek dar galima padaryti vyresnių žmonių gyvenimo kokybei."
+   ]
+  },
+  {
+   "title": "Hemostazės pokyčiai senstant",
+   "start": 158,
+   "end": 306,
+   "part": null,
+   "bullets": [
+    "Sutrinka homeostazės balansas: po streso ar ligos vyresniam žmogui sunkiau grįžti į normą.",
+    "Uždegiminės ligos ne tik lemia funkcinę priklausomybę, bet ir sutrikdo krešėjimą: endotelio aktyvacija, intravaskulinė koaguliacija, suaktyvėjusi fibrinolizė. COVID-19 tai ryškiai parodė.",
+    "Statistiškai įrodyta, kad senstant didėja mirštamumo rizika. Objektyvus senėjimo biožymuo — leukocitų telomerų trumpėjimas, susijęs su vėžio, aterosklerozės ir kitų ligų rizika; vyrams jis ryškesnis nei moterims."
+   ]
+  },
+  {
+   "title": "D-dimerai — ne tik trombozės, bet ir senėjimo žymuo",
+   "start": 306,
+   "end": 459,
+   "part": null,
+   "bullets": [
+    "Fibrinolizės produktai: prieštrombozinis (tirpūs fibrino monomerai — trombinės aktyvacijos, „degimo“ žymuo) ir potrombozinis (aukšto specifiškumo D-dimerai).",
+    "Fibrino monomerai vis plačiau naudojami ankstyvai trombozės dinamikai ir retrombozei sekti, tačiau trombo masės nerodo.",
+    "Aukšto specifiškumo D-dimerai duoda apie 2–3 kartus mažiau klaidingai teigiamų rezultatų ir rodo trombozės eigą, taip pat yra senėjimo, prognozės ir mirštamumo rizikos žymuo. Tarptautinėje spaudoje plačiai aptarta 2019 m."
+   ]
+  },
+  {
+   "title": "Amžiui pritaikyta D-dimerų riba",
+   "start": 508,
+   "end": 593,
+   "part": null,
+   "bullets": [
+    "Iki 65 metų: 500 ng/ml atmeta giliųjų venų trombozę ir plaučių arterijos tromboemboliją esant mažai ar vidutinei klinikinei tikimybei.",
+    "Nuo 65 metų, pagal ISTH algoritmą, riba didinama 100 ng/ml kas 10 metų: 65 m. — 600, 75 m. — 700, 85 m. — 800 ng/ml."
+   ]
+  },
+  {
+   "title": "Prognozinė reikšmė",
+   "start": 593,
+   "end": 707,
+   "part": null,
+   "bullets": [
+    "Duke ir kitų universitetų tyrimai: vyresniems asmenims su padidėjusia aukšto specifiškumo D-dimerų koncentracija mirties ar funkcinės priklausomybės rizika per 24 mėnesius yra 4 kartus didesnė.",
+    "Tai svarbu pacientams su padidinta širdies ir kraujagyslių ligų rizika bei antro tipo cukriniu diabetu (arterinės trombozės trigeris).",
+    "D-dimerai su amžiumi didėja, nes aktyvėja fibrinolizė: mažėja plazmino aktyvatoriaus inhibitorių koncentracija."
+   ]
+  },
+  {
+   "title": "Kompensacija, kuri virsta problema",
+   "start": 707,
+   "end": 795,
+   "part": null,
+   "bullets": [
+    "Uždegimas ir fibrinolizė yra kompensaciniai mechanizmai, bet kai jie išeina už ribų, „kanibalizuoja“ organizmo funkcionalumą.",
+    "Padidėjusios VIII faktoriaus, fibrinogeno ir von Willebrando faktoriaus koncentracijos senstant atrodo nekenksmingos, bet tai medžiaga, iš kurios formuojasi trombozė — ne geras ženklas."
+   ]
+  },
+  {
+   "title": "Du paradoksai",
+   "start": 795,
+   "end": 868,
+   "part": null,
+   "bullets": [
+    "Naujagimiai: kepenų funkcija nesusiformavusi, krešėjimo baltymų gerokai mažiau, bet kraujavimų ir trombozių nėra — paaiškinimo nėra.",
+    "Šimtamečiai: turi įvairių trombinių rizikų ir mutacijų, bet po 90 metų trombinės ligos dažnai neatsiranda — taip pat nepaaiškinta."
+   ]
+  },
+  {
+   "title": "Gydymas vyresniems",
+   "start": 868,
+   "end": 1000,
+   "part": null,
+   "bullets": [
+    "Gydymo algoritmas ir strategija nesiskiria, bet svarbios vaistų sąveikos — ne tik varfarino ar heparino, bet ir rivaroksabano bei dabigatrano su antiaritminiais, antihipertenziniais ir antivirusiniais vaistais.",
+    "<strong>Profilaktinis gydymas nerekomenduojamas</strong> vien dėl padidėjusio biožymens, rastos mutacijos ar trombofilinės būklės, jei nėra klinikinės priežasties (nechirurginės trombozės anamnezėje ar ryškios šeiminės trombofilijos). Rizika įvertinama, o gydymas koreguojamas tik tada, kai trombozė jau yra."
+   ]
+  },
+  {
+   "title": "Gairių laboratoriniai akcentai",
+   "start": 1000,
+   "end": 1470,
+   "part": null,
+   "bullets": [
+    "Gaires inicijavo kardiologai prof. Čelutkienė (Vilnius) ir prof. Kubilius (Kaunas). Apibrėžti antikoaguliantai ir rodmenys jiems stebėti: heparinai — anti-Xa, varfarinas — Owren protrombino laikas, dabigatranas — ekarino testas, taip pat antiagregantų, antifibrinolitikų ir trombolitikų stebėsena viskoelastometrija.",
+    "<strong>Nefrakcionuotas heparinas:</strong> aPTT tik pirminis testas. Esant aPTT pailgėjimui 1,5–2,5 karto (65–110 s), anti-Xa 0,3–0,7 TV/ml pasiekia tik dalis pacientų; kiti perdozuoti arba nepakankamai dozuoti. aPTT pailgėjimas gali skirtis iki 6 kartų esant toms pačioms anti-Xa reikšmėms.",
+    "<strong>Mažos molekulinės masės heparinai:</strong> kiekviena komercinė forma turi savo anti-Xa intervalą. Kontrolė reikalinga, kai sutrikę eliminacijos ar metabolizmo keliai, ypač ruošiant pacientą operacijai.",
+    "<strong>Heparino intervalai skirtingose situacijose:</strong> terapinis gydymas 0,3–0,7; inkstų dializė apie 0,3 (atitinka aktyvuoto krešėjimo laiką iki 200 s); vainikinių arterijų angiografija ar dirbtinė kraujo apytaka — aktyvuoto krešėjimo laikas iki 400 s, atitinkantis apie 4,5 TV/ml anti-Xa.",
+    "<strong>Varfarinas:</strong> tik Owren metodas (tai metodas, ne prekės ženklas), kad pacientui keičiant laboratoriją ar ligoninę protrombino laiko dinamika būtų atspindėta teisingai.",
+    "<strong>Gydymo efektas:</strong> nelaukti 80 % obstrukcijos ir klinikos, o sekti biochemiškai — fibrino monomerai (ankstyvasis „degimo“ žymuo) ir aukšto specifiškumo D-dimerai (tromboprodukcija).",
+    "<strong>Nėštumas:</strong> D-dimerai padidėja nepriklausomai nuo trombozės (placentos kraujotakos ypatumai), todėl Wells skalė ir atmetimo riba netaikomos. Fibrino monomerai nėštumo metu nekinta — gairėse jie apibrėžti kaip vienintelis rodmuo nėščiųjų trombinei pažaidai vertinti, su interpretavimo algoritmu (kada tromboprofilaktika, kada eskaluota, kaip sekti dinamiką)."
+   ]
+  },
+  {
+   "title": "Pabaiga",
+   "start": 1482,
+   "end": null,
+   "part": null,
+   "bullets": [
+    "Pranešėjas pasakoja, kad nelabai mėgsta kalbėti į ekraną ir tikisi kitą kartą susitikti salėje."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Vyresniems nei 65 metų D-dimerų atmetimo ribą didinti 100 ng/ml kas 10 metų.",
+  "Padidėję aukšto specifiškumo D-dimerai vyresniam žmogui — keturgubai didesnės mirties ar funkcinės priklausomybės rizikos signalas.",
+  "Profilaktinio antitrombozinio gydymo neskirti vien dėl žymens ar mutacijos be klinikinės priežasties.",
+  "Vyresniems pacientams ypač atidžiai vertinti TGAK sąveikas.",
+  "Heparino kontrolė — anti-Xa, varfarino — tik Owren metodu; nėščiosioms — fibrino monomerai."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerai, iki 65 m.",
+    "&lt; 500 ng/ml"
+   ],
+   [
+    "D-dimerai, nuo 65 m.",
+    "+100 ng/ml kas 10 metų (65 m. — 600, 75 m. — 700, 85 m. — 800)"
+   ],
+   [
+    "Aukštų D-dimerų prognozė vyresniems",
+    "4 k. didesnė mirties ar priklausomybės rizika per 24 mėn."
+   ],
+   [
+    "Aukšto specifiškumo D-dimerai",
+    "2–3 k. mažiau klaidingai teigiamų"
+   ],
+   [
+    "Anti-Xa, terapija",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "Anti-Xa, dializė",
+    "apie 0,3 (ACT iki 200 s)"
+   ],
+   [
+    "Anti-Xa, dirbtinė kraujo apytaka",
+    "apie 4,5 TV/ml (ACT iki 400 s)"
+   ],
+   [
+    "aPTT terapinis pailgėjimas",
+    "1,5–2,5 k. (65–110 s) — nepatikimas"
+   ]
+  ]
+ },
+ "reviewed": false
+}

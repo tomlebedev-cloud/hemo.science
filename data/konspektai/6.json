@@ -1,0 +1,168 @@
+{
+ "summary": [
+  "Kaip COVID-19 sukelia trombozes: imuninio atsako ir krešėjimo sistemos sąveika per komplemento membranos atakos kompleksą, trys koagulopatijos stadijos su konkrečiais laboratoriniais kriterijais ir gydymo režimais, heparino parinkimas bei kontrolė ir tai, ką daryti su pacientais, jau vartojančiais tiesioginius geriamuosius antikoaguliantus."
+ ],
+ "sections": [
+  {
+   "title": "Mechanizmas: membranos atakos kompleksas (MAK)",
+   "start": 556,
+   "end": 1063,
+   "part": null,
+   "bullets": [
+    "Komplemento ir krešėjimo sistemos kilusios iš tų pačių serino proteazių genų, todėl imuninis atsakas tiesiogiai įsiterpia į hemostazę.",
+    "Devynių komplemento baltymų sąveikos produktas MAK veikia keturiomis kryptimis: aktyvina krešėjimo kaskadą, neproporcingai aktyvina trombocitus ir prokoaguliacinių dalelių gamybą, slopina <strong>pirminę</strong> fibrinolizę ir hiperaktyvina endotelį.",
+    "Rezultatas — masyvios fibrino sankaupos ant trombocitų ir aktyvi trombogenezė, tiek veninė, tiek arterinė."
+   ]
+  },
+  {
+   "title": "Santykinė trombofilija",
+   "start": 1278,
+   "end": 1350,
+   "part": null,
+   "bullets": [
+    "Esant hiperkoaguliacijai fibrinogeno ir fibrino gaminasi labai daug, o natūralių inhibitorių (antitrombino III, proteino C) koncentracija lieka įprasta.",
+    "Susidaro <strong>santykinis</strong> inhibitorių trūkumas: jų nebepakanka fibrino pertekliui pašalinti. Tai ir yra pagrindinė COVID-19 trombofilijos priežastis."
+   ]
+  },
+  {
+   "title": "Kiek dažnos trombozės",
+   "start": 1115,
+   "end": 1253,
+   "part": null,
+   "bullets": [
+    "Ankstyvose studijose iš 150 pacientų 64 turėjo trombozių, apie 20 % — plaučių arterijos tromboemboliją (tik stambiosios kraujagyslės; mikrotrombozių dar daugiau).",
+    "Bendras venų tromboembolijos dažnis populiacijoje yra 2–3 %, sergant COVID-19 — 25–40 %.",
+    "11 tūkst. pacientų tyrime dokumentuota apie 20 % miokardo trombozių."
+   ]
+  },
+  {
+   "title": "Trys koagulopatijos stadijos",
+   "start": 1982,
+   "end": 2385,
+   "part": null,
+   "bullets": [
+    "<strong>I stadija:</strong> D-dimerai padidėję 2–3 kartus (pvz., nuo 500 iki 1000–1500 ng/ml), protrombino laikas ir aPTT normalūs, <strong>trombocitų skaičius padidėjęs</strong> (MAK sukelta aktyvacija). Pacientas gali būti namuose. Gydymas — sustiprinta (dvigubos dozės) profilaktinė antikoaguliacija mažos molekulinės masės heparinu.",
+    "<strong>II stadija:</strong> D-dimerai padidėję 3–6 kartus (3000–6000 ir daugiau), <strong>trombocitų skaičius mažėja</strong> (suvartojimo požymis), šiek tiek ilgėja protrombino laikas. Kompiuterinėje tomografijoje matomi plaučių pažeidimai. Gydymas — pilna terapinė antikoaguliacija.",
+    "<strong>III stadija:</strong> D-dimerai padidėję daugiau kaip 6 kartus, trombocitopenija mažiau 70–80 tūkst., ilgėja skrininginiai testai, mažėja fibrinogenas. Yra hipoksija ir ARDS, pažeidžiami inkstai bei kepenys. Prie antikoaguliacijos pridedama fibrinolizinė terapija (audinių plazminogeno aktyvatorius).",
+    "Svarbi detalė: net išsivysčius DIK ir suvartojimo sindromui, kraujavimas nėra būdinga problema."
+   ]
+  },
+  {
+   "title": "Prognozė iš D-dimerų",
+   "start": 1739,
+   "end": 1925,
+   "part": null,
+   "bullets": [
+    "Nepergyvenusių pacientų D-dimerų koncentracija buvo apie 6 kartus didesnė nei pergyvenusių (pvz., 600 ir 6000 ng/ml).",
+    "Staigus kilimas prasideda praėjus 3–4 dienoms po hospitalizacijos.",
+    "D-dimerų augimas jau priimant susijęs su didesniu mirštamumu, o augimas gulint — su daugybinio organų nepakankamumo ir DIK išsivystymu. <strong>Kurį hepariną rinktis</strong> [49:08–50:04, 1:02:10–1:02:51]",
+    "Kuo kritiškesnė būklė, tuo daugiau argumentų už <strong>nefrakcionuotą</strong> hepariną: jo koncentracija per maždaug 1 val. 40 min. sumažėja dvigubai, todėl poveikį galima greitai valdyti.",
+    "Stabilizavus pacientą pereinama prie mažos molekulinės masės heparino, kuris tinka maždaug 80 % pacientų."
+   ]
+  },
+  {
+   "title": "Kodėl aPTT netinka",
+   "start": 3015,
+   "end": 3095,
+   "part": null,
+   "bullets": [
+    "Sergant COVID-19 padidėja fibrinogeno ir VIII faktoriaus koncentracijos, todėl aPTT trumpėja ir heparino poveikis lieka užmaskuotas.",
+    "Vadovaujantis aPTT intuityviai pereinama prie perdozavimo.",
+    "Tinkamas rodmuo — <strong>anti-Xa</strong>, terapinis langas 0,3–0,7 TV/ml. Jis nepriklauso nuo fibrinogeno ar faktorių koncentracijų ir rodo, kaip konkrečiai slopinama krešėjimo sistema. Tuo metu ši metodika Lietuvoje universitete buvo ką tik patvirtinta kaip pagrindinė."
+   ]
+  },
+  {
+   "title": "Heparino sukelta trombocitopenija",
+   "start": 3771,
+   "end": 3897,
+   "part": null,
+   "bullets": [
+    "Trombocitų mažėjimas nuo trečios heparinizacijos dienos yra signalas.",
+    "Praktiškiausia naudoti greitą atmetamąjį testą (HIT stick): neigiamas atsakymas leidžia ramiai tęsti hepariną, teigiamas reikalauja tolesnio tyrimo. <strong>Tiesioginiai geriamieji antikoaguliantai</strong> [54:09–57:24, 1:00:22–1:01:41]",
+    "Cremonos ir kitų centrų duomenimis, esant tai pačiai dozei rivaroksabano koncentracija plazmoje padidėja daugiau kaip 6 kartus dėl sąveikos su antivirusiniais vaistais.",
+    "Rekomendacija: kiek įmanoma vengti TGAK ir pereiti prie parenteralinių antikoaguliantų, kuriuos lengviau valdyti.",
+    "Terapinis langas 100–140 ng/ml; operacijai reikia mažiau 30 ng/ml; būtinybės atveju galima balansuoti iki 200 ng/ml, o virš to — didelė hemoraginė rizika.",
+    "Kada matuoti koncentraciją: labai didelis svoris, inkstų ar kepenų funkcijos sutrikimas, kraujavimas, perdozavimo požymiai, skubi operacija, klinikinės neatitiktys, įtariama vaistų sąveika. Jei standartinė dozė duoda standartinį efektą, matuoti nereikia."
+   ]
+  },
+  {
+   "title": "„Šeši vertinimai“ — antikoaguliacijos parinkimo schema",
+   "start": 4009,
+   "end": 4115,
+   "part": null,
+   "bullets": [
+    "Įvertinti hiperkoaguliacijos lygį.",
+    "Sekti D-dimerų ir fibrino monomerų dinamiką.",
+    "Įvertinti hemoraginę riziką (anamnezė, PT, aPTT, fibrinogenas, trombocitų funkcija).",
+    "Įvertinti inkstų ir kepenų funkciją.",
+    "Parinkti dozę ir matuoti jos efektą (anti-Xa; TGAK — koncentracija).",
+    "Koreguoti dozę pagal laboratorijos atsakymą."
+   ]
+  },
+  {
+   "title": "Atsakymai į klausimus",
+   "start": 4681,
+   "end": 5612,
+   "part": null,
+   "bullets": [
+    "<strong>Kaip naudoti D-dimerus:</strong> įprastinėje praktikoje — tik įtarimui atmesti; kai trombozė jau žinoma — tik dinamikoje. Pavyzdys: 2000 → po trijų dienų 3500 reiškia, kad reikia ruošti dirbtinę plaučių ventiliaciją; 2000 → 1500 reiškia, kad einama teisinga kryptimi.",
+    "<strong>Ryšys su deguonies saturacija:</strong> tiesioginio ryšio nėra; jis netiesioginis ir galioja tik tada, kai saturacijos kritimą lemia mikrotrombozės. Sisteminiai rodikliai gali atrodyti geri, kai atskiras organas smarkiai kenčia.",
+    "<strong>Švedijos praktika:</strong> II stadijos pacientai nuo rivaroksabano perkeliami prie heparino; I stadijoje kai kurie lieka prie rivaroksabano, bet koncentracija kontroliuojama, kad neviršytų 200 ng/ml.",
+    "<strong>Hemofilija ar gili trombocitopenija sergant COVID-19:</strong> padeda tromboelastometrija — ji parodo galutinį krešėjimo rezultatą ir hemostazės rezervą; kartu sekami D-dimerai ir fibrino monomerai."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Stadiją nustatyti pagal D-dimerų padidėjimo kartotinumą ir trombocitų kryptį (I — daugėja, II — mažėja).",
+  "Įprastos profilaktinės dozės nepakanka: pradinė schema yra dviguba profilaktika (pvz., enoksaparino 80 mg per parą vietoj 40 mg).",
+  "Kritinės būklės pacientui rinktis nefrakcionuotą hepariną dėl greito valdymo.",
+  "Heparino kontrolė — tik anti-Xa.",
+  "Trombocitų kritimą nuo trečios dienos tikrinti HIT atmetamuoju testu, o ne iš karto keisti gydymą.",
+  "Pacientą, vartojantį TGAK, geriau perkelti prie heparino."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerai, I / II / III stadija",
+    "2–3 k. / 3–6 k. / &gt; 6 k. padidėję"
+   ],
+   [
+    "Trombocitai, I stadija",
+    "padidėję"
+   ],
+   [
+    "Trombocitai, II–III stadija",
+    "mažėja; III stadijoje &lt; 70–80 tūkst."
+   ],
+   [
+    "Anti-Xa, heparino terapija",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "TGAK terapinė koncentracija",
+    "100–140 ng/ml"
+   ],
+   [
+    "TGAK, operacija",
+    "&lt; 30 ng/ml; ribinis atvejis iki 200"
+   ],
+   [
+    "Sustiprinta profilaktika",
+    "enoksaparino 80 mg/parą vietoj 40 mg"
+   ],
+   [
+    "D-dimerų specifiškumas",
+    "įprastai 50 %, naujesni iki 75 %"
+   ],
+   [
+    "VTE dažnis",
+    "populiacijoje 2–3 %, sergant COVID-19 25–40 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

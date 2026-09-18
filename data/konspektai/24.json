@@ -1,0 +1,138 @@
+{
+ "summary": [
+  "Traumos sukelta koagulopatija (TIC) politraumos ir karo medicinos kontekste: ankstyvoji ir vėlyvoji fazės, priešoperacinis hemostazės skriningas, DIK diagnostika ir masyvaus kraujavimo valdymas sonoreometrija."
+ ],
+ "sections": [
+  {
+   "title": "Kodėl tai svarbu",
+   "start": 52,
+   "end": 104,
+   "part": null,
+   "bullets": [
+    "Didelė dalis mirčių po politraumos būtų išvengiama — tiek karinėje, tiek civilinėje aplinkoje.",
+    "Galutinė grėsmė — daugybinis organų nepakankamumas, vedantis į blogą išeitį."
+   ]
+  },
+  {
+   "title": "Mirties triada",
+   "start": 170,
+   "end": null,
+   "part": null,
+   "bullets": [
+    "Kraujavimas, acidozė ir koagulopatija — žinoma apie 40 metų. Hipotermija ir audinių pažaida situaciją dar pablogina."
+   ]
+  },
+  {
+   "title": "Ankstyvoji TIC",
+   "start": 372,
+   "end": 460,
+   "part": null,
+   "bullets": [
+    "Pirmosiomis valandomis po traumos vyrauja hipokoaguliacija.",
+    "Pakitęs protrombino laikas ar aPTT šiuo laikotarpiu yra prognostinis: mirštamumas didėja iki 300 %. Svarbiausias laikotarpis — pirmosios šešios valandos po sužalojimo."
+   ]
+  },
+  {
+   "title": "Vėlyvoji TIC",
+   "start": 460,
+   "end": 575,
+   "part": null,
+   "bullets": [
+    "Vaizdas pasikeičia į hiperkoaguliaciją, sukeltą padidėjusios fibrinolizės ir trombozinės medžiagos gamybos.",
+    "Ankstyvasis žymuo — tirpūs fibrino monomerai; trombozės lygį rodo aukšto specifiškumo D-dimerai ir trombino generacija.",
+    "Tai veda į aktyvią venų tromboemboliją, o per suvartojimą ir hiperfibrinolizę — į masyvų kraujavimą."
+   ]
+  },
+  {
+   "title": "Priešoperacinis skriningas",
+   "start": 617,
+   "end": 1288,
+   "part": null,
+   "bullets": [
+    "Du uždaviniai: įvertinti paciento hemostazės rezervą ir stabilumą bei kraujavimo rizikos lygį.",
+    "<strong>Koaguliacijos pusė:</strong> aPTT (jautrus vilkligės antikoaguliantui), Owren protrombino laikas (II, VII, X faktoriai; kartu parodo kepenų rezervą) ir fibrinogenas. Fibrinogenas būtinas, nes laboratorijoje mėginiui sukrešėti reikia labai nedaug trombino, o kraujavimo situacijoje organizmui reikia daug.",
+    "<strong>Fibrinolizės pusė:</strong> fibrino monomerai („fibrinolizės ugnies“ žymuo), aukšto specifiškumo D-dimerai, natūralūs inhibitoriai (antitrombinas III, proteinai C ir S).",
+    "Apie 80 % pacientų yra mažos rizikos ir jiems nereikia daug tyrimų; 15–20 % didelės ir labai didelės rizikos pacientų reikia išplėstinių tyrimų ir atskiro biudžeto.",
+    "Labai didelės rizikos grupėje rekomenduojami ir atskiri VIII, IX, XI faktorių tyrimai.",
+    "Mažos rizikos grupėje protrombino laiko nereikia — jis skirtas kepenų rezervui ir VII faktoriui.",
+    "Kai kurios šiuolaikinės laboratorijų platformos jau pateikia gydytojui automatines rekomendacijas pagal ribines reikšmes.",
+    "Trombozės rizikos vertinime tyrimų daugiau: prisideda fibrino monomerai, D-dimerai ir trombofilijos žymenys. Minima D-dimerų riba — 2000 ng/ml."
+   ]
+  },
+  {
+   "title": "DIK formos ir diagnostika",
+   "start": 1288,
+   "end": 1595,
+   "part": null,
+   "bullets": [
+    "Pirminis procesas visada yra trombozė. Toliau arba suvartojimas ir kraujavimas (hiperfibrinolizinis DIK), arba tik trombozės ir daugybinis organų nepakankamumas (nehiperfibrinolizinis DIK).",
+    "Trys etapai: trombozinė aktyvacija (fibrino monomerai), fibrinolizės lygis (D-dimerai), suvartojimas (aPTT, protrombino laikas, fibrinogenas, trombocitai).",
+    "Principas „du iš penkių“: vienas teigiamas iš trombozės žymenų grupės ir vienas iš suvartojimo grupės reiškia biocheminę DIK diagnozę, su kraujavimu ar be jo.",
+    "ISTH balų sistema; pirmiausia turi būti klinikinė DIK priežastis — jos nesant apie DIK negalvojama.",
+    "Fibrino monomerų ir D-dimerų dinamika turi prognostinę vertę ir yra naudingiausia <strong>prieš</strong> prasidedant masyviam kraujavimui."
+   ]
+  },
+  {
+   "title": "Masyvus kraujavimas",
+   "start": 1595,
+   "end": 2029,
+   "part": null,
+   "bullets": [
+    "Prasidėjus masyviam kraujavimui laboratoriniai tyrimai nebenaudingi — pereinama prie transfuzijos strategijos, traneksamo rūgšties, protrombino komplekso koncentrato (PCC) ir bendros kraujavimo kontrolės.",
+    "Tarptautinis sutarimas: transfuzijų reikia mažinti, nes jų daugėjimas didina mirštamumą.",
+    "ROTEM ir tromboelastografija naudingos, bet interpretacija sudėtinga (FIBTEM, EXTEM, INTEM, APTEM ir jų deriniai). Londono politraumos centro duomenimis, mažiau nei 30 % gydytojų geba jas efektyviai naudoti.",
+    "<strong>Sonoreometrija</strong> su dirbtinio intelekto algoritmu supaprastina sprendimą: vietoj grafikų — skalės su žalia (norma) ir geltona (patologija) zonomis.",
+    "CT ir CS geltoni — reikia PCC arba plazmos.",
+    "PCS geltonas — reikia trombocitų.",
+    "FCS geltonas — reikia fibrinogeno.",
+    "CSL geltonas — hiperfibrinolizė, reikia traneksamo rūgšties.",
+    "Antra kasetė skirta kardiochirurgijai, kepenų transplantacijai ir ECMO su intensyvia heparinizacija. CTR santykis daugiau 1,4 rodo, kad pirmiausia reikia protamino.",
+    "Tas pats metodas parodo ir hiperkoaguliaciją priešoperaciniame skriningo etape."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Pirmosios šešios valandos po traumos lemia prognozę: pakitę PT ir aPTT yra blogos išeities signalas.",
+  "Vėlyvojoje fazėje vyrauja hiperkoaguliacija ir trombozės — sekti fibrino monomerus ir D-dimerus.",
+  "DIK diagnozė: vienas trombozės žymuo + vienas suvartojimo žymuo.",
+  "Masyvaus kraujavimo metu laboratorija nebepadeda — reikia viskoelastinių metodų.",
+  "Transfuzijų mažinimas yra tikslas, nes jų daugėjimas didina mirštamumą."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Kritinis laikotarpis",
+    "pirmosios 6 val. po traumos"
+   ],
+   [
+    "Mirštamumo padidėjimas esant pakitusiems PT/aPTT",
+    "iki 300 %"
+   ],
+   [
+    "Mažos rizikos pacientų dalis",
+    "apie 80 %"
+   ],
+   [
+    "D-dimerai, trombozės rizika",
+    "2000 ng/ml"
+   ],
+   [
+    "DIK diagnozė",
+    "1 trombozės + 1 suvartojimo žymuo („2 iš 5“)"
+   ],
+   [
+    "ROTEM efektyviai naudoja",
+    "&lt; 30 % gydytojų"
+   ],
+   [
+    "CTR (ECMO kasetė)",
+    "&gt; 1,4 — pirmiausia protaminas"
+   ]
+  ]
+ },
+ "reviewed": false
+}

@@ -1,0 +1,173 @@
+{
+ "summary": [
+  "Trombinio tipo krešumo sistemos pažaida sergant COVID-19 (pranešimas skaitytas 2024 m., kai infekcija vėl plito): kokie laboratoriniai įrankiai padeda nustatyti riziką, sekti gydymą ir prognozuoti eigą. Pateikiamos konkrečios D-dimerų ribos, pagal kurias parenkamas antikoaguliacijos intensyvumas."
+ ],
+ "sections": [
+  {
+   "title": "Hemostazės kontrolės įrankiai",
+   "start": 194,
+   "end": 405,
+   "part": null,
+   "bullets": [
+    "Koaguliacijos pusė: aPTT (aštuoni faktoriai), Owren protrombino laikas (kepenų rezervas, varfarino kontrolė, tiksliausias INR) ir fibrinogenas.",
+    "Fibrinolizės pusė: tirpūs fibrino monomerai (ankstyvasis žymuo) ir aukšto specifiškumo D-dimerai (sunkumas, progresija, regresija).",
+    "Trombofiliškumas: antitrombinas III, proteinai C ir S; jų stygius sunkina trombozės eigą.",
+    "Net esant normaliems krešėjimo tyrimams, trombozė ar kraujavimas galimi dėl trombocitų funkcijos ar kraujagyslių būklės."
+   ]
+  },
+  {
+   "title": "„Du viename“",
+   "start": 526,
+   "end": 712,
+   "part": null,
+   "bullets": [
+    "COVID-19 vienu metu pažeidžia imuninę ir krešėjimo sistemas. Klinika ir išeitis priklauso nuo to, kuri pažaida vyrauja.",
+    "Jei vyrauja virusinė, pakanka antivirusinio gydymo. Jei aktyvuota trombogenezė, prisideda parenchiminių organų disfunkcija.",
+    "Plaučiuose — dviguba problema: kapiliarus užkemša trombogenezė, o alveolių membranas padengia fibrino sankaupos; sutrinka deguonies difuzija iki dirbtinės plaučių ventiliacijos poreikio."
+   ]
+  },
+  {
+   "title": "Kiek dažnos trombozės",
+   "start": 712,
+   "end": 784,
+   "part": null,
+   "bullets": [
+    "Wuhano tyrimas (2020): trombozės nustatytos kas ketvirtam pacientui.",
+    "Vokietijos autopsijų tyrimas: plaučių arterijos tromboembolija apie 20 %, taip pat giliųjų venų trombozės ir arterinės pažaidos; bendrai venų tromboembolija nustatyta apie 56 % mirusiųjų.",
+    "Iki 70 % plaučių embolijų ir giliųjų venų trombozių yra besimptomės.",
+    "Reanimacijos reikia iki 10 % pacientų."
+   ]
+  },
+  {
+   "title": "Mechanizmas ir laboratoriniai pokyčiai",
+   "start": 924,
+   "end": 1186,
+   "part": null,
+   "bullets": [
+    "Pradžioje hiperkoaguliacija: daugėja fibrinogeno, VIII ir von Willebrando faktoriaus, P-selektino; trombocitai hiperagreguoja.",
+    "Vėliau didėjant D-dimerams pradeda mažėti fibrinogenas ir von Willebrando faktorius — tai suvartojimo požymis.",
+    "Mažėja antitrombinas, proteinai C ir S — išsivysto trombofilinė būklė.",
+    "Tromboelastometrija rodo hiperkoaguliaciją: FIBTEM MCF apie 22 mm, kai norma iki 14.",
+    "Sonoreometrija (su dirbtinio intelekto algoritmais) iš karto parodo, kurie parametrai sutrikę: fibrinogenas, trombocitai, krešulio stiprumas, krešėjimo laikas, fibrinolizės aktyvumas."
+   ]
+  },
+  {
+   "title": "ISTH stadijos",
+   "start": 1186,
+   "end": 1342,
+   "part": null,
+   "bullets": [
+    "<strong>I stadija:</strong> D-dimerai padidėję, suvartojimo nėra, PT ir aPTT normalūs, trombocitai ir fibrinogenas šiek tiek padidėję; kompiuterinė tomografija gali būti normali. Indikuotina tromboprofilaktika mažos molekulinės masės heparinu.",
+    "<strong>II stadija:</strong> D-dimerai padidėję iki 6 kartų, trombocitai mažėja, prasideda suvartojimas; tomografijoje matyti trombiniai defektai ir embolizacija. Heparinizacija eskaluojama.",
+    "<strong>III stadija:</strong> D-dimerai 10–15 tūkst., išreikštas suvartojimas, trombocitopenija, krenta PT, aPTT, fibrinogenas — DIK tipo būklė su organų pažaida. Taikoma antikoaguliacija, fibrinolitikai, audinių plazminogeno aktyvatorius; heparinas lieka pagrindinis, nes veikia ir prieš viruso spyglio baltymą."
+   ]
+  },
+  {
+   "title": "Heparino kontrolė",
+   "start": 1362,
+   "end": 1476,
+   "part": null,
+   "bullets": [
+    "aPTT neinformatyvus dėl faktorių disbalanso — naudojamas tik anti-Xa.",
+    "Terapinis intervalas 0,3–0,7 TV/ml (0,5–0,6 rodo veiksmingą blokavimą).",
+    "Profilaktinis lygis — mažiau 0,3–0,5; eskalavus į terapiją negalima nusiraminti, jei gaunama 0,2 vietoj 0,6.",
+    "Net pakankamas anti-Xa dar nereiškia trombozės regresijos — tai patvirtina tik D-dimerų ir fibrino monomerų mažėjimas."
+   ]
+  },
+  {
+   "title": "Penki klausimai valdant COVID-19 trombozes",
+   "start": 1447,
+   "end": 1667,
+   "part": null,
+   "bullets": [
+    "<strong>Ar yra trombozė?</strong> Aukšto specifiškumo D-dimerai mažiau 0,5 mg/l — nėra; daugiau — kompiuterinė tomografija su angiografija.",
+    "<strong>Kokio tipo?</strong> Venų tromboemboliją atspindi D-dimerai ir instrumentinė diagnostika. Įtariant arterinę trombozę — kardiologiniai žymenys, fibrino monomerai, ST2 (širdies nepakankamumo sunkumo ir mirties rizikos žymuo; kardiotoksiškumo atveju riba apie 35 µg/l).",
+    "<strong>Kokį gydymą skirti?</strong> Pagal D-dimerus:",
+    "1–2 mg/l (1000–2000 ng/ml) — tromboprofilaktika;",
+    "iki 3 mg/l — neeskaluota antitrombozinė terapija;",
+    "daugiau 3 mg/l — eskaluota terapija, prireikus trombolitikai ir fibrinolitikai.",
+    "<strong>Ar gydymas padeda?</strong> D-dimerai mažėja — tikslas; didėja — terapinė nesėkmė; banguoja — aktyvi trombogenezė, reikia šiek tiek suaktyvinti gydymą. Pokytis 20–30 % jau reikalauja spręsti dėl korekcijos. Fibrino monomerai padeda apsispręsti, nes jie reaguoja greičiausiai.",
+    "<strong>Kada nutraukti?</strong> Paprastai kai D-dimerai mažiau 0,5 mg/l, bet vien to nepakanka: antikoaguliantų fonas mažina rodmenį, o nutraukus jis gali vėl pakilti. Reikia stabilios būklės ir kompleksinio vertinimo."
+   ]
+  },
+  {
+   "title": "Kiti svarbūs dalykai",
+   "start": 1614,
+   "end": 1745,
+   "part": null,
+   "bullets": [
+    "TGAK (rivaroksabanas, dabigatranas) ir varfarinas skiriami tik visiškai stabilizavus būklę ir baigus heparinizacijos programą.",
+    "Hemodializės kriterijus — D-dimerai <strong>2,6 mg/l</strong> (2600 ng/ml) ir daugiau.",
+    "Retrombozės rizika siekia iki 30 % pacientų, todėl svarbi ir prognozė po ligos."
+   ]
+  }
+ ],
+ "takeaways": [
+  "D-dimerų lygis nustato ne tik stadiją, bet ir antikoaguliacijos intensyvumą (1–2, iki 3, daugiau 3 mg/l).",
+  "Heparino poveikį tikrinti anti-Xa; pakankamas anti-Xa dar negarantuoja regresijos.",
+  "D-dimerų pokytis 20–30 % yra signalas peržiūrėti gydymą.",
+  "Nenutraukti gydymo vien pagal D-dimerus žemiau 0,5 mg/l.",
+  "TGAK ir varfarinas — tik po stabilizacijos."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerai, trombozės nėra",
+    "&lt; 0,5 mg/l"
+   ],
+   [
+    "D-dimerai, profilaktika",
+    "1–2 mg/l"
+   ],
+   [
+    "D-dimerai, neeskaluota terapija",
+    "iki 3 mg/l"
+   ],
+   [
+    "D-dimerai, eskaluota terapija",
+    "&gt; 3 mg/l"
+   ],
+   [
+    "D-dimerai, III stadija",
+    "10–15 tūkst. ng/ml"
+   ],
+   [
+    "D-dimerai, hemodializė",
+    "≥ 2,6 mg/l"
+   ],
+   [
+    "D-dimerų pokytis korekcijai",
+    "20–30 %"
+   ],
+   [
+    "Anti-Xa, terapija",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "Anti-Xa, profilaktika",
+    "&lt; 0,3–0,5"
+   ],
+   [
+    "FIBTEM MCF",
+    "norma iki 14 mm; COVID-19 apie 22 mm"
+   ],
+   [
+    "D-dimerų specifiškumas",
+    "apie 75 % (ne 40–50 %)"
+   ],
+   [
+    "Reanimacijos poreikis",
+    "iki 10 % pacientų"
+   ],
+   [
+    "Retrombozė",
+    "iki 30 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

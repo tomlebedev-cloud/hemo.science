@@ -12,6 +12,7 @@ import openpyxl
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_XLSX = ROOT.parent / 'DS' / 'PRESENTATIONS' / 'Pranešimų sąrašas 2026-09-17.xlsx'
 OUT = ROOT / 'data' / 'pranesimai.json'
+KONSPEKTAI = ROOT / 'data' / 'konspektai'
 
 LANG_CODE = {'Lietuvių': 'lt', 'Anglų': 'en', 'Rusų': 'ru', 'Ukrainiečių': 'uk'}
 CONFERENCES = {'Konferencijos ir seminarai'}
@@ -54,6 +55,7 @@ def main():
             'duration': seconds(row[col['Trukmė']]),
             'youtube': yt_id(row[col['YouTube nuoroda']]),
             'conference': category in CONFERENCES and 'Trombozės dienos' in title,
+            'konspektas': (KONSPEKTAI / f"{row[col['Nr.']]}.json").exists(),
         })
 
     items.sort(key=lambda x: (x['year'] or 0, x['date'] or ''), reverse=True)

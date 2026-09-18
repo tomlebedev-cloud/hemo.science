@@ -1,0 +1,186 @@
+{
+ "summary": [
+  "Trys dalys: bendri hemostazės kontrolės principai, ankstyva venų tromboembolijos diagnostika ir biožymenys, kuriais ji remiasi. Pabaigoje — konkretus 74 metų paciento atvejis."
+ ],
+ "sections": [
+  {
+   "title": "Svarstyklių principas",
+   "start": 113,
+   "end": 214,
+   "part": null,
+   "bullets": [
+    "Kairė pusė — koaguliacija: 13 faktorių sąveika, kurios produktas yra fibrinas.",
+    "Dešinė pusė — fibrinolizė: pertekliaus tirpdymas, kad trombo masė nepajudėtų į kitus kraujagyslių segmentus.",
+    "Kairės pusės silpnumas reiškia kraujavimą, dešinės pusės sutrikimas — „cemento“ (D-dimerų ir fibrino monomerų) kaupimąsi ir trombozę."
+   ]
+  },
+  {
+   "title": "Keturi komponentai",
+   "start": 236,
+   "end": 363,
+   "part": null,
+   "bullets": [
+    "Kraujagyslė: prisieninė trombogenezė arba, priešingai, praplatėję tarpendoteliniai plyšiai ir kraujavimai bei hematomos.",
+    "Trombocitai: astenija reiškia užsitęsusius kraujavimus (perioperaciškai gali trukti valandas), hiperagregacija — arterines trombozes.",
+    "Natūralūs inhibitoriai (antitrombinas III, proteinai C ir S) — „trys drambliai“, ant kurių laikosi balansas.",
+    "Krešėjimo baltymai, vertinami trimis tyrimais: aPTT (aštuoni faktoriai), protrombino laikas (papildomai VII faktorius) ir fibrinogeno koncentracija."
+   ]
+  },
+  {
+   "title": "Kodėl reikia biožymenų",
+   "start": 745,
+   "end": 808,
+   "part": null,
+   "bullets": [
+    "Klinika atsiranda, kai obstrukcija viršija 70–80 %, o trombogenezė vyksta jau esant 20–30 %.",
+    "Todėl tiek daug besimptomių plaučių arterijos trombozės formų.",
+    "Kuo anksčiau atpažįstama trombogenezė, tuo veiksmingesnis antikoaguliantų poveikis."
+   ]
+  },
+  {
+   "title": "Du žymenys ir jų vaidmenys",
+   "start": 808,
+   "end": 898,
+   "part": null,
+   "bullets": [
+    "<strong>Tirpūs fibrino monomerai</strong> — prieštrombozinis, ankstyviausias žymuo. Rodo prasidedančią retrombozę ar restenozę dar nesusiformavus naujam trombui.",
+    "<strong>Aukšto specifiškumo D-dimerai</strong> — rodo proceso tvarumą ir patomorfologinį sunkumą, taip pat galutinį gydymo efektą."
+   ]
+  },
+  {
+   "title": "Priešoperacinis trombozės rizikos vertinimas",
+   "start": 916,
+   "end": 1017,
+   "part": null,
+   "bullets": [
+    "Kai anamnezė be problemų, pakanka dviejų žymenų: D-dimerų (daugiau 2000 — priešoperacinė trombozės rizika) ir fibrino monomerų (daugiau 30 µg/ml — didelė intra- ar pooperacinės trombozės tikimybė).",
+    "Kai anamnezė su problemomis (paciento arba pirmos eilės giminaičių venų tromboembolijos, ypač idiopatinės ar pasikartojančios), papildomai vertinamas trombofiliškumas: antitrombinas III, proteinai C ir S. Kuo jis didesnis, tuo rimčiau planuojama eskaluota tromboprofilaktika."
+   ]
+  },
+  {
+   "title": "Kaip naudoti D-dimerus",
+   "start": 1017,
+   "end": 1364,
+   "part": null,
+   "bullets": [
+    "D-dimerai <strong>nenaudojami diagnozei patvirtinti</strong> — jų būna daugelyje būklių, įskaitant nėštumą.",
+    "Principas paprastas: nėra cemento — nebus ir sienos; nėra D-dimerų — nėra trombozės.",
+    "Skiriami tik esant mažai ar vidutinei klinikinei tikimybei (GVT iki 2 balų, PATE iki 4 balų), kai yra 24 valandos diagnostikai.",
+    "Esant didelei tikimybei tyrimas nedaromas: skiriama antikoaguliacija ir einama į instrumentinę diagnostiką.",
+    "Praktinis patarimas: priėmimo skyriuje turėti tuščias Wells skalės formas.",
+    "Įprastas D-dimerų specifiškumas apie 50 %; turint daugiau kaip 75 % specifiškumo testą, nereikalingų skenavimų būna gerokai mažiau."
+   ]
+  },
+  {
+   "title": "Gydymo sekimas: pavyzdys",
+   "start": 1364,
+   "end": 1401,
+   "part": null,
+   "bullets": [
+    "Po savaitės skausmai atslūgo, dar po savaitės atsinaujino. Fibrino monomerai pakilo iki 35 — vadinasi, vyksta retrombozė.",
+    "D-dimerai: buvo 200, vėliau 1200, paskui 1900 — reikia tikrinti rivaroksabano koncentraciją arba pereiti prie heparinizacijos."
+   ]
+  },
+  {
+   "title": "Nėštumas",
+   "start": 1447,
+   "end": 1581,
+   "part": null,
+   "bullets": [
+    "D-dimerai kaupiasi nuo pirmojo trimestro, nes plyšta smulkios placentos kraujagyslės, todėl atmetimo principas negalioja.",
+    "Fibrino monomerai nėštumo metu stabilūs, apie 4 mg/l; esant trombozei pakyla daugiau kaip 10 kartų.",
+    "Riba tromboprofilaktikai — apie 25 (vienetai transkripcijoje svyruoja).",
+    "Tai svarbu, nes profilaktika nėščiajai pati savaime rizikinga dėl mikrokraujavimų ir vaisiaus netekimo grėsmės."
+   ]
+  },
+  {
+   "title": "DIK ir kitos sritys",
+   "start": 1581,
+   "end": 1675,
+   "part": null,
+   "bullets": [
+    "Pagal ISTH skalę fibrino monomerai jautriau atspindi fibrinolizės „degimą“ nei D-dimerai, ypač esant vaisiaus vandenų embolijai ir kitoms sudėtingoms būklėms.",
+    "Onkologijoje D-dimerai yra piktybiškumo ir išgyvenamumo kriterijus.",
+    "Miokardo infarkto atveju fibrino monomerai kartu su miokardo pažaidos žymenimis padidina arterinės trombozės diagnozės tikslumą."
+   ]
+  },
+  {
+   "title": "COVID-19 kontekstas",
+   "start": 1703,
+   "end": 1751,
+   "part": null,
+   "bullets": [
+    "Aukšto specifiškumo D-dimerų riba <strong>2600</strong> padėjo planuoti hemodializę esant parenchiminėms trombozėms."
+   ]
+  },
+  {
+   "title": "Atvejis",
+   "start": 1751,
+   "end": 1862,
+   "part": null,
+   "bullets": [
+    "74 metų pacientas: dusulys, negalėjo judėti, ilgametis rūkalius, metęs rūkyti prieš 3 mėnesius. Saturacija 89 %.",
+    "Krūtinės ląstos rentgenograma davė tik bendrą vaizdą, o D-dimerai viršijo 500, esant vidutinei plaučių embolijos tikimybei.",
+    "Kompiuterinė tomografija su angiografija parodė seną, organizuotą plaučių arterijos tromboemboliją, kuri tik tada pradėjo reikštis kliniškai.",
+    "Po 7 dienų aktyvios heparinizacijos pasiekta trombozės regresija."
+   ]
+  }
+ ],
+ "takeaways": [
+  "D-dimerai atmeta įtarimą, fibrino monomerai rodo procesą anksti — tai skirtingi įrankiai.",
+  "Esant didelei klinikinei tikimybei D-dimerų nedaryti.",
+  "Prieš operaciją vertinti D-dimerus (riba 2000) ir fibrino monomerus (riba 30 µg/ml).",
+  "Nėščiosioms remtis fibrino monomerais.",
+  "Gydymo nesėkmę atpažinti pagal žymenų dinamiką, o ne pagal savijautą.",
+  "Naudoti tik aukšto specifiškumo D-dimerų tyrimą (daugiau 70–75 %)."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerai, atmetimas",
+    "&lt; 500 ng/ml"
+   ],
+   [
+    "D-dimerai, priešoperacinė rizika",
+    "&gt; 2000 ng/ml"
+   ],
+   [
+    "D-dimerai, hemodializės riba (COVID-19)",
+    "2600 ng/ml"
+   ],
+   [
+    "D-dimerų specifiškumas",
+    "įprastai ~50 %, reikia &gt; 70–75 %"
+   ],
+   [
+    "Fibrino monomerai, norma",
+    "apie 4–6 µg/ml"
+   ],
+   [
+    "Fibrino monomerai, priešoperacinė rizika",
+    "&gt; 30 µg/ml"
+   ],
+   [
+    "Fibrino monomerai nėštumo metu",
+    "riba apie 25"
+   ],
+   [
+    "Wells skalė",
+    "GVT 2 balai, PATE 4 balai"
+   ],
+   [
+    "Klinikinė manifestacija",
+    "obstrukcija 70–80 %"
+   ],
+   [
+    "VTE recidyvas",
+    "iki 30 % per 10 metų"
+   ]
+  ]
+ },
+ "reviewed": false
+}

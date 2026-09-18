@@ -1,0 +1,144 @@
+{
+ "summary": [
+  "Kaip COVID-19 pažeidžia krešėjimo sistemą ir kaip iš laboratorinių rodmenų dinamikos galima iš anksto numatyti ligos eigą. Pranešėjas praeina per mechanizmą (imuninis atsakas ir komplemento sistema), per ISTH pasiūlytas tris koagulopatijos stadijas ir per tai, kokiais tyrimais kontroliuoti antikoaguliantų terapiją tokiems pacientams."
+ ],
+ "sections": [
+  {
+   "title": "Mechanizmas: komplemento sistema ir krešėjimas",
+   "start": 102,
+   "end": 510,
+   "part": null,
+   "bullets": [
+    "COVID-19 sukelia imuninį atsaką, citokinų audrą ir krešėjimo sistemos hiperaktyvaciją kartu su endotelio aktyvacija.",
+    "Krešėjimo ir komplemento sistemos sudarytos iš tų pačių serino proteazių, todėl turi bendrą platformą.",
+    "Komplemento sistema gamina membranos atakos kompleksą (MAK), kuris aktyvina krešėjimo kaskadą, sukelia neproporcingą trombocitų aktyvaciją, slopina pirminę fibrinolizę ir skatina VIII bei von Willebrando faktoriaus gamybą.",
+    "Rezultatas: perteklinis fibrino kiekis, makro- ir mikrotrombozės, pirmiausia plaučiuose, vėliau — daugybinio organų pažeidimo sindromas.",
+    "Svarbu skirti pirminę ir antrinę fibrinolizę: MAK slopina pirminę (todėl kaupiasi fibrinas), o antrinė vyksta intensyviai (todėl smarkiai kyla D-dimerai)."
+   ]
+  },
+  {
+   "title": "Kiek dažnos trombozės sergant COVID-19",
+   "start": 508,
+   "end": 590,
+   "part": null,
+   "bullets": [
+    "Iki 30–40 % sergančiųjų turi giliųjų venų trombozę ar kitas venų tromboembolijos formas.",
+    "Vystosi ir arterinės trombozės, nes trombocitų aktyvacija ryški (trombocitai sudaro apie 70 % arterinio trombo masės).",
+    "Miokardo pažeidimai nustatomi iki 20 % ir daugiau pacientų dešimties tūkstančių pacientų kohortose."
+   ]
+  },
+  {
+   "title": "Genetinis ir rasinis fonas",
+   "start": 591,
+   "end": 825,
+   "part": null,
+   "bullets": [
+    "JAV duomenimis, afroamerikiečiams tenka apie 50 % susirgimų ir daugiau nei 70 % blogų išeičių.",
+    "Priežastis — protrombozinis fenotipas dar iki COVID-19: dažnesnės V faktoriaus ir protrombino mutacijos, didesnės VIII bei von Willebrando faktoriaus ir bazinės D-dimerų koncentracijos, trombomodulino ir proteino C apykaitos kitimai, iki trijų kartų dažnesnė sisteminė raudonoji vilkligė (daugiau vilkligės antikoaguliantų ir antifosfolipidinio sindromo).",
+    "Atsparumas P2Y12 blokatoriams siekia 30–40 % ir afroamerikiečių populiacijoje yra dažnesnis.",
+    "Lėtinės parenchiminių organų ligos, pavyzdžiui, lėtinė inkstų liga, pačios savaime kuria trombofilinį foną; prisidėjus COVID-19 prognozė labai blogėja."
+   ]
+  },
+  {
+   "title": "Prognozė iš D-dimerų dinamikos",
+   "start": 910,
+   "end": 1050,
+   "part": null,
+   "bullets": [
+    "Įprastinė profilaktinė antikoaguliacija dažnai buvo neefektyvi; efektas pasiektas tik skiriant sustiprintą profilaktinę antikoaguliaciją, kuri ribojasi su terapine ir reikalauja laboratorinės kontrolės.",
+    "Nepergyvenusių ar kritinės būklės pacientų D-dimerų koncentracijos buvo 6–7 kartus didesnės nei lengviau sirgusių.",
+    "Vėlyvoje fazėje prasideda suvartojimo sindromas: krenta krešėjimo baltymų koncentracijos, ilgėja protrombino laikas ir aPTT, mažėja trombocitų — ne dėl sutrikusios gamybos, o dėl jų įsitraukimo į trombogenezę."
+   ]
+  },
+  {
+   "title": "ISTH trys COVID-19 koagulopatijos stadijos",
+   "start": 1048,
+   "end": 1275,
+   "part": null,
+   "bullets": [
+    "<strong>I stadija:</strong> D-dimerai padidėję 2–3 kartus, kiti rodmenys nepakitę, instrumentiniai tyrimai neigiami. Įprasta arba padidinta tromboprofilaktika mažos molekulinės masės heparinu.",
+    "<strong>II stadija:</strong> D-dimerai padidėję kelis kartus (3000–6000 ribose), mažėja trombocitai, matomi plaučių trombiniai defektai ir giliųjų venų trombozė. Tromboprofilaktika nepakankama, reikia didinti antikoaguliacijos intensyvumą ir kontroliuoti jį laboratoriškai.",
+    "<strong>III stadija:</strong> kritinė, reikia ECMO. Labai aukšti D-dimerai, išreikšta trombocitopenija, sumažėjęs krešėjimo baltymų aktyvumas. Be antikoaguliacijos svarstoma fibrinolizinė terapija (audinių plazminogeno aktyvatorius).",
+    "Heparinas tinka ne tik dėl gero valdomumo: jis prisideda prie viruso neutralizacijos ir turi priešuždegiminį poveikį."
+   ]
+  },
+  {
+   "title": "Kodėl aPTT netinka heparino kontrolei sergant COVID-19",
+   "start": 1482,
+   "end": 1550,
+   "part": null,
+   "bullets": [
+    "COVID-19 metu VIII faktoriaus aktyvumas padidėja iki 300 %, ryškiai kyla fibrinogenas ir V faktorius.",
+    "Dėl to aPTT trumpėja ir atrodo, kad heparinas neveikia, nors iš tikrųjų veikia.",
+    "Tikslus būdas — <strong>anti-Xa testas</strong>. Terapinis intervalas 0,3–0,7 TV/ml, o esant kraujavimo rizikai (pvz., A trombofilija) rekomenduojama neviršyti 0,5 TV/ml."
+   ]
+  },
+  {
+   "title": "Tiesioginiai geriamieji antikoaguliantai sergant COVID-19",
+   "start": 1577,
+   "end": 1740,
+   "part": null,
+   "bullets": [
+    "Antivirusiniai vaistai sąveikauja su Xa ir tiesioginio trombino inhibitoriais, todėl jų koncentracija kraujyje gali pašokti 6–7 kartus, palyginti su terapiniu režimu.",
+    "Todėl pacientus, atvykusius vartojančius, pavyzdžiui, rivaroksabaną, saugiau perkelti į heparinizaciją, kurią galima kontroliuoti.",
+    "Terapinė koncentracija apie 100–140 ng/ml, chirurgijai — mažiau 50 ng/ml. Xa inhibitoriams — anti-Xa testas, dabigatranui — ekarino testas."
+   ]
+  },
+  {
+   "title": "Kitos priemonės",
+   "start": 1766,
+   "end": 1867,
+   "part": null,
+   "bullets": [
+    "Antitrombino III aktyvumą rekomenduojama laikyti apie 70 %; esant mažesniam svarstomas antitrombino III koncentratas.",
+    "Esant mišrioms arterinėms ir venų trombozėms skiriami aspirinas ir klopidogrelis, tačiau atsparumas siekia 30–40 %, todėl reikalinga trombocitų liekamojo reaktyvumo kontrolė.",
+    "Tromboelastometrija tinka ne tik masyviai kraujuojantiems: kuo aukštesnis MCF ir trumpesnis krešulio formavimosi laikas, tuo stipresnė hiperkoaguliacija ir tuo intensyvesnės antikoaguliacijos reikia.",
+    "ECMO pati savaime aktyvina krešėjimą (VIII faktorius, fibrinogenas), todėl anti-Xa kontrolė ir tromboelastometrija padeda išvengti tiek perteklinės, tiek nepakankamos antikoaguliacijos."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Sergant COVID-19 heparino poveikio nevertinti pagal aPTT — naudoti anti-Xa.",
+  "D-dimerų dinamika yra prognozės įrankis: 2–3 kartų padidėjimas ir 6–7 kartų padidėjimas reiškia skirtingas stadijas ir skirtingą gydymo intensyvumą.",
+  "Įprasta tromboprofilaktikos dozė daliai pacientų nepakanka; sprendimą dėl stiprinimo grįsti laboratoriniais rodmenimis.",
+  "Pacientą, atvykusį vartojantį tiesioginį geriamąjį antikoaguliantą, vertinti atsargiai dėl sąveikos su antivirusiniais vaistais.",
+  "Trombocitų skaičiaus mažėjimas kartu su ilgėjančiu protrombino laiku reiškia perėjimą į suvartojimo fazę."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Anti-Xa, heparino terapija",
+    "0,3–0,7 TV/ml; esant kraujavimo rizikai ne daugiau 0,5"
+   ],
+   [
+    "D-dimerai, I stadija",
+    "padidėję 2–3 kartus"
+   ],
+   [
+    "D-dimerai, II stadija",
+    "apie 3000–6000"
+   ],
+   [
+    "TGAK terapinė koncentracija",
+    "~100–140 ng/ml"
+   ],
+   [
+    "TGAK prieš chirurgiją",
+    "&lt; 50 ng/ml"
+   ],
+   [
+    "Antitrombinas III",
+    "siekti ~70 % aktyvumo"
+   ],
+   [
+    "VIII faktorius sergant COVID-19",
+    "padidėja iki 300 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

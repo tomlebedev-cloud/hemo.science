@@ -1,0 +1,188 @@
+{
+ "summary": [
+  "Dvi kardiologinės problemos: kaip ST2 žymuo padeda valdyti lėtinį širdies nepakankamumą ir laiku spręsti dėl hospitalizacijos, ir kaip patikrinti, ar antiagregantai iš tikrųjų veikia."
+ ],
+ "sections": [
+  {
+   "title": "Mastas ir prognozė",
+   "start": 196,
+   "end": 289,
+   "part": "Širdies nepakankamumas ir ST2",
+   "bullets": [
+    "Lietuvoje beveik 150 tūkst. žmonių serga širdies nepakankamumu.",
+    "Prognozė prastesnė nei onkologijoje: per penkerius metus nuo diagnozės miršta apie 50 %, ilgiau nei 10 metų gyvena tik apie 25 %.",
+    "Sergančiųjų skaičius auga — prognozuojama, kad iki 2030 m. padaugės ketvirtadaliu."
+   ]
+  },
+  {
+   "title": "Hospitalizacijos problema",
+   "start": 289,
+   "end": 438,
+   "part": "Širdies nepakankamumas ir ST2",
+   "bullets": [
+    "LSMU duomenimis, pavyzdžiui, 2017 m. apie 16 tūkst. pacientų buvo hospitalizuoti ir maždaug tiek pat — ne, nes nebuvo aišku, ar to reikia.",
+    "Ligonių kasų duomenimis, apie 68 % hospitalizacijų buvo pagrįstos, o apie 30 % reikalingų hospitalizacijų neįvyko.",
+    "Liga eina bangomis: pagerėjimas sukuria iliuziją, kad būklė stabili, pacientas išrašomas, o vėliau hospitalizuojamas per vėlai."
+   ]
+  },
+  {
+   "title": "Kodėl reikia ST2",
+   "start": 663,
+   "end": 793,
+   "part": "Širdies nepakankamumas ir ST2",
+   "bullets": [
+    "Troponinai ir natriuretiniai peptidai (NT-proBNP) rodo hipoksinę miokardo pažaidą.",
+    "Tačiau fibrozės ir hipertrofijos jie nerodo, o būtent fibrozė lemia sumažėjusią išstūmimo frakciją ir blogą išeitį.",
+    "ST2 blokuoja kardioprotekcinį interleukino-33 poveikį, todėl fibroblastai pakeičia kardiomiocitus, prasideda fibrozinė hipertrofija ir apoptozė.",
+    "ST2 žinomas nuo 1990-ųjų, šiandien jį nurodo šimtai publikacijų ir tarptautinės gairės."
+   ]
+  },
+  {
+   "title": "Diferencinė diagnostika",
+   "start": 559,
+   "end": 624,
+   "part": "Širdies nepakankamumas ir ST2",
+   "bullets": [
+    "Širdies nepakankamumo simptomai nespecifiški; būtina atskirti nuo plaučių parenchimos trombozių ir plaučių arterijos tromboembolijos.",
+    "Čia padeda aukšto specifiškumo D-dimerai ir tirpūs fibrino monomerai: jų aukšta koncentracija pagrindžia angiografiją."
+   ]
+  },
+  {
+   "title": "ST2 prognostinė vertė",
+   "start": 819,
+   "end": 947,
+   "part": "Širdies nepakankamumas ir ST2",
+   "bullets": [
+    "Kuo didesnė koncentracija, tuo sunkesni simptomai ir eiga.",
+    "Kartu padidėjus NT-proBNP, vienerių metų mirštamumas gali siekti iki 40 %.",
+    "ST2 prognozuoja ir bendrą, ir kardiovaskulinį mirštamumą, taip pat pakartotinių hospitalizacijų poreikį."
+   ]
+  },
+  {
+   "title": "ST2 privalumas prieš NT-proBNP",
+   "start": 947,
+   "end": 1015,
+   "part": "Širdies nepakankamumas ir ST2",
+   "bullets": [
+    "Rezultatui įtakos neturi inkstų funkcija, gretutinės (pvz., hematologinės) ligos, lytis, amžius ir kūno masės indeksas — NT-proBNP to pasakyti negalima."
+   ]
+  },
+  {
+   "title": "Ribos",
+   "start": 1015,
+   "end": 1058,
+   "part": "Širdies nepakankamumas ir ST2",
+   "bullets": [
+    "Mažiau <strong>18</strong> — fibrozinės pažaidos nėra.",
+    "Daugiau <strong>35</strong> — patologinė klinikinė riba, reikalaujanti veiksmų: koreguoti gydymą, planuoti hospitalizaciją, vertinti prognozę.",
+    "(Transkripcijoje vienetai nurodomi kaip µg/l arba ng/ml.)"
+   ]
+  },
+  {
+   "title": "Kaip naudoti praktikoje",
+   "start": 1058,
+   "end": 1251,
+   "part": "Širdies nepakankamumas ir ST2",
+   "bullets": [
+    "Anksti išskirti didelės rizikos pacientus, planuoti pakartotines hospitalizacijas, gydyti pagal fibrozės laipsnį, nustatyti galimą širdies nepakankamumą dar besimptomėje populiacijoje.",
+    "Rekomenduojama derinti su didelio jautrumo troponinais ir NT-proBNP.",
+    "Lietuvos kardiologai parengė ST2 naudojimo gaires: vertinama ir atvykus, ir prieš išrašant.",
+    "Pavyzdys: du pacientai atvykę turi panašią būklę ir ST2 gerokai virš 35; išrašant vienam ST2 nukrito žemiau 35, kitam liko aukštas — jų perspektyva skiriasi. Informacija per e. sveikatos sistemą perduodama šeimos gydytojui ambulatoriniam stebėjimui."
+   ]
+  },
+  {
+   "title": "Problema",
+   "start": 1281,
+   "end": 1481,
+   "part": "Antiagregantų terapijos kontrolė",
+   "bullets": [
+    "Rizikos du: per didelė dozė (kraujavimai) ir per maža arba neveiksminga (retrombozė). Neveiksmingumą gali lemti ir vaistų sąveikos.",
+    "Aspirino, klopidogrelio, taip pat GP IIb/IIIa preparatų atsparumas — daugiau kaip 30 %: maždaug kas trečiam pacientui vaistas veikia kaip placebas.",
+    "Sąveikas patikrinti drugs.com; iš anksto turėti planą B staigiam nutraukimui ar grįžimui."
+   ]
+  },
+  {
+   "title": "Aspirinas",
+   "start": 1496,
+   "end": 1551,
+   "part": "Antiagregantų terapijos kontrolė",
+   "bullets": [
+    "Didelės dozės veikia beveik visiems, bet kelia kraujavimo riziką; sumažinus iki ~100 mg atsiranda atsparumas.",
+    "Ibuprofenas ir kiti NVNU blokuoja aspirino veikimą — klasikinė sąveika.",
+    "Derinamas su antikoaguliantais esant kardioemboliniams insultams."
+   ]
+  },
+  {
+   "title": "Klopidogrelis ir kiti P2Y12 blokatoriai",
+   "start": 1551,
+   "end": 1655,
+   "part": "Antiagregantų terapijos kontrolė",
+   "bullets": [
+    "Statinai blokuoja klopidogrelio veikimą.",
+    "Tik apie 66 % pacientų normaliai metabolizuoja P2Y12 inhibitorius; prisideda inkstų funkcija ir hematologinė patologija.",
+    "Galimybės: didinti dozę, skirti stipresnį vaistą (tikagreloras veikia apie 90 %, bet kraujavimo rizika didesnė) arba pridėti cilostazolį (triguba terapija).",
+    "Geriau silpnesnis antiagregantas, kuris patikrintai veikia."
+   ]
+  },
+  {
+   "title": "VerifyNow ribos",
+   "start": 1655,
+   "end": 1877,
+   "part": "Antiagregantų terapijos kontrolė",
+   "bullets": [
+    "<strong>Aspirinas (ARU):</strong> daugiau 550 — neveikia; 450–550 — veikia, trombozės rizika minimali; mažiau 450 — per stiprus poveikis, kraujavimo pavojus.",
+    "<strong>Klopidogrelis ir tikagreloras (PRU):</strong> daugiau 230 — atsparumas; terapinis langas apie 85–230, validuotas CE; mažiau 85 — kraujavimo rizika, kuri gali atsirasti nepastebimai (sąveikos, net česnako vartojimas).",
+    "Tas pats testas parodo, kada vaistas nebeveikia ir pacientą galima operuoti: klopidogreliui daugiau 230, aspirinui daugiau 550.",
+    "2024 m. paskelbtas tarptautinis konsensusas dėl antiagregantų terapijos kontrolės; VerifyNow įvardijamas kaip auksinis standartas."
+   ]
+  }
+ ],
+ "takeaways": [
+  "ST2 papildo troponinus ir NT-proBNP: jis vienintelis rodo fibrozę, kuri lemia prognozę.",
+  "ST2 mažiau 18 — fibrozės nėra; daugiau 35 — reikia klinikinio veiksmo.",
+  "Matuoti ST2 ir atvykus, ir prieš išrašant — dinamika padeda nuspręsti dėl stebėjimo ir pakartotinės hospitalizacijos.",
+  "Antiagregantų veiksmingumą tikrinti: aspirinui ARU riba 550, klopidogreliui PRU langas 85–230.",
+  "Pirmiausia rinktis silpnesnį, bet patikrintai veikiantį antiagregantą."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "ST2",
+    "&lt; 18 — fibrozės nėra; &gt; 35 — patologija"
+   ],
+   [
+    "Mirštamumas per 5 m.",
+    "apie 50 %"
+   ],
+   [
+    "Vienerių metų mirštamumas esant aukštam ST2 ir NT-proBNP",
+    "iki 40 %"
+   ],
+   [
+    "Aspirinas (ARU)",
+    "&gt; 550 neveikia; 450–550 optimalu; &lt; 450 kraujavimo rizika"
+   ],
+   [
+    "Klopidogrelis / tikagreloras (PRU)",
+    "85–230 terapinis langas; &gt; 230 atsparumas; &lt; 85 kraujavimo rizika"
+   ],
+   [
+    "Atsparumas antiagregantams",
+    "&gt; 30 %"
+   ],
+   [
+    "Normaliai metabolizuoja P2Y12 inhibitorius",
+    "apie 66 %"
+   ],
+   [
+    "Sergančiųjų Lietuvoje",
+    "apie 150 tūkst."
+   ]
+  ]
+ },
+ "reviewed": false
+}

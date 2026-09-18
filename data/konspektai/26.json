@@ -1,0 +1,123 @@
+{
+ "summary": [
+  "Kaip laboratoriniais biožymenimis anksti diagnozuoti DIK sindromą akušerijoje ir kaip, prasidėjus masyviam kraujavimui, parinkti transfuzijos strategiją naudojant sonoreometriją. Pabaigoje — žinia apie FDA patvirtinimą šiai klinikinei situacijai."
+ ],
+ "sections": [
+  {
+   "title": "Balanso principas ir žymenys",
+   "start": 78,
+   "end": 240,
+   "part": null,
+   "bullets": [
+    "Koaguliacijos sutrikimai reiškia kraujavimo riziką, fibrinolizės sutrikimai — trombozės riziką.",
+    "Koaguliacijos aktyvumo žymenys: aPTT, Owren protrombino laikas (naudojamas Skandinavijoje, Japonijoje, Beniliukso šalyse; gerai rodo kepenų funkciją ir VII faktoriaus aktyvumą) ir fibrinogenas.",
+    "Trombozės žymenys: fibrino monomerai (prieštrombozinis) ir aukšto specifiškumo D-dimerai (potrombozinis).",
+    "Natūralių inhibitorių (antitrombino III, proteinų C ir S) stygius sukelia trombofiliją, kuri gali dramatiškai pabloginti DIK išeitis."
+   ]
+  },
+  {
+   "title": "Dvi DIK šakos",
+   "start": 240,
+   "end": 432,
+   "part": null,
+   "bullets": [
+    "<strong>Hiperfibrinolizinis DIK:</strong> trombozinė aktyvacija tokia stipri, kad sunaudoja faktorių atsargas; prasideda suvartojimo sindromas ir masyvus kraujavimas.",
+    "<strong>Nehiperfibrinolizinis (trombozinis) DIK:</strong> pranešėjo nuomone, dar pavojingesnis, nes vystosi tyliai — užsikemša kapiliarai kepenyse, inkstuose, plaučiuose, ir staiga išsivysto daugybinis organų nepakankamumas. Fibrino monomerai ir D-dimerai auga, bet faktorių suvartojimo nėra.",
+    "Pradžioje hemostazė adaptuojasi. Pradžia visada yra sisteminė intravaskulinė koaguliacija ir trombozė.",
+    "Abiejų formų galutinė išeitis gali būti tokia pati, bet gydymo strategijos skiriasi, todėl būtina žinoti, kuri forma yra."
+   ]
+  },
+  {
+   "title": "Ankstyva diagnostika",
+   "start": 450,
+   "end": 653,
+   "part": null,
+   "bullets": [
+    "Dvi tyrimų grupės: trombozės žymenys (fibrino monomerai, aukšto specifiškumo D-dimerai) ir suvartojimo žymenys (aPTT, fibrinogenas, Owren protrombino laikas, trombocitų skaičius).",
+    "Po vieną teigiamą rezultatą iš kiekvienos grupės reiškia, kad DIK yra biochemiškai — nors masyvaus kraujavimo ar organų nepakankamumo dar nėra.",
+    "ISTH balai: 5 ir daugiau — DIK; mažiau — kartoti po 1–2 dienų.",
+    "D-dimerų tyrimas turi būti aukšto specifiškumo, kad nebūtų klaidingai teigiamų atsakymų.",
+    "Fibrino monomerai turi trumpesnį pusinės eliminacijos laiką nei D-dimerai, todėl greičiau parodo aktyvaciją.",
+    "<strong>Blogas ženklas:</strong> jei fibrino monomerai dinamikoje auga sparčiau nei D-dimerai, trombozinės aktyvacijos „ugnis“ labai stipri ir prognozė prastesnė."
+   ]
+  },
+  {
+   "title": "Kai kraujavimas jau masyvus",
+   "start": 683,
+   "end": 866,
+   "part": null,
+   "bullets": [
+    "Tada reikia suprasti, ar tai DIK, paprastas masyvus kraujavimas, ar heparinizacijos pasekmė.",
+    "Viskoelastometrija tarptautiniu mastu pripažinta kaip privalomas metodas transfuzijų strategijai valdyti: pirmiausia siekiant jas sumažinti, o kartu pasirinkti tinkamą komponentą.",
+    "ROTEM ir TEG veikia, bet reikalauja nuolatinio mokymosi. Londono politraumos tyrimas parodė, kad jas efektyviai naudoti geba mažiau nei 30 % gydytojų, nes kreives reikia lyginti „akimis“ (CT, MCF, EXTEM, APTEM, INTEM, FIBTEM).",
+    "Pranešėjas pats ROTEM moko daugiau kaip 20 metų."
+   ]
+  },
+  {
+   "title": "Sonoreometrija su dirbtiniu intelektu",
+   "start": 866,
+   "end": 1042,
+   "part": null,
+   "bullets": [
+    "Išmokti galima per 30 minučių: vietoj kreivių — skalės su žalia arba geltona zona.",
+    "<strong>CSL</strong> (krešulio stabilumas lizei): žalia — DIK nėra; geltona — DIK, pirmiausia traneksamo rūgštis.",
+    "<strong>CT ir CS</strong> (faktoriai): geltona — faktorių stygius.",
+    "<strong>PCS</strong> (trombocitai): geltona — reikia perpilti trombocitų.",
+    "<strong>FCS</strong> (fibrinogenas): geltona — reikia fibrinogeno.",
+    "Praktinis panaudojimas po operacijos: jei visi rodmenys žali, kraujavimas chirurginis — reikia revizijos; jei geltoni — pirmiausia koreguoti hemostazę ir tik tada spręsti dėl operacijos.",
+    "Metodas parodo ir hiperkoaguliaciją, bet tai pagalbinė jo vertė."
+   ]
+  },
+  {
+   "title": "FDA patvirtinimas",
+   "start": 1067,
+   "end": 1153,
+   "part": null,
+   "bullets": [
+    "Sonoreometrija pagal 510(k) procedūrą patvirtinta kaip saugus ir efektyvus metodas būtent akušeriniam masyviam kraujavimui valdyti.",
+    "Pranešėjo teigimu, tai vienintelė kasečių pagrindu veikianti prie paciento lovos naudojama hemostazės kontrolės sistema, turinti FDA patvirtinimą šiai situacijai; patvirtinimas grįstas recenzuotais klinikiniais tyrimais.",
+    "Kardiochirurgijos tyrimai rodo ženklų transfuzijų sumažėjimą."
+   ]
+  }
+ ],
+ "takeaways": [
+  "DIK diagnozuoti biochemiškai dar prieš kraujavimą: vienas trombozės žymuo + vienas suvartojimo žymuo.",
+  "Trombozinis DIK gali būti pavojingesnis už hiperfibrinolizinį, nes vystosi nepastebimai.",
+  "Sekti fibrino monomerų ir D-dimerų santykį: sparčiau augantys fibrino monomerai — blogas ženklas.",
+  "Esant masyviam kraujavimui naudoti viskoelastometriją; sonoreometrija supaprastina sprendimą iki spalvų.",
+  "Pooperacinio kraujavimo atveju pirmiausia atskirti hemostazinę priežastį nuo chirurginės."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "ISTH DIK balai",
+    "≥ 5 — DIK; &lt; 5 — kartoti po 1–2 d."
+   ],
+   [
+    "DIK diagnozė",
+    "1 trombozės + 1 suvartojimo žymuo"
+   ],
+   [
+    "ROTEM efektyviai naudoja",
+    "&lt; 30 % gydytojų"
+   ],
+   [
+    "Sonoreometrijos mokymas",
+    "apie 30 min."
+   ],
+   [
+    "CSL geltona",
+    "DIK — traneksamo rūgštis"
+   ],
+   [
+    "PCS / FCS / CT-CS geltona",
+    "trombocitai / fibrinogenas / faktoriai"
+   ]
+  ]
+ },
+ "reviewed": false
+}

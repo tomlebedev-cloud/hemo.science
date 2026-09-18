@@ -1,0 +1,96 @@
+{
+ "summary": [
+  "Du praktiniai klausimai: kaip dažnai kartoti D-dimerų tyrimą gydant venų tromboemboliją ir kaip ambulatoriškai patikrinti, ar veikia klopidogrelis po išeminio insulto."
+ ],
+ "sections": [
+  {
+   "title": "1 klausimas. Kaip dažnai kartoti D-dimerus gydant VTE",
+   "start": null,
+   "end": null,
+   "part": null,
+   "bullets": [
+    "<strong>Stratifikacija:</strong> atmesti įtarimą pagal Wells skalę.",
+    "Mažiau kaip 2 balai (maža ar vidutinė tikimybė): atliekamas aukšto specifiškumo (ne mažiau 70 %) D-dimerų tyrimas su beveik 100 % neigiama prognostine verte. Mažiau 500 ng/ml — įtarimas atmetamas; daugiau — radiologinis skenavimas.",
+    "Daugiau kaip 2 balai (didelė tikimybė): D-dimerų nedaryti — pacientas iš karto heparinizuojamas ir siunčiamas instrumentinei diagnostikai.",
+    "<strong>Gydymo kontrolė:</strong> kai trombozė jau patvirtinta, D-dimerai sekami dinamikoje.",
+    "Antikoaguliantų fonas veikia rezultatą, todėl svarbi ne absoliuti reikšmė, o kryptis.",
+    "Jei D-dimerai nemažėja arba didėja — trombozė vystosi toliau; reikia koreguoti terapiją: didinti dozę, keisti antikoaguliantą arba derinti su antiagregantu (venų trombe apie 30 % sudaro trombocitai).",
+    "Tikslas — kad koncentracija gydymo eigoje nukristų žemiau 500 ng/ml.",
+    "Klasikinė giliųjų venų trombozė: užtenka kartą per savaitę.",
+    "Ūmi trombozė: gali prireikti kas kelias valandas, kad būtų matyti, ar heparinizacija (ar kitas antikoaguliantas) veikia.",
+    "Ilgalaikė antikoaguliacija (12 mėnesių ar visą gyvenimą): paprastai kartą per 2 mėnesius, stebint, ar koncentracija nepradeda kilti.",
+    "Kartais mažėjimas ar didėjimas nebūna dėsningas. Tokiais atvejais padeda tirpūs fibrino monomerai, kurie kartu su D-dimerais duoda patikimesnę informaciją apie gydymo veiksmingumą."
+   ]
+  },
+  {
+   "title": "2 klausimas. Kaip ambulatoriškai kontroliuoti klopidogrelį",
+   "start": null,
+   "end": null,
+   "part": null,
+   "bullets": [
+    "Arterinis (baltasis) trombas: ~70 % trombocitų, ~30 % fibrino — todėl pagrindinė terapija yra antiagregacinė.",
+    "Klausimo prielaida buvo, kad trombocitų agregacija tiriama tik universitetinėse ligoninėse.",
+    "Agregacinė kreivė yra diagnostinis tyrimas hematologijai (trombastenijoms ir kitoms trombocitų ligoms).",
+    "Gydant arterinę trombozę svarbu kitas dalykas — <strong>liekamasis trombocitų reaktyvumas</strong> po konkrečios vaisto dozės (pvz., 75 mg klopidogrelio). Kuo jis didesnis, tuo didesnis atsparumas ir mažesnė gydymo sėkmė.",
+    "Per mažas reaktyvumas reiškia per stiprų poveikį (hipermetabolizuojantis pacientas) ir kraujavimo riziką.",
+    "Klopidogreliui atsparūs daugiau kaip 30 % pacientų.",
+    "Kliniškai validuotas standartas (FDA, CLSI, publikacijos), naudojamas dešimtmečius.",
+    "Atliekama kabinete: apie 5 ml veninio kraujo, speciali kasetė klopidogreliui arba aspirinui, atsakymas vienetais.",
+    "<strong>Klopidogrelis (PRU):</strong> daugiau 230 — vaistas neveikia, reikia stipresnio antiagreganto (su didesne kraujavimo rizika, bet kitos išeities nėra); mažiau 230 — veikia; mažiau maždaug 98 — perdozavimas ir kraujavimo rizika. Terapinis intervalas — apie 98–230 PRU.",
+    "Pranešėjo vertinimu, tai efektyviau nei agregacinė kreivė: geresnė kokybės kontrolė ir tikslesnis terapinis intervalas.",
+    "Vilniuje — kelios šeimos klinikos, Santaros klinikos (hospitalinėje aplinkoje); Kauno klinikose metodą naudoja prof. Gustienė.",
+    "Svarbu patikrinti prieš išleidžiant pacientą namo po arterinės trombozės.",
+    "<strong>Klopidogrelis:</strong> pakanka vieno karto, nes atsparumas dažniausiai genetinis ir nesikeičia.",
+    "<strong>Aspirinas:</strong> atsparumas 30–40 %, bet jis dinamiškas — rekomenduojama tikrinti kartą per metus. Riba — 550 ARU: daugiau neveikia, mažiau veikia."
+   ]
+  }
+ ],
+ "takeaways": [
+  "D-dimerai: stratifikacijai tik esant mažai ar vidutinei tikimybei; gydymo metu — dinamikai sekti.",
+  "Kartoti: kartą per savaitę įprastai, dažniau ūmiu atveju, kas 2 mėnesius ilgalaikio gydymo metu.",
+  "Kai D-dimerai banguoja — pridėti fibrino monomerus.",
+  "Klopidogrelio veiksmingumą galima patikrinti ambulatoriškai kabinete; pakanka vieno tyrimo.",
+  "Aspirino veiksmingumą tikrinti kartą per metus."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Wells skalė, GVT",
+    "&lt; 2 balai — D-dimerai; &gt; 2 — iš karto instrumentinė diagnostika"
+   ],
+   [
+    "D-dimerai",
+    "&lt; 500 ng/ml"
+   ],
+   [
+    "D-dimerų specifiškumas",
+    "≥ 70 %"
+   ],
+   [
+    "D-dimerų kartojimas",
+    "kas savaitę; ūmiu atveju kas kelias val.; ilgalaikiu gydymu kas 2 mėn."
+   ],
+   [
+    "Klopidogrelis (PRU)",
+    "98–230 terapinis intervalas; &gt; 230 neveikia; &lt; 98 kraujavimo rizika"
+   ],
+   [
+    "Aspirinas (ARU)",
+    "&lt; 550 veikia; &gt; 550 neveikia"
+   ],
+   [
+    "Atsparumas klopidogreliui",
+    "&gt; 30 %"
+   ],
+   [
+    "Atsparumas aspirinui",
+    "30–40 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

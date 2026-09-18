@@ -9,7 +9,8 @@
   "slides": "Lietuvių",
   "duration": 1499,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 27,
@@ -21,7 +22,8 @@
   "slides": null,
   "duration": 1093,
   "youtube": "GScttUUH3Gc",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 28,
@@ -33,7 +35,8 @@
   "slides": "Anglų",
   "duration": 1388,
   "youtube": "YNQQzC_HcJs",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 26,
@@ -45,7 +48,8 @@
   "slides": "Anglų",
   "duration": 1182,
   "youtube": "1zLN74UXJUo",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 25,
@@ -57,7 +61,8 @@
   "slides": "Lietuvių",
   "duration": 1489,
   "youtube": "pl6RPopx2z4",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 24,
@@ -69,7 +74,8 @@
   "slides": null,
   "duration": 2063,
   "youtube": "10TgYzSrwSg",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 23,
@@ -81,7 +87,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 1930,
   "youtube": "pZ5ELQJxfZ4",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 22,
@@ -93,7 +100,8 @@
   "slides": "Įvairios (konferencija)",
   "duration": 19722,
   "youtube": "Sth56WnmB7k",
-  "conference": true
+  "conference": true,
+  "konspektas": false
  },
  {
   "id": 21,
@@ -105,7 +113,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 1788,
   "youtube": "PQqur_b9MZw",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 20,
@@ -117,7 +126,8 @@
   "slides": "Ukrainiečių",
   "duration": 2219,
   "youtube": "_qqlG8hEFwk",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 19,
@@ -129,7 +139,8 @@
   "slides": "Lietuvių",
   "duration": 1640,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 18,
@@ -141,7 +152,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 1268,
   "youtube": "SkdGn1ESlPo",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 16,
@@ -153,7 +165,8 @@
   "slides": "Lietuvių",
   "duration": 1540,
   "youtube": "2Y7WwiTB4U0",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 17,
@@ -165,7 +178,8 @@
   "slides": null,
   "duration": 1635,
   "youtube": "s6080OKH66Q",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 36,
@@ -177,7 +191,8 @@
   "slides": null,
   "duration": 1805,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": false
  },
  {
   "id": 37,
@@ -189,7 +204,8 @@
   "slides": null,
   "duration": 1835,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": false
  },
  {
   "id": 38,
@@ -201,7 +217,8 @@
   "slides": null,
   "duration": 2010,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": false
  },
  {
   "id": 39,
@@ -213,7 +230,8 @@
   "slides": null,
   "duration": 1417,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": false
  },
  {
   "id": 31,
@@ -225,7 +243,8 @@
   "slides": "Lietuvių",
   "duration": 1180,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 32,
@@ -237,7 +256,8 @@
   "slides": "Rusų",
   "duration": 2975,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 15,
@@ -249,7 +269,8 @@
   "slides": "Anglų",
   "duration": 1887,
   "youtube": "mJ8Q5aaL5Kk",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 14,
@@ -261,7 +282,8 @@
   "slides": "Anglų",
   "duration": 2045,
   "youtube": "9qWH1ER-K3g",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 13,
@@ -273,7 +295,8 @@
   "slides": "Anglų",
   "duration": 1946,
   "youtube": "ADRIoG2kp-U",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 12,
@@ -285,7 +308,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 1399,
   "youtube": "WVH3n7NSXF8",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 11,
@@ -297,7 +321,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 1592,
   "youtube": "YjZHy1zuABM",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 10,
@@ -309,7 +334,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 1366,
   "youtube": "gER_I9H_z5o",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 34,
@@ -321,7 +347,8 @@
   "slides": "Įvairios (konferencija)",
   "duration": 18117,
   "youtube": null,
-  "conference": true
+  "conference": true,
+  "konspektas": false
  },
  {
   "id": 33,
@@ -333,7 +360,8 @@
   "slides": "be skaidrių",
   "duration": 1442,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 9,
@@ -345,7 +373,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 1309,
   "youtube": "OhUkTXI6T-k",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 8,
@@ -357,7 +386,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 1881,
   "youtube": "z70lLoH_qiU",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 7,
@@ -369,7 +399,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 2284,
   "youtube": "1f27ZmFa7r0",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 3,
@@ -381,7 +412,8 @@
   "slides": "Anglų",
   "duration": 4586,
   "youtube": "yR1sfsn_6kY",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 4,
@@ -393,7 +425,8 @@
   "slides": "Anglų",
   "duration": 4605,
   "youtube": "7FkytOa8flM",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 5,
@@ -405,7 +438,8 @@
   "slides": "Anglų",
   "duration": 5524,
   "youtube": "SY2rS31QEys",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 6,
@@ -417,7 +451,8 @@
   "slides": "Anglų",
   "duration": 5787,
   "youtube": "uL_wLQ2oVkM",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 1,
@@ -429,7 +464,8 @@
   "slides": "Lietuvių",
   "duration": 1919,
   "youtube": "oELcei6Wgys",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 2,
@@ -441,7 +477,8 @@
   "slides": "Anglų / Lietuvių",
   "duration": 3064,
   "youtube": "13LkS4YwXq4",
-  "conference": false
+  "conference": false,
+  "konspektas": true
  },
  {
   "id": 40,
@@ -453,7 +490,8 @@
   "slides": null,
   "duration": 2332,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": false
  },
  {
   "id": 29,
@@ -465,7 +503,8 @@
   "slides": "Lietuvių",
   "duration": null,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": false
  },
  {
   "id": 30,
@@ -477,6 +516,7 @@
   "slides": "Anglų / Lietuvių",
   "duration": null,
   "youtube": null,
-  "conference": false
+  "conference": false,
+  "konspektas": false
  }
 ]

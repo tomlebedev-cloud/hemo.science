@@ -1,0 +1,161 @@
+{
+ "summary": [
+  "Kada tiesioginių geriamųjų antikoaguliantų koncentraciją reikia matuoti, kokios vaistų sąveikos tai lemia ir kokie perioperaciniai algoritmai jau veikia Prancūzijoje bei Lietuvoje."
+ ],
+ "sections": [
+  {
+   "title": "Idealaus antikoagulianto istorija",
+   "start": 56,
+   "end": 210,
+   "part": null,
+   "bullets": [
+    "Heparinas klinikoje nuo 1916 m.; iš pradžių manyta, kad pakanka dozuoti pagal kūno svorį, vėliau paaiškėjo individualūs skirtumai.",
+    "Varfarinas patogus, bet sąveikauja su maistu, priklauso nuo klinikinių situacijų ir nuo laboratorinio metodo pasirinkimo.",
+    "TGAK buvo pristatyti kaip nereikalaujantys kontrolės ir nesąveikaujantys — praktika parodė kitaip.",
+    "Vertinimas išlieka teigiamas: tai geriausi šiuo metu esantys antikoaguliantai, bet kaip ir kiekvienas vaistas jie turi individualią farmakokinetiką ir farmakodinamiką."
+   ]
+  },
+  {
+   "title": "Kada įtarti terapinę nesėkmę",
+   "start": 333,
+   "end": 423,
+   "part": null,
+   "bullets": [
+    "Kliniškai trombozė matoma tik tada, kai obstrukcija viršija apie 75 %, o procesas vyksta jau esant 10–15 %.",
+    "Todėl sekami du žymenys: aukšto specifiškumo D-dimerai ir fibrino monomerai. Jų augimas reiškia, kad gydymas neduoda laukiamo efekto.",
+    "Tada kyla klausimas, ar dozė sukuria koncentraciją terapiniame intervale (100–140 ng/ml)."
+   ]
+  },
+  {
+   "title": "Kada TGAK netinka",
+   "start": 494,
+   "end": 522,
+   "part": null,
+   "bullets": [
+    "Indikacijos apima profilaktiką po ortopedinių operacijų, prieširdžių virpėjimą ir gydymą, kai pacientas hemodinamiškai stabilus ir neturi specialių protrombozinių būklių (onkologinės patologijos, antifosfolipidinio sindromo, kitų trombofilijų)."
+   ]
+  },
+  {
+   "title": "Trys terapinės nesėkmės priežastys",
+   "start": 600,
+   "end": 652,
+   "part": null,
+   "bullets": [
+    "Režimo nesilaikymas: pamiršta vaistą kelionėje, grįžęs išgeria kelias tabletes iš karto.",
+    "Organizmo būklė: protrombozinis fonas, onkologinis procesas ir kitos specifinės būklės.",
+    "Individualus biochemijos kintamumas — ta pati dozė skirtingiems žmonėms duoda skirtingą efektą."
+   ]
+  },
+  {
+   "title": "Vaistų sąveikos",
+   "start": 652,
+   "end": 797,
+   "part": null,
+   "bullets": [
+    "TGAK sąveikauja per P glikoproteino ir CYP sistemas: vieni vaistai koncentraciją didina, kiti mažina.",
+    "Praktiškai svarbios grupės: antiaritminiai, antihipertenziniai vaistai, antiagregantai (didina kraujavimo riziką), statinai, antibiotikai, antivirusiniai vaistai, antacidai.",
+    "Patarimas: sąveikas tikrinti drugs.com, suvedus abu vaistus."
+   ]
+  },
+  {
+   "title": "Kada matuoti koncentraciją",
+   "start": 942,
+   "end": 1079,
+   "part": null,
+   "bullets": [
+    "yra viršsvorio situacija — riebalinis audinys menkai vaskuliarizuotas, todėl dvigubas svoris nereiškia dvigubo cirkuliuojančio kraujo tūrio, o dozės didinimas veda į perdozavimą;",
+    "yra kepenų cirozė ar ryškus inkstų funkcijos sutrikimas;",
+    "yra vaistų sąveika;",
+    "pacientas kraujuoja (reikia išsiaiškinti, ar tai dėl vaisto, nes kraujavimo priežasčių daug);",
+    "įtariamas perdozavimas (svarbu žinoti, ar tai 220, 300, ar 400 ng/ml);",
+    "reikia skubios chirurgijos;",
+    "auga trombogenezės žymenys, nepaisant gydymo."
+   ]
+  },
+  {
+   "title": "Prancūzijos perioperacinis algoritmas",
+   "start": 1124,
+   "end": 1179,
+   "part": null,
+   "bullets": [
+    "Mažiau 30 ng/ml — žalia šviesa, galima operuoti.",
+    "30–200 ng/ml — vaisto poveikis ryškus: laukti 12 valandų ir pakartoti tyrimą; jei laukti negalima, ruoštis perpylimui.",
+    "Daugiau 400 ng/ml — kraujavimo zona; tokią riziką prisiimti galima tik esant labai rimtai indikacijai."
+   ]
+  },
+  {
+   "title": "Lietuvos praktika",
+   "start": 1179,
+   "end": 1232,
+   "part": null,
+   "bullets": [
+    "Greitosios pagalbos universitetinėje ligoninėje diegiamas panašus algoritmas rivaroksabano ir dabigatrano koncentracijoms bei perioperaciniams sprendimams vertinti."
+   ]
+  },
+  {
+   "title": "Ribos prieš procedūras",
+   "start": 825,
+   "end": 864,
+   "part": null,
+   "bullets": [
+    "Bendra riba — mažiau 50 ng/ml, dalis procedūrų reikalauja mažiau 30 ng/ml.",
+    "Neuroašinei anestezijai, specialioms neurochirurginėms intervencijoms ir trombolizei reikia nulinės koncentracijos.",
+    "Jei reikiamos ribos pasiekti nepavyksta, reikia turėti algoritmą, kaip tokiai procedūrai ruoštis."
+   ]
+  },
+  {
+   "title": "Tyrimai",
+   "start": 864,
+   "end": 915,
+   "part": null,
+   "bullets": [
+    "Anti-Xa testas: tinka ir visiems heparinams, ir rivaroksabano tipo vaistams (su atitinkamu kalibratoriumi).",
+    "Ekarino testas: dabigatranui, nes tai tiesioginis trombino inhibitorius."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Standartinė dozė + standartinis efektas = kontrolės nereikia; visais kitais atvejais matuoti.",
+  "Viršsvoris nėra priežastis automatiškai didinti dozę.",
+  "Žymenų augimas (D-dimerai, fibrino monomerai) yra signalas tikrinti koncentraciją, o ne iš karto keisti vaistą.",
+  "Prieš procedūras siekti mažiau 30–50 ng/ml, o neuroašinėms — nulio.",
+  "Prieš skiriant patikrinti sąveikas: antiaritminiai, antihipertenziniai, statinai, antibiotikai, antivirusiniai vaistai."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "TGAK terapinis intervalas",
+    "100–140 ng/ml"
+   ],
+   [
+    "Nerekomenduojama viršyti",
+    "~200 ng/ml"
+   ],
+   [
+    "Operacijai",
+    "&lt; 30–50 ng/ml"
+   ],
+   [
+    "Neuroašinė anestezija, trombolizė",
+    "0 ng/ml"
+   ],
+   [
+    "Prancūzijos algoritmas",
+    "&lt; 30 — operuoti; 30–200 — laukti 12 val.; &gt; 400 — kraujavimo zona"
+   ],
+   [
+    "Kada matuoti",
+    "4–5 val. po dozės"
+   ],
+   [
+    "Klinikinė manifestacija",
+    "obstrukcija &gt; 75 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

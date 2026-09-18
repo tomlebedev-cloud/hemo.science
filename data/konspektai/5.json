@@ -1,0 +1,154 @@
+{
+ "summary": [
+  "Venų tromboembolijos valdymas nuo rizikos vertinimo iki gydymo nutraukimo: kaip naudoti D-dimerus ir fibrino monomerus, kada jie neinformatyvūs, kaip kontroliuoti heparinus ir varfariną, kokias ribas taikyti prieš operaciją ir kaip prognozuoti retrombozę. Daug dėmesio skirta fibrino monomerams — rodmeniui, kuris tuo metu tik plito klinikoje."
+ ],
+ "sections": [
+  {
+   "title": "Protrombozinis fenotipas ir trombofilijos tyrimai",
+   "start": 68,
+   "end": 240,
+   "part": null,
+   "bullets": [
+    "Protrombozinis fenotipas (gretutinės ligos, genetika, imuninės sistemos reakcija) lemia ir gydymo tipą, ir trukmę.",
+    "Trombofilijos tyrimai brangūs, todėl skiriami pagal indikaciją, o ne kaip skriningas: pats trombofilijos faktas keičia režimą, bet ne patį gydymą."
+   ]
+  },
+  {
+   "title": "Kur trombozė prasideda ir kaip juda",
+   "start": 853,
+   "end": 1045,
+   "part": null,
+   "bullets": [
+    "Iki 75 % simptominių trombozių yra proksimalinės lokalizacijos, o didelė dalis pooperacinių randama distaliniuose segmentuose.",
+    "Proksimalizacija gali įvykti per savaitę — todėl operuojant pacientą, kuriam anksčiau nustatyta giliųjų venų trombozė, komplikacija gali ištikti netikėtai.",
+    "10 % simptominių plaučių arterijos tromboembolijų baigiasi staigia mirtimi; iki 75 % jų prasideda nuo besimptomių galūnių trombozių.",
+    "Nereikia pamiršti ir neįprastų lokalizacijų, pavyzdžiui, mezenterinių venų trombozės.",
+    "Retrombozės rizika per 7–10 metų siekia iki 30 %, o jų išeitys blogesnės."
+   ]
+  },
+  {
+   "title": "Dvi D-dimerų „kepurės“",
+   "start": 1161,
+   "end": 1893,
+   "part": null,
+   "bullets": [
+    "<strong>Įtarimo atmetimas:</strong> mažiau 500 ng/ml praktiškai 100 % rodo, kad trombozės nėra.",
+    "<strong>Gydymo sekimas:</strong> svarbi dinamika, o ne absoliutus skaičius. Jei pradėta gydyti nuo 2400 ng/ml, o po savaitės 2600 — koncentracija netinkama, reikia keisti vaistą, dozę ar pridėti antiagregantą.",
+    "Teigiamas atsakymas nepatvirtina diagnozės: D-dimerų būna nėštumo metu, pirmąsias 48 val. po operacijos ir kitose būklėse. Esant 50 % specifiškumui kas antras siunčiamas skenuoti pacientas trombozės neturi.",
+    "Atsiradę 75 % specifiškumo tyrimai nekeičia diagnozės patvirtinimo logikos, bet gerokai sumažina nereikalingų kompiuterinės tomografijos su angiografija tyrimų.",
+    "Antikoaguliantų fonas mažina rodmenį, todėl kraują imti prieš pirmą dozę, o pasiekus 500 ng/ml gydymo automatiškai nenutraukti."
+   ]
+  },
+  {
+   "title": "Wells skalė ir laikas",
+   "start": 1525,
+   "end": 1635,
+   "part": null,
+   "bullets": [
+    "Didelė tikimybė (GVT &gt; 2 balai, PATE &gt; 4 balai): antikoaguliantas skiriamas iš karto, pacientas siunčiamas skenuoti, D-dimerai tik kaip gydymo kontrolė.",
+    "Maža ar vidutinė tikimybė: yra iki 24 valandų diagnostikai, ir tai teisiškai pagrįsta."
+   ]
+  },
+  {
+   "title": "Fibrino monomerai",
+   "start": 2167,
+   "end": 3199,
+   "part": null,
+   "bullets": [
+    "Ankstyvas, grįžtamas trombogenezės rodmuo; vienas jis mažiau informatyvus nei D-dimerai, bet kartu su jais išsprendžia neaiškias situacijas.",
+    "<strong>DIK:</strong> nepriklausomas DIK signalas, padedantis spręsti dėl antifibrinolizinių vaistų; ankstesnis už D-dimerus.",
+    "<strong>Nėštumas:</strong> D-dimerai nėštumo metu praktiškai visada padidėję, todėl netinka. Fibrino monomerų foninė koncentracija apie 4 mg/l, o esant trombozei pakyla iki maždaug 40 mg/l (apie 10 kartų).",
+    "<strong>Onkologija:</strong> prognozuoja išeitį; 70 % mirčių sergant vėžiu lemia ne pats vėžys, o tromboembolinės komplikacijos.",
+    "<strong>Kardiologija ir neurologija:</strong> ankstyvas miokardo infarkto ir arterijos trombozės žymuo per pirmąsias 24 val.; kartu su troponinais diagnostikos specifiškumas pakyla iki maždaug 98 %.",
+    "<strong>Chirurgija:</strong> anksti parodo pooperacinę trombozę. <strong>Antikoaguliacijos kontrolė</strong> [38:17–40:37, 56:02–59:49]",
+    "<strong>Heparinai:</strong> aPTT netinka, nes priklauso nuo daugelio su heparinu nesusijusių veiksnių. Tikslus būdas — anti-Xa, terapinis intervalas 0,3–0,7 (pagal gaires iki 0,8) TV/ml. Anti-Xa rodo ne koncentraciją, o <strong>funkciją</strong>.",
+    "<strong>Varfarinas:</strong> protrombino laikas <strong>Owren metodu</strong>, nes jis vertina tik tuos faktorius, kuriuos veikia varfarinas. Quick metodas papildomai matuoja I ir V faktorius ir duoda iki 30 % netikslių atsakymų (ypač po operacijų, kraujuojant ar esant Leideno mutacijai).",
+    "<strong>Kepenų funkcija:</strong> protrombino kompleksas (II, VII, X) yra jautriausias kepenų baltymų sintezės rodiklis. Mažiau 25 % reiškia kepenų krizę.",
+    "<strong>TGAK:</strong> terapinė koncentracija 100–140 ng/ml; daugiau 150–200 — kraujavimo rizika; operacijai &lt; 30 ng/ml, o stuburo smegenų srities procedūroms — nulis. Testai: anti-Xa su vaisto kalibratoriumi, dabigatranui — ekarino laikas. Atsakymą galima gauti maždaug per 40 minučių, todėl be sąmonės atvežtą politraumos pacientą su rivaroksabanu kišenėje galima įvertinti."
+   ]
+  },
+  {
+   "title": "Gydymo trukmė ir retrombozės prognozė",
+   "start": 3809,
+   "end": 4030,
+   "part": null,
+   "bullets": [
+    "Dabar taikomi du režimai: apie 3 mėnesius ir ilgiau nei 3 mėnesiai. Neprovokuota (idiopatinė) trombozė yra stiprus argumentas ilginti.",
+    "Prognostiniai modeliai (Vienos nomograma, DASH skalė) remiasi aukšto specifiškumo D-dimerais, amžiumi, lytimi ir kūno mase.",
+    "Svarbu: D-dimerai vertinami <strong>praėjus 30 dienų po antikoaguliacijos nutraukimo</strong>, kai organizmo būklė subalansuota. Jei jie auga, gali būti indikacija vėl hospitalizuoti ar atnaujinti gydymą. <strong>COVID-19 kontekstas</strong> [41:32–43:28, 1:09:19–1:11:59]",
+    "D-dimerų monitoravimas leidžia 5–7 dienas iš anksto numatyti reanimacijos poreikį, o reanimacijoje — 2–3 dienas iki dirbtinės plaučių ventiliacijos.",
+    "Sergant COVID-19 rivaroksabano ar dabigatrano koncentracija gali nekontroliuojamai pakilti iki 6 kartų, todėl naudojama tik heparinizacija su anti-Xa kontrole."
+   ]
+  },
+  {
+   "title": "Atsakymai į klausimus",
+   "start": 4521,
+   "end": 5388,
+   "part": null,
+   "bullets": [
+    "<strong>Kodėl COVID-19 trombozės prasideda mažuose kraujagyslėse:</strong> tai ne embolizacija iš didelių kraujagyslių, o pirminė biocheminė fibrinolizės aktyvacija ir „cemento“ gamyba 5–6 kartus virš normos.",
+    "<strong>DOAK ir onkologija:</strong> prieš skiriant DOAK dėl prieširdžių virpėjimo verta patikrinti D-dimerus ar fibrino monomerus; jų padidėjimas yra indikacija ieškoti onkologinio proceso. Onkologijoje ir ūmiose situacijose reikia greito ir kontroliuojamo poveikio, todėl renkamasi heparinas. Pasveikus galima grįžti prie DOAK.",
+    "<strong>Ar pradėti tromboprofilaktiką be tyrimo:</strong> taip. Pirmoji COVID-19 fazė yra hiperkoaguliacija, kraujavimai reti. Jei kyla klausimas „ar reikia“, reikia. Pavyzdys: ambulatorinis pacientas, D-dimerai 850, skirta dviguba profilaktinė dozė (0,6 ryte ir vakare), po 48 val. — 620.",
+    "<strong>Kaip dažnai tirti D-dimerus:</strong> esant ramiai eigai kartą per 5 dienas, esant ūmiai — kasdien, reanimacijoje — kasdien.",
+    "<strong>Ką dar stebėti:</strong> nuo antros stadijos (D-dimerai padidėję daugiau kaip 4 kartus) sekti fibrinogeną, trombocitus ir aPTT, kad būtų laiku pastebėtas suvartojimo sindromas; kepenų funkciją — protrombino laiku pagal Owren."
+   ]
+  }
+ ],
+ "takeaways": [
+  "D-dimerai turi dvi skirtingas paskirtis: atmesti įtarimą ir sekti gydymą. Nemaišyti jų.",
+  "Nėščiosioms D-dimerai netinka — naudoti fibrino monomerus.",
+  "Heparino kontrolė — tik anti-Xa; varfarino — tik Owren metodo protrombino laikas.",
+  "Nenutraukti gydymo vien pagal D-dimerų kritimą žemiau 500.",
+  "Retrombozės riziką vertinti praėjus mėnesiui po gydymo pabaigos.",
+  "Prieš skubią operaciją išmatuoti TGAK koncentraciją, o ne spėlioti."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerai, įtarimo atmetimas",
+    "&lt; 500 ng/ml"
+   ],
+   [
+    "D-dimerų specifiškumas",
+    "anksčiau ~50 %, naujesni iki 75 %"
+   ],
+   [
+    "Wells skalė",
+    "GVT &gt; 2 balai, PATE &gt; 4 balai — didelė tikimybė"
+   ],
+   [
+    "Fibrino monomerai, nėštumas",
+    "fonas ~4 mg/l; trombozė iki ~40 mg/l"
+   ],
+   [
+    "Anti-Xa, heparino terapija",
+    "0,3–0,7 (iki 0,8) TV/ml"
+   ],
+   [
+    "Varfarinas prieš operaciją",
+    "INR &lt; 1,3; neinvazinėms procedūroms daugiau"
+   ],
+   [
+    "TGAK terapinė koncentracija",
+    "100–140 ng/ml; &gt; 150–200 kraujavimo rizika"
+   ],
+   [
+    "TGAK prieš operaciją",
+    "&lt; 30 ng/ml; stuburo smegenų procedūroms 0"
+   ],
+   [
+    "Protrombino laikas, kepenys",
+    "&lt; 25 % — kepenų krizė"
+   ],
+   [
+    "Retrombozės rizika",
+    "iki 30 % per 7–10 metų"
+   ]
+  ]
+ },
+ "reviewed": false
+}

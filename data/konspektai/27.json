@@ -1,0 +1,105 @@
+{
+ "summary": [
+  "Dvi dalys: kas svarbiausio laboratorinei diagnostikai įtvirtinta naujose Nacionalinėse jungtinėse antitrombozinio gydymo gairėse ir kaip dirbtinio intelekto klinikinių sprendimų palaikymo sistema (CDSS) gali padėti sumažinti kraujavimų skaičių kardiochirurgijoje."
+ ],
+ "sections": [
+  {
+   "title": "Kodėl biožymenys",
+   "start": 74,
+   "end": 155,
+   "part": null,
+   "bullets": [
+    "Instrumentiniai tyrimai (echoskopija, MRT, angiografija) fiksuoja jau įvykusį faktą — trombozę. Kraujavimo rizikos jais įvertinti neįmanoma.",
+    "Maždaug prieš penkerius metus universitete parengta metodika aprašė pagrindinius krešėjimo tyrimus, bet ne klinikinius algoritmus, kada kuriuos rodmenis vertinti."
+   ]
+  },
+  {
+   "title": "Gairės",
+   "start": 161,
+   "end": 242,
+   "part": null,
+   "bullets": [
+    "Pirmas tokio pobūdžio dokumentas Lietuvoje, parengtas visos šalies specialistų; rengtas beveik dvejus metus, dalyvavo daug draugijų.",
+    "Laboratorinės medicinos draugija parengė skyrių apie laboratorinius tyrimus, jų skyrimą ir interpretavimą.",
+    "Kardiochirurgijai aktualiausia antroji dalis — priešoperacinė ir pooperacinė trombozių profilaktika, nes netiksli antikoaguliacija kelia didelę kraujavimo riziką."
+   ]
+  },
+  {
+   "title": "Pagrindiniai gairių akcentai",
+   "start": 246,
+   "end": 532,
+   "part": null,
+   "bullets": [
+    "<strong>Heparinizacija kontroliuojama iš esmės tik anti-Xa.</strong> aPTT — tik pirminis tyrimas; jei jo rezultatas netinka, belieka anti-Xa. Heparinas veikia tik II ir X faktorius, todėl faktorių disbalansas iškreipia aPTT. Anti-Xa tiksliai parodo ir nefrakcionuoto, ir mažos molekulinės masės heparino poveikį.",
+    "Atipiško mažos molekulinės masės heparino veikimo atvejai gairėse aprašyti atskirai — tada dozę parinkti padeda anti-Xa.",
+    "<strong>Protrombino laikas varfarinui ir vitamino K antagonistams — tik Owren metodu</strong> (Lietuvoje — SPA testas).",
+    "<strong>D-dimerų specifiškumas — ne mažiau 70 %</strong>, ypač diagnozuojant plaučių arterijos tromboemboliją. Tai pagrindinis būdas mažinti klaidingai teigiamų atsakymų skaičių.",
+    "<strong>Fibrino monomerai</strong> — ankstyviausias trombogenezės vertinimo būdas, tinka ir gydymo kontrolei (parodo retrombozę). Kartu su D-dimerais tai du įrankiai, leidžiantys tiksliau valdyti antitrombozinį gydymą.",
+    "<strong>Nėštumas:</strong> D-dimerai gaminami nuolat ir be trombozės, o fibrino monomerai nekinta, todėl jie yra tiksliausias ir ankstyviausias rodiklis. Gairėse pateiktas interpretavimo algoritmas (vienetai gali būti µg/l arba µg/ml, riba apie 6 µg/ml).",
+    "TGAK koncentracijai: anti-Xa su kalibratoriumi, dabigatranui — ekarino testas."
+   ]
+  },
+  {
+   "title": "Kraujavimas kardiochirurgijoje",
+   "start": 589,
+   "end": 802,
+   "part": null,
+   "bullets": [
+    "Apie 10 % ir daugiau kardiochirurginių procedūrų lydi reikšmingi kraujavimai.",
+    "Daugiau nei trečdalį jų lemia krešėjimo sutrikimai — jų neįvertinus kraujavimų bus daugiau.",
+    "Svarbūs rodmenys: fibrino monomerai ir D-dimerai (hiperfibrinolizė), krešėjimo faktoriai, natūralūs inhibitoriai (antitrombinas III, proteinai C ir S), anti-Xa heparinizacijos metu.",
+    "Kepenų pažaida: reikia trombino generacijos tyrimo, nes laboratorijoje mėgintuvėlyje panaudojama tik apie 5 % trombino kiekio, o organizmui reikia gerokai daugiau — įprasti tyrimai neatsako, ar jo pakanka."
+   ]
+  },
+  {
+   "title": "Klinikinių sprendimų palaikymo sistema (CDSS)",
+   "start": 825,
+   "end": 1067,
+   "part": null,
+   "bullets": [
+    "Automatiškai įvertina paciento kontekstą, paverčia nestruktūrizuotus ligoninės duomenis (informacinės sistemos, laboratorijos, kodavimas, ligonių kasų duomenys) struktūrizuotais, išryškina riziką, nurodo papildomų tyrimų poreikį ir rekomenduoja veiksmus.",
+    "<strong>Pirmas lygis:</strong> pagal klinikinį kontekstą ir turimus laboratorinius tyrimus skaičiuojami balai, pacientas priskiriamas rizikos grupei, o šviesoforo principu nurodoma, ar reikia papildomų tyrimų ir kokių (žalia — nereikia).",
+    "<strong>Antras lygis:</strong> atlikus papildomus tyrimus sistema parengia klinikinio sprendimo rekomendacijas. Žalia — galima operuoti iš karto; raudona — konkretus veiksmų sąrašas kraujavimo tikimybei sumažinti.",
+    "Veiksmų protokolai gali būti validuoti ir patvirtinti ligoninės gydymo tarybos.",
+    "Tokiu būdu sujungiamas ekspertų darbas (gairės, algoritmai) su kasdiene praktika specialiose situacijose."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Pagal naujas gaires heparinizacija kontroliuojama anti-Xa, o varfarinas — tik Owren metodu.",
+  "D-dimerų tyrimo specifiškumas turi būti ne mažesnis kaip 70 %.",
+  "Nėščiosioms — fibrino monomerai.",
+  "Kardiochirurgijoje daugiau nei trečdalis kraujavimų lemia krešėjimo sutrikimai, kuriuos galima nustatyti iš anksto.",
+  "Pacientams su kepenų pažaida verta vertinti trombino generaciją.",
+  "CDSS gali automatizuoti rizikos stratifikaciją ir sprendimus šviesoforo principu."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "D-dimerų specifiškumas",
+    "ne mažiau 70 %"
+   ],
+   [
+    "Fibrino monomerai",
+    "riba apie 6 µg/ml"
+   ],
+   [
+    "Reikšmingi kraujavimai kardiochirurgijoje",
+    "≥ 10 % procedūrų"
+   ],
+   [
+    "Dalis, lemta krešėjimo sutrikimų",
+    "daugiau nei trečdalis"
+   ],
+   [
+    "Trombino kiekis laboratoriniame tyrime",
+    "apie 5 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}

@@ -1,0 +1,188 @@
+{
+ "summary": [
+  "Apžvalginis pranešimas apie visus pagrindinius krešėjimo sistemos biožymenis: ką kiekvienas rodo, kokios ribos leidžia operuoti, kaip sekti gydymo efektą ir kada bei kaip diagnozuoti trombofiliją. Įdomi dalis pradžioje — krešėjimo sistemos ir psichikos ligų sąsajos."
+ ],
+ "sections": [
+  {
+   "title": "Netikėta sritis: krešėjimas ir psichikos ligos",
+   "start": 82,
+   "end": 261,
+   "part": null,
+   "bullets": [
+    "Trombocitų hiperaktyvacija siejama ne tik su tromboembolija, bet ir su psichikos ligomis.",
+    "Nerimo sindromas susijęs su trombocitų funkcijos pokyčiais ir endotelio aktyvacija per VIII bei von Willebrando faktorių.",
+    "Su depresijos sindromu siejami trombocitų serotonino receptoriai, trombocitų IV faktorius, trombomodulino aktyvumas, P-selektino hiperaktyvacija ir fibrinolizės ypatumai.",
+    "Šizofrenija siejama su laisvo proteino S stygiumi — nurodoma, kad pirmos eilės giminaičiams rizika gerokai padidėja <em>(pranešime nuskambėjęs skaičius „145 kartus“ transkripcijoje neaiškus — tikrinti)</em>."
+   ]
+  },
+  {
+   "title": "Trys faktorinės hemostazės rodikliai",
+   "start": 434,
+   "end": 483,
+   "part": null,
+   "bullets": [
+    "aPTT (DATL), fibrinogeno koncentracija ir protrombino laikas Owren metodu.",
+    "Kraujavimo rizikos ribos: aPTT daugiau 55 s; spontaninis kraujavimas, kai aPTT pailgėja daugiau kaip 3 kartus; fibrinogenas mažiau 2 g/l; protrombino laikas mažiau 70 % arba INR daugiau 1,3 — tada chirurginė intervencija negalima."
+   ]
+  },
+  {
+   "title": "Trombocitų vertinimas",
+   "start": 512,
+   "end": 599,
+   "part": null,
+   "bullets": [
+    "Standartizuoto kraujavimo laiko pailgėjimas daugiau kaip 11 minučių rodo nepakankamą trombocitų funkciją (tinka tik esant nepažeistai kapiliarinei kraujotakai).",
+    "Kitu atveju — agregometrija; vartojant antiagregantus — terapinė agregometrija, kuri vienetais parodo, ar aspirinas, klopidogrelis ar GP IIb/IIIa preparatas veikia, ir ar neveikia per stipriai."
+   ]
+  },
+  {
+   "title": "Priešoperacinis skriningas: leidžiamos ribos",
+   "start": 622,
+   "end": 747,
+   "part": null,
+   "bullets": [
+    "aPTT ne daugiau 60 s.",
+    "INR (Owren) iki 1,3; neinvazinėms procedūroms, pavyzdžiui, kolonoskopijai — iki 1,7.",
+    "Fibrinogenas ne mažiau 1,8 g/l.",
+    "TGAK koncentracija mažiau 50 ng/ml (anti-Xa arba ekarino laiko testas).",
+    "Kai rodmenys ribiniai, papildomai vertinamas rezervas tromboelastometrija: krešulio storis ne mažesnis kaip 50 mm leidžia operuoti."
+   ]
+  },
+  {
+   "title": "Diagnostikos stratifikacija",
+   "start": 770,
+   "end": 857,
+   "part": null,
+   "bullets": [
+    "Maža ar vidutinė tikimybė pagal Wells skalę: neigiami D-dimerai atmeta įtarimą.",
+    "Didelė tikimybė: D-dimerai nedaromi, pacientas antikoaguliuojamas ir siunčiamas instrumentinei diagnostikai.",
+    "Taip sutaupoma nemažai brangių skenavimo procedūrų."
+   ]
+  },
+  {
+   "title": "Kada galima nekartoti ultragarso",
+   "start": 857,
+   "end": 885,
+   "part": null,
+   "bullets": [
+    "Fibrino monomerai mažiau 6 µg/ml rodo, kad trombogenezės nėra, todėl pakartotinio skenavimo atlikti nebūtina."
+   ]
+  },
+  {
+   "title": "Nėštumas",
+   "start": 937,
+   "end": 1011,
+   "part": null,
+   "bullets": [
+    "D-dimerai netinka, nes padidėję visą nėštumą.",
+    "Fibrino monomerai nekinta; ribinė reikšmė <strong>25 mg/l</strong>, o esant tromboembolijai koncentracija pakyla apie 10 kartų (30–40 mg/l)."
+   ]
+  },
+  {
+   "title": "Gydymo efekto sekimas",
+   "start": 1011,
+   "end": 1119,
+   "part": null,
+   "bullets": [
+    "Ir D-dimerai, ir fibrino monomerai turi mažėti, jei gydymas veiksmingas. Jei nemažėja — koreguoti dozę arba pridėti antiagregantą.",
+    "Retrombozė ištinka apie 30 % pacientų per 10 metų. Anksčiausiai ją parodo fibrino monomerai, o proceso sunkumą — aukšto specifiškumo D-dimerai."
+   ]
+  },
+  {
+   "title": "Antikoaguliantų kontrolė",
+   "start": 1119,
+   "end": 1329,
+   "part": null,
+   "bullets": [
+    "<strong>Heparinai (abu tipai):</strong> anti-Xa, terapinis intervalas 0,3–0,7 TV/ml (kinta priklausomai nuo preparato).",
+    "<strong>Varfarinas:</strong> II, VII ir X faktoriai per Owren protrombino laiką; terapinis INR 2–3 ar daugiau, jei yra indikacijų.",
+    "<strong>TGAK:</strong> terapinis intervalas 100–140 ng/ml; chirurgijai ne daugiau 50 ng/ml; neurochirurginėms ir neuroašinėms procedūroms — nulis. Naudojamas anti-Xa su konkretaus vaisto kalibratoriumi."
+   ]
+  },
+  {
+   "title": "Trombofilijos diagnostika",
+   "start": 1329,
+   "end": 1594,
+   "part": null,
+   "bullets": [
+    "Indikacijos: idiopatinės trombozės, pakaitinė hormonų terapija ar geriamieji kontraceptikai, tam tikri sindromai.",
+    "Pagrindiniai žymenys: antitrombinas III, proteinai C ir S, V faktoriaus mutacija (APC rezistencija), vilkligės antikoaguliantai ir antifosfolipidiniai antikūnai.",
+    "<strong>Svarbiausia sąlyga — stabilus, o ne situacinis stygius.</strong> Nėštumo metu proteinas S gali nukristi iki 60 % ir vėliau atsistatyti; APCR testas laikinai gali būti teigiamas.",
+    "Tirti reikia praėjus ne mažiau kaip <strong>6 mėnesiams po trombozės epizodo</strong>, ne mažiau kaip <strong>du kartus su ne trumpesne kaip 12 savaičių pertrauka</strong>, ir pacientas tuo metu neturi vartoti geriamųjų antikoaguliantų.",
+    "Kam to reikia: apsaugoti giminaičius, kurių šeimoje buvo idiopatinių tromboembolijų (ypač svarbu nėštumo atveju), ir nuspręsti dėl antikoaguliacijos režimo bei trukmės. Trombofilinis fonas reikalauja intensyvesnės terapijos, o kartu didina perdozavimo riziką."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Tyrimų apimtį lemia rizikos grupė; mažos rizikos pacientui pakanka bazinių rodmenų.",
+  "Priešoperacinės ribos: aPTT iki 60 s, INR iki 1,3, fibrinogenas ne mažiau 1,8 g/l, TGAK mažiau 50 ng/ml.",
+  "Fibrino monomerai mažiau 6 µg/ml leidžia atsisakyti pakartotinio ultragarso.",
+  "Nėščiosioms — fibrino monomerai su riba 25 mg/l.",
+  "Trombofilijos diagnozė nustatoma tik iš dviejų tyrimų su 12 savaičių pertrauka, praėjus pusmečiui po trombozės ir be antikoaguliantų."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "aPTT, kraujavimo rizika",
+    "&gt; 55 s; spontaninis kraujavimas &gt; 3 k. pailgėjus"
+   ],
+   [
+    "aPTT, operacijai",
+    "ne daugiau 60 s"
+   ],
+   [
+    "Fibrinogenas",
+    "&gt; 2 g/l; operacijai ne mažiau 1,8 g/l"
+   ],
+   [
+    "INR (Owren)",
+    "iki 1,3; neinvazinėms procedūroms iki 1,7"
+   ],
+   [
+    "Protrombino laikas",
+    "&lt; 70 % — kraujavimo rizika"
+   ],
+   [
+    "Standartizuotas kraujavimo laikas",
+    "&gt; 11 min. — sutrikusi trombocitų funkcija"
+   ],
+   [
+    "Tromboelastometrija",
+    "krešulio storis ≥ 50 mm — galima operuoti"
+   ],
+   [
+    "Fibrino monomerai",
+    "&lt; 6 µg/ml — nėra trombogenezės"
+   ],
+   [
+    "Fibrino monomerai nėštumo metu",
+    "riba 25 mg/l; trombozė 30–40 mg/l"
+   ],
+   [
+    "Anti-Xa",
+    "0,3–0,7 TV/ml"
+   ],
+   [
+    "Varfarinas",
+    "INR 2–3"
+   ],
+   [
+    "TGAK",
+    "100–140 ng/ml; operacijai &lt; 50; neurochirurgijai 0"
+   ],
+   [
+    "Trombofilijos tyrimas",
+    "2 kartai, ≥ 12 sav. pertrauka, ≥ 6 mėn. po trombozės"
+   ],
+   [
+    "Retrombozė",
+    "apie 30 % per 10 metų"
+   ]
+  ]
+ },
+ "reviewed": false
+}

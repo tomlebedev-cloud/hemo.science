@@ -1,0 +1,160 @@
+{
+ "summary": [
+  "Dvi temos: kaip diagnozuoti venų tromboemboliją nėščiajai, kai D-dimerai nebetinka, ir kada trombofilijos tyrimai turi prasmę. Pabaigoje — antifosfolipidinio sindromo gydymo schema pagal klinikinę formą."
+ ],
+ "sections": [
+  {
+   "title": "Kodėl reikia ankstyvo žymens",
+   "start": 29,
+   "end": 75,
+   "part": null,
+   "bullets": [
+    "Kai pasireiškia klinika, kraujagyslės obstrukcija jau siekia 70–80 %.",
+    "Tas pats trombinis procesas vyksta ir esant 30–40 % obstrukcijai, kai hemodinamika dar nesutrikusi. Pamatyti jį galima tik biožymenimis."
+   ]
+  },
+  {
+   "title": "Du pagrindiniai žymenys",
+   "start": 223,
+   "end": 245,
+   "part": null,
+   "bullets": [
+    "<strong>Tirpūs fibrino monomerai</strong> — prieštrombozinis, ankstyvasis žymuo.",
+    "<strong>Aukšto specifiškumo D-dimerai</strong> — potrombozinis žymuo, rodantis proceso sunkumą ir negrįžtamumą."
+   ]
+  },
+  {
+   "title": "Kodėl nėštumo metu D-dimerai netinka",
+   "start": 272,
+   "end": 392,
+   "part": null,
+   "bullets": [
+    "Įprastai neigiamas D-dimerų atsakas 100 % atmeta venų tromboemboliją, o teigiamas dar nieko neįrodo.",
+    "Nėštumo metu D-dimerai cirkuliuoja nuolat nuo pirmojo trimestro, todėl atmetimo principas negalioja.",
+    "Standartiniuose algoritmuose nėščiosioms lieka tik instrumentinė diagnostika, kurią atlikti dažnai sudėtinga."
+   ]
+  },
+  {
+   "title": "Fibrino monomerai nėštumo metu",
+   "start": 392,
+   "end": 507,
+   "part": null,
+   "bullets": [
+    "Nėštumas fibrino monomerų koncentracijos nekeičia.",
+    "Norma apie 4 µg/ml; esant venų tromboembolijai koncentracija dažnai padidėja apie 10 kartų, iki maždaug 40 µg/ml.",
+    "Riba, nuo kurios atsiranda pagrindas svarstyti tromboprofilaktiką — apie <strong>25 µg/ml (mg/l)</strong>.",
+    "Fibrino monomerai nėštumo metu naudingi ir DIK diagnostikai: pagal ISTH skalę jų klinikinė vertė čia net didesnė nei D-dimerų.",
+    "Kai fibrino monomerų nėra, santykinai galima teigti, kad nėra ir venų tromboembolijos, tačiau pacientę reikia stebėti toliau."
+   ]
+  },
+  {
+   "title": "Kada trombofilijos tyrimai turi prasmę",
+   "start": 604,
+   "end": 662,
+   "part": null,
+   "bullets": [
+    "Kai sprendžiama dėl gydymo užbaigimo arba intensyvinimo.",
+    "Kai vertinama šeiminė anamnezė ir rizika būsimo nėštumo metu.",
+    "Priėmimo kambaryje atliekami 10–15 trombofilijos testų klinikinių veiksmų nekeičia, o kainuoja brangiai.",
+    "Kitos priežastys, kodėl skriningas nepagrįstas: trombofilija toli gražu ne visada pasireiškia kliniškai, simptominių nešiotojų nedaug, o trumpalaikė tromboprofilaktika daugeliu atvejų vis tiek skiriama automatiškai ir riziką amortizuoja."
+   ]
+  },
+  {
+   "title": "Nėštumo paradoksai trombofilijos diagnostikoje",
+   "start": 746,
+   "end": 848,
+   "part": null,
+   "bullets": [
+    "<strong>Proteinas S</strong> nėštumo metu sumažėja fiziologiškai (daugiau kaip 60 % atvejų) — tai nėra tikra trombofilija, nes po nėštumo atsistato.",
+    "Tikrą proteino S stygių galima nustatyti tik ne nėštumo metu, nevartojant hormoninių preparatų ir ne pogimdyviniu laikotarpiu.",
+    "<strong>APC rezistencija</strong> (V faktoriaus Leideno mutacijos testas) paskutiniais trimestrais taip pat gali būti laikinai teigiama.",
+    "Todėl trombofilijos diagnostika atliekama specializuotuose centruose, kur kaupiama patirtis ir valdoma metodika; tai ne skubus tyrimas."
+   ]
+  },
+  {
+   "title": "Antifosfolipidinis sindromas",
+   "start": 1072,
+   "end": 1191,
+   "part": null,
+   "bullets": [
+    "Tai ne faktorių mutacija, o antikūnų atsiradimas; sukelia ir venų, ir arterijų trombozes.",
+    "Diagnozei būtini <strong>du teigiami tyrimai ne trumpesniu kaip 12 savaičių intervalu ir be antikoaguliacijos</strong>.",
+    "Tyrimų spektras: vilkligės antikoaguliantai, antikardiolipininiai antikūnai, anti-beta-2 glikoproteinas.",
+    "Patogenezė kompleksinė: placentos kraujagyslių trombogenezė, uždegiminė kraujagyslių pažaida ir trofoblastų pažeidimas."
+   ]
+  },
+  {
+   "title": "Gydymo schema pagal klinikinę formą",
+   "start": 1247,
+   "end": 1366,
+   "part": null,
+   "bullets": [
+    "Teigiami antikūnai, sveika pirmą kartą nėščia moteris — mažos aspirino dozės.",
+    "Teigiami antikūnai ir anksčiau buvę sėkmingi nėštumai — arba nieko, arba mažos aspirino dozės.",
+    "Antifosfolipidinis sindromas su pasikartojančiais nėštumo praradimais ar vaisiaus žūtimi — mažos molekulinės masės heparinas profilaktine arba nedidele terapine doze.",
+    "Anamnezėje venų ir arterijų trombozės — terapinis režimas viso nėštumo metu.",
+    "Pasikartojančios trombozės — terapinė mažos molekulinės masės heparino dozė nuo šeštos nėštumo savaitės.",
+    "Sprendimas nelengvas, nes kyla hemoraginių komplikacijų rizika, tačiau alternatyvos nėra."
+   ]
+  },
+  {
+   "title": "Kodėl heparinas kartu su aspirinu",
+   "start": 967,
+   "end": 1048,
+   "part": null,
+   "bullets": [
+    "Venų tromboembolija yra ir krešėjimo, ir trombocitų problema: heparinas slopina faktorius, aspirinas — agregacinį komponentą.",
+    "Svarbi sąlyga: iki 30 % pacientų yra atsparūs aspirinui, todėl reikia įsitikinti, kad jis veikia."
+   ]
+  }
+ ],
+ "takeaways": [
+  "Nėščiajai D-dimerai netinka įtarimui atmesti — naudoti fibrino monomerus.",
+  "Fibrino monomerų riba, nuo kurios svarstoma tromboprofilaktika, yra apie 25 µg/ml.",
+  "Trombofilijos tyrimai daromi tik pagal indikaciją, ne priėmimo kambaryje.",
+  "Proteino S stygių ir Leideno mutaciją vertinti tik ne nėštumo metu.",
+  "Antifosfolipidinio sindromo diagnozei reikia dviejų tyrimų su 12 savaičių pertrauka be antikoaguliacijos.",
+  "Skiriant aspiriną nėščiajai įsitikinti, kad jis veikia."
+ ],
+ "table": {
+  "head": [
+   "Rodmuo",
+   "Reikšmė"
+  ],
+  "rows": [
+   [
+    "Fibrino monomerai, norma",
+    "apie 4 µg/ml"
+   ],
+   [
+    "Fibrino monomerai, VTE nėštumo metu",
+    "apie 40 µg/ml (10 k. padidėjimas)"
+   ],
+   [
+    "Fibrino monomerai, profilaktikos riba",
+    "apie 25 µg/ml"
+   ],
+   [
+    "D-dimerai nėštumo metu",
+    "cirkuliuoja nuolat, netinka"
+   ],
+   [
+    "Antifosfolipidinio sindromo diagnozė",
+    "2 tyrimai, ≥ 12 sav. intervalu, be antikoaguliacijos"
+   ],
+   [
+    "Atsparumas aspirinui",
+    "iki 30 %"
+   ],
+   [
+    "VTE recidyvas",
+    "iki 30 % per 10 metų"
+   ],
+   [
+    "Klinikinė manifestacija",
+    "obstrukcija 70–80 %"
+   ]
+  ]
+ },
+ "reviewed": false
+}
