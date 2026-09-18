@@ -27,8 +27,6 @@ Todėl fibrino monomerai pakyla anksčiau, o geriausia informacija gaunama sekan
 | Nėštumas: trombozė | apie 30–40 µg/ml (iki 60) | [[12@6:32]] [[19]] |
 | Priešoperacinė trombozės rizika | daugiau 30 µg/ml | [[15@15:16]] |
 | DIK: aktyvacija | 30–50 µg/ml | [[20@30:06]] |
-| Aktyvi trombogenezė (gairių laboratorinė dalis) | daugiau 6000 µg/l (6 µg/ml) | [[22@3:33:21]] |
-| Po operacijos — labai didelė tromboembolijų rizika | daugiau 40 000 µg/l (40 µg/ml) | [[22@3:33:21]] |
 
 ## Nėštumas: kodėl ne D-dimerai
 
@@ -45,8 +43,6 @@ Todėl fibrino monomerai pakyla anksčiau, o geriausia informacija gaunama sekan
 
 ## Gydymo sekimas ir DIK
 
-- Mažos fibrino monomerų vertės kartu su normaliais ar reikšmingai mažėjančiais D-dimerais rodo trombozės regresiją [[22@3:33:21]].
-- Fibrino ir fibrinogeno degradacijos produktai ankstyvai trombogenezei vertinti netinka — fibrino monomerai gerokai informatyvesni [[22@4:51:11]].
 - Fibrino monomerai padeda anksti pastebėti gydymo nesėkmę ar retrombozę, nelaukiant klinikos ar pakartotinės vizualizacijos [[16@13:43]] [[11]].
 - Akušerinį DIK galima nustatyti dar prieš kraujavimą pagal fibrino monomerų dinamiką [[19@24:55]] [[26@7:30]].
 - Jei fibrino monomerai auga greičiau nei D-dimerai, tai blogas ženklas — trombozinis procesas vyrauja prieš fibrinolizę [[26]].

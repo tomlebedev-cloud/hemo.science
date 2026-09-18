@@ -23,10 +23,6 @@ Matuojamas **liekamasis trombocitų reaktyvumas** — kiek trombocitų lieka neu
 | Aspirinas | ARU | mažiau 550 — veikia; daugiau 550 — neveikia | [[8]] [[10@19:50]] [[23@27:35]] |
 | Aspirinas | ARU | mažiau 450 — per stiprus poveikis, kraujavimo pavojus | [[23@27:35]] |
 | Klopidogrelis, tikagreloras | PRU | terapinis langas apie 85–230; daugiau — atsparumas, mažiau — kraujavimo rizika | [[10@19:50]] [[23@27:35]] |
-| Aspirinas | Multiplate | efektyvumo riba 30 | [[22@3:30:02]] |
-| Klopidogrelis gydymo metu (RVUL algoritmas) | PRU | ≤ 95 per stiprus; 95–208 tikslinis; > 208 per silpnas | [[22@4:46:37]] |
-| Klopidogrelis prieš operaciją (RVUL algoritmas) | PRU | > 230 — galima operuoti | [[22@4:46:37]] |
-| Aspirinas prieš operaciją (RVUL algoritmas) | ARU | < 550 — atidėti; ≥ 550 — galima operuoti | [[22@4:46:37]] |
 | Trombocitų funkcija prieš operaciją | agregacijos slopinimas | daugiau 50 % — neoperuoti | [[28@19:22]] |
 
 > PRU intervalas skirtinguose pranešimuose nurodytas šiek tiek skirtingai: 85–282, 86–230, 85–230, 90–240 ir 98–230. Taikyti laboratorijos ir tyrimo gamintojo nurodytą intervalą.
@@ -48,7 +44,5 @@ Geriau silpnesnis antiagregantas, kuris patikrintai veikia, nei stipresnis nepat
 - **Cukrinis diabetas.** Šie pacientai prioritetiniai testuoti dėl dažnesnio atsparumo [[10@13:12]].
 
 ## Kaip dažnai tikrinti
-
-Nacionalinėse gairėse: po vieną tyrimą kiekvienam antiagregantui paskyrus gydymą, po 6 mėnesių, prieš didelės apimties operacijas ir skubiose chirurginėse situacijose. GP IIb/IIIa inhibitoriams ir cilostazoliui rekomendacijų nėra [[22@3:30:02]].
 
 Klopidogrelio veiksmingumui ambulatoriškai pakanka vieno tyrimo; aspirino veiksmingumą verta tikrinti kartą per metus [[33]]. Nutraukiant antiagregantą iš anksto numatyti grįžimo schemą [[10@7:13]].

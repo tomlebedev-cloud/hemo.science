@@ -51,7 +51,7 @@
    "part": null,
    "bullets": [
     "Iki 65 metų: 500 ng/ml atmeta giliųjų venų trombozę ir plaučių arterijos tromboemboliją esant mažai ar vidutinei klinikinei tikimybei.",
-    "Vyresniems riba didinama pagal amžių (ISTH algoritmas). Konkretūs skaičiai įraše neaiškūs; nacionalinių gairių laboratorinėje dalyje nurodyta taisyklė — vyresniems nei 50 metų riba lygi amžiui × 10 (µg/l FEU)."
+    "Vyresniems riba didinama pagal amžių (ISTH algoritmas). Konkretūs skaičiai įraše nuskambėjo neaiškiai."
    ]
   },
   {
@@ -121,7 +121,7 @@
   }
  ],
  "takeaways": [
-  "Vyresniems pacientams taikyti amžiui pritaikytą D-dimerų atmetimo ribą (gairėse — amžius × 10 nuo 50 metų).",
+  "Vyresniems pacientams taikyti amžiui pritaikytą D-dimerų atmetimo ribą.",
   "Padidėję aukšto specifiškumo D-dimerai vyresniam žmogui — keturgubai didesnės mirties ar funkcinės priklausomybės rizikos signalas.",
   "Profilaktinio antitrombozinio gydymo neskirti vien dėl žymens ar mutacijos be klinikinės priežasties.",
   "Vyresniems pacientams ypač atidžiai vertinti TGAK sąveikas.",
@@ -139,7 +139,7 @@
    ],
    [
     "D-dimerai, vyresniems",
-    "amžiui pritaikyta riba (gairėse — amžius × 10 nuo 50 m.)"
+    "amžiui pritaikyta riba (skaičius sutikslinti)"
    ],
    [
     "Aukštų D-dimerų prognozė vyresniems",

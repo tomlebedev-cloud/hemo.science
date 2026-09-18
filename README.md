@@ -18,6 +18,8 @@ Statinis puslapis (HTML, CSS, JS be priklausomybių), talpinamas GitHub Pages.
 - `tools/build_data.py` – JSON generavimas iš Excel sąrašo (lapas „Puslapiui“)
 - `tools/build_konspektai.py` – konspektai iš `konspektavimas/*/konspektas.md`
 - `tools/build_gidai.py` – gidai iš `gidai/*.md`
+- `data/paieska.json` – konspektų tekstų paieškos indeksas (kuria `build_konspektai.py`)
+- `tools/perziuros_dokumentas.py` – Word dokumentas autoriui peržiūrėti (`perziura/`, nekeliama)
 
 ## Sąrašo atnaujinimas
 

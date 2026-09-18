@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / 'konspektavimas'
 OUT = ROOT / 'data' / 'konspektai'
 LIST = ROOT / 'data' / 'pranesimai.json'
+SEARCH = ROOT / 'data' / 'paieska.json'
 
 SKIP_SECTIONS = {'Ką dar pasitikrinti', 'Šaltiniai šiame aplanke'}
 GROUP_RE = re.compile(r'^\*\*(.+?)\*\*\s*(?:\[([\d:]+)(?:[–-]([\d:]+))?\])?\s*$')
@@ -150,6 +151,22 @@ def main():
     for old in OUT.glob('*.json'):
         if int(old.stem) not in done:
             old.unlink()
+
+    # paieškos indeksas pradžios puslapiui: {nr: [[dalies pavadinimas, pradžia, tekstas, inkaras], ...]}
+    tag = re.compile(r'<[^>]+>')
+    index = {}
+    for nr in sorted(done):
+        d = json.loads((OUT / f'{nr}.json').read_text(encoding='utf-8'))
+        rows = [['Apie ką pranešimas', None, tag.sub('', ' '.join(d['summary'])), '']]
+        rows += [[tag.sub('', s['title']), s['start'], tag.sub('', ' '.join(s['bullets'])), f'd{i + 1}']
+                 for i, s in enumerate(d['sections'])]
+        rows += [['Praktinės išvados', None, tag.sub('', ' '.join(d['takeaways'])), 'isvados']]
+        if d['table']:
+            rows += [['Rodmenys ir ribos', None,
+                      tag.sub('', ' · '.join(' '.join(r) for r in d['table']['rows'])), 'ribos']]
+        index[nr] = [r for r in rows if r[2]]
+    SEARCH.write_text(json.dumps(index, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+    print(f'Paieškos indeksas → {SEARCH.relative_to(ROOT)} ({SEARCH.stat().st_size // 1024} KB)')
 
     items = json.loads(LIST.read_text(encoding='utf-8'))
     for it in items:

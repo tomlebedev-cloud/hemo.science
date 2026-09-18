@@ -27,17 +27,14 @@ Varfarino poveikis kontroliuojamas **tik Owren metodo protrombino laiku**. Taip 
 
 - Gavus tinkamą INR, jį pakartoti po 24 valandų, vėliau po savaitės — tik taip patvirtinamas dozės stabilumas [[14@26:44]].
 - Stabilizavus galima tikrinti kas 4–6 savaites [[14@26:44]].
-- Nacionalinėse gairėse: tirti pradinę reikšmę, trečią ir penktą gydymo dieną. Kliniškai reikšmingas INR pokytis pagal biologinę variaciją — 7,1–8,7 %; jei skirtumas tarp dviejų matavimų mažesnis, INR laikomas stabiliu [[22@3:21:58]].
-- Owren metodas mažiau jautrus preanalitiniams veiksniams nei Quick [[34@4:13:02]].
 
 ## Ribos
 
 | Situacija | INR (Owren) | Šaltinis |
 |---|---|---|
-| Terapinis intervalas | 2–3 (didesnio intensyvumo iki 3,5–4,5) | [[17@18:39]] [[22@3:21:58]] |
+| Terapinis intervalas | 2–3 | [[17@18:39]] |
 | Operacija | mažiau 1,3 | [[3@31:47]] [[16@19:40]] [[28@13:30]] |
 | Neinvazinė procedūra, pvz., kolonoskopija | mažiau 1,7 | [[3@31:47]] [[17@10:22]] [[28@13:30]] |
 | Labai didelės rizikos grupė — atidėti operaciją | daugiau 1,3 | [[13@27:38]] |
-| Planinė kardiochirurginė operacija (gairės) | ne daugiau 1,5 | [[22@4:07:17]] |
 
 Protrombino laikas procentais taip pat rodo kepenų sintezės rezervą: mažiau 70 % — nepakankamumas ir kraujavimo rizika, mažiau 25 % — kepenų krizė [[4]] [[5]] [[17]].

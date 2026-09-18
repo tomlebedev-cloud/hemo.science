@@ -11,7 +11,36 @@
     playerMeta: $('player-meta'), playerClose: $('player-close'),
   };
 
-  const state = { items: [], category: '', q: '', lang: '', onlyVideo: false };
+  const state = { items: [], category: '', q: '', lang: '', onlyVideo: false, index: null, hits: new Map() };
+  let indexLoading = null;
+
+  /* Konspektų tekstų indeksas įkeliamas tik pradėjus ieškoti */
+  function loadIndex() {
+    if (!indexLoading) {
+      indexLoading = getJSON('data/paieska.json').then((raw) => {
+        state.index = new Map(Object.entries(raw).map(([nr, rows]) => [Number(nr), rows.map(([title, start, text, anchor]) => (
+          { title, start, text, anchor, n: norm(`${title} ${text}`) }))]));
+        update();
+      }).catch(() => { state.index = new Map(); });
+    }
+    return indexLoading;
+  }
+
+  // paprastas kamienas: ilgesniems žodžiams nukerpama galūnė, kad rastų ir kitus linksnius
+  const stem = (w) => (w.length > 5 ? w.slice(0, -2) : w);
+  const queryWords = () => norm(state.q.trim()).split(/\s+/).filter(Boolean).map(stem);
+
+  function snippet(text, word) {
+    const i = norm(text).indexOf(word);
+    if (i < 0) return document.createTextNode(text.slice(0, 110) + (text.length > 110 ? '…' : ''));
+    const from = Math.max(0, i - 45);
+    const to = Math.min(text.length, i + word.length + 65);
+    return el('span', {}, [
+      document.createTextNode((from ? '…' : '') + text.slice(from, i)),
+      el('mark', { text: text.slice(i, i + word.length) }),
+      document.createTextNode(text.slice(i + word.length, to) + (to < text.length ? '…' : '')),
+    ]);
+  }
 
   const pageUrl = (item) => `pranesimas.html?nr=${item.id}`;
 
@@ -46,19 +75,42 @@
       item.konspektas ? el('a', { class: 'badge', href: pageUrl(item), text: 'Konspektas' }) : null,
     ]);
 
+    const hits = state.hits.get(item.id);
+    const words = queryWords();
+    const found = hits && hits.length ? el('ul', { class: 'hits', 'aria-label': 'Rasta konspekte' }, hits.map((h) => {
+      const t = h.start !== null && item.youtube ? `&t=${h.start}` : '';
+      return el('li', {}, el('a', { href: `${pageUrl(item)}${t}${h.anchor ? `#${h.anchor}` : ''}` }, [
+        el('span', { class: 'hit-title' }, [
+          h.start !== null ? el('span', { class: 'hit-time', text: fmtClock(h.start) }) : null,
+          document.createTextNode(h.title),
+        ]),
+        el('span', { class: 'hit-text' }, snippet(h.text, words.find((w) => norm(h.text).includes(w)) || words[0])),
+      ]));
+    })) : null;
+
     return el('article', { class: 'card' }, [
       media,
-      el('div', { class: 'card-body' }, [el('span', { class: 'card-cat', text: item.category }), title, meta]),
+      el('div', { class: 'card-body' }, [el('span', { class: 'card-cat', text: item.category }), title, meta, found]),
     ]);
   }
 
   function filtered() {
-    const q = norm(state.q.trim());
-    return state.items.filter((it) =>
-      (!state.category || it.category === state.category) &&
-      (!state.lang || it.lang === state.lang) &&
-      (!state.onlyVideo || it.youtube) &&
-      (!q || norm(`${it.title} ${it.category} ${it.year || ''}`).includes(q)));
+    const words = queryWords();
+    state.hits = new Map();
+    return state.items.filter((it) => {
+      if ((state.category && it.category !== state.category) || (state.lang && it.lang !== state.lang) ||
+          (state.onlyVideo && !it.youtube)) return false;
+      if (!words.length) return true;
+      const meta = norm(`${it.title} ${it.category} ${it.year || ''}`);
+      const rows = (state.index && state.index.get(it.id)) || [];
+      const all = `${meta} ${rows.map((r) => r.n).join(' ')}`;
+      if (!words.every((w) => all.includes(w))) return false;
+      // konspekto dalys, kuriose yra visi žodžiai; jei tokių nėra — kuriose yra bent vienas
+      let hits = rows.filter((r) => words.every((w) => r.n.includes(w)));
+      if (!hits.length) hits = rows.filter((r) => words.some((w) => r.n.includes(w)));
+      if (hits.length) state.hits.set(it.id, hits.slice(0, 3));
+      return true;
+    });
   }
 
   function renderChips() {
@@ -102,6 +154,7 @@
   }
 
   function update() {
+    if (state.q.trim() && !state.index) loadIndex();
     renderChips();
     render();
     const p = new URLSearchParams();
