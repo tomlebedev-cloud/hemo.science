@@ -14,7 +14,7 @@
  },
  {
   "id": 27,
-  "title": "2025 m. Nacionalinės jungtinės antitrombozinio gydymo gairės. DI kardiochirurgijoje",
+  "title": "2025 m. Nacionalinės jungtinės antitrombozinio gydymo gairės. Dirbtinis intelektas kardiochirurgijoje",
   "year": 2025,
   "date": "2025-12-08",
   "category": "Kardiologija ir antitrombozinio gydymo gairės",
@@ -40,7 +40,7 @@
  },
  {
   "id": 26,
-  "title": "Coagulopathy biomarkers and sonorheometry-based transfusion in DIC induced obstetric bleeding",
+  "title": "Coagulopathy biomarkers and sonorheometry based transfusion in DIC induced obstetric bleeding",
   "year": 2025,
   "date": "2025-11-05",
   "category": "Akušerija ir ginekologija",
@@ -53,7 +53,7 @@
  },
  {
   "id": 25,
-  "title": "Priešintervencinė antikoaguliantų liekamojo poveikio kontrolė",
+  "title": "Priešintervencinė antikoaguliantų liekamojo poveikio kontrolė. Nacionalinės jungtinės antitrombozinio gydymo gairės (2025 m.)",
   "year": 2025,
   "date": "2025-10-09",
   "category": "Antikoaguliantų terapijos kontrolė",
@@ -66,7 +66,7 @@
  },
  {
   "id": 24,
-  "title": "Trauma-induced coagulopathy (TIC): bleeding and thrombotic complications control, DIC treatment (UA: Індукована травмою коагулопатія)",
+  "title": "Індукована травмою коагулопатія (TIC): контроль кровотеч і тромботичних ускладнень, лікування ДВЗ-синдрому (Traumos sukelta koagulopatija: kraujavimų ir trombozinių komplikacijų kontrolė, DIK sindromo gydymas)",
   "year": 2025,
   "date": "2025-05-25",
   "category": "Kraujavimai, DIK ir koagulopatijos",
@@ -79,7 +79,7 @@
  },
  {
   "id": 23,
-  "title": "Širdies nepakankamumas: sST2 ir antiagregantų terapijos poveikio biožymenų diagnostinė ir klinikinė vertė kardiologijoje",
+  "title": "Laboratorinės diagnostikos aktualijos: širdies nepakankamumo (ŠN) sST2 žymens ir antiagregantų terapijos poveikio biožymenų diagnostinė ir klinikinė vertė kardiologijoje",
   "year": 2025,
   "date": "2025-05-10",
   "category": "Kardiologija ir antitrombozinio gydymo gairės",
@@ -105,7 +105,7 @@
  },
  {
   "id": 21,
-  "title": "COVID-19 krešumo sistemos pažaidos laboratorinė kontrolė intensyviojoje terapijoje: klinikinės eigos ir išeities prognozė",
+  "title": "COVID-19 trombinio tipo krešumo pažaida: diagnostikos ir gydymo laboratorinė kontrolė",
   "year": 2024,
   "date": "2024-10-02",
   "category": "COVID-19",
@@ -118,7 +118,7 @@
  },
  {
   "id": 20,
-  "title": "Diseminuota intravaskulinė koaguliacija (DIC)",
+  "title": "Дисеміноване внутрішньосудинне згортання (Diseminuota intravaskulinė koaguliacija)",
   "year": 2024,
   "date": "2024-08-29",
   "category": "Kraujavimai, DIK ir koagulopatijos",
@@ -131,7 +131,7 @@
  },
  {
   "id": 19,
-  "title": "VTE komplikacijų ankstyvoji laboratorinė biožymenų diagnostika ir gydymo kontrolė: tirpių fibrino monomerų (FM) ir D-dimerų klinikinė vertė akušerijoje-ginekologijoje",
+  "title": "VTE komplikacijų ankstyvoji laboratorinė biožymenų diagnostika ir gydymo kontrolė: tirpių fibrino monomerų (FM) ir D-dimerų (D-Di) klinikinė vertė akušerijoje-ginekologijoje",
   "year": 2024,
   "date": "2024-05-20",
   "category": "Akušerija ir ginekologija",
@@ -144,7 +144,7 @@
  },
  {
   "id": 18,
-  "title": "Naujo tipo antikoaguliantų terapijos klinikinės ir laboratorinės kontrolės galimybės",
+  "title": "Klinikinių neatitikčių prevencija gydant VTE TGAK. „Naujo tipo antikoaguliantų (novel anticoagulants) terapijos klinikinės-laboratorinės kontrolės galimybės“",
   "year": 2024,
   "date": "2024-05-06",
   "category": "Antikoaguliantų terapijos kontrolė",
@@ -170,7 +170,7 @@
  },
  {
   "id": 17,
-  "title": "Krešėjimo žymenų klinikinė reikšmė: diagnostikos ir gydymo laboratorinė kontrolė",
+  "title": "The clinical significance of coagulation factors. Krešėjimo žymenų klinikinė reikšmė. Krešėjimo sistemos diagnostikos ir gydymo laboratorinė kontrolė",
   "year": 2024,
   "date": "2024-02-25",
   "category": "Hemostazė ir krešėjimo biožymenys",
@@ -300,7 +300,7 @@
  },
  {
   "id": 12,
-  "title": "Krešėjimo sistemos sutrikimų ir biožymenų diagnostikos aktualijos klinikoje: VTE trombofilija nėštumo situacijoje",
+  "title": "Krešėjimo sistemos sutrikimų ir biožymenų diagnostikos aktualijos klinikoje: VTE ir trombofilija nėštumo situacijoje",
   "year": 2023,
   "date": "2023-04-18",
   "category": "Akušerija ir ginekologija",
@@ -313,7 +313,7 @@
  },
  {
   "id": 11,
-  "title": "Naujųjų antikoaguliantų (TGAK) terapinio efekto kontrolė ir klinikinių neatitikčių prevencija",
+  "title": "„Naujųjų antikoaguliantų“ (TGAK) terapinio efekto kontrolė ir klinikinių neatitikčių prevencija",
   "year": 2023,
   "date": "2023-01-24",
   "category": "Antikoaguliantų terapijos kontrolė",
@@ -378,7 +378,7 @@
  },
  {
   "id": 8,
-  "title": "Arterinės trombozės ir re-trombozės",
+  "title": "Antitrombocitinės terapijos valdymas: klinikinė-laboratorinė terapinio efekto kontrolė",
   "year": 2022,
   "date": "2022-01-14",
   "category": "Arterinės trombozės ir antiagregantai",
@@ -443,7 +443,7 @@
  },
  {
   "id": 6,
-  "title": "COVID-19 induced thrombosis",
+  "title": "Thrombotic disorders and COVID-19 infection",
   "year": 2021,
   "date": "2021-03-16",
   "category": "COVID-19",
@@ -469,7 +469,7 @@
  },
  {
   "id": 2,
-  "title": "COVID-19 klinikinės eigos prognozės įrankis: aukšto specifiškumo D-dimer taikymas klinikoje",
+  "title": "COVID-19 klinikinės eigos prognozės įrankis: aukšto specifiškumo D-dimer tyrimo taikymas klinikoje",
   "year": 2021,
   "date": "2021-02-12",
   "category": "COVID-19",
